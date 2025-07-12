@@ -8,7 +8,7 @@ const {
 const { join } = require('path')
 
 /**
- * 모든 재무상태표 JSON 파일들을 하나로 통합하는 스크립트
+ * 모든 재무제표 JSON 파일들을 하나로 통합하는 스크립트
  */
 async function buildFinancialDatabase() {
   console.log('🔄 재무데이터베이스 구축 시작...')
@@ -16,27 +16,48 @@ async function buildFinancialDatabase() {
   const processedDir = '../data/processed/'
   const outputFile = '../data/financial-database.json'
 
-  // JSON 파일들 찾기
-  const files = readdirSync(processedDir).filter(
-    (file) =>
-      file.endsWith('.json') &&
-      file.includes('재무상태표') &&
-      !file.includes('aj-networks-data') // 기존 파일 제외
-  )
+  // 모든 재무제표 폴더 처리
+  const statementTypes = [
+    '재무상태표',
+    '손익계산서',
+    '현금흐름표',
+    '자본변동표',
+  ]
+  const allFiles = []
 
-  console.log(`📁 발견된 JSON 파일: ${files.length}개`)
-  files.forEach((file) => console.log(`  - ${file}`))
+  // 각 재무제표 폴더에서 JSON 파일들 수집
+  for (const statementType of statementTypes) {
+    const statementDir = join(processedDir, statementType)
+    try {
+      const files = readdirSync(statementDir).filter(
+        (file) => file.endsWith('.json') && !file.includes('aj-networks-data') // 기존 파일 제외
+      )
+
+      files.forEach((file) => {
+        allFiles.push({
+          path: join(statementDir, file),
+          name: file,
+          type: statementType,
+        })
+      })
+
+      console.log(`📁 ${statementType}: ${files.length}개 파일`)
+    } catch (err) {
+      console.log(`⚠️  ${statementType} 폴더를 찾을 수 없음: ${err.message}`)
+    }
+  }
+
+  console.log(`📁 총 발견된 JSON 파일: ${allFiles.length}개`)
 
   const companyDatabase = {}
   let totalCompanies = 0
   let processedFiles = 0
 
   // 각 JSON 파일 처리
-  for (const file of files) {
+  for (const fileInfo of allFiles) {
     try {
-      console.log(`\n📖 처리 중: ${file}`)
-      const filePath = join(processedDir, file)
-      const content = readFileSync(filePath, 'utf8')
+      console.log(`\n📖 처리 중: ${fileInfo.type}/${fileInfo.name}`)
+      const content = readFileSync(fileInfo.path, 'utf8')
       const data = JSON.parse(content)
 
       if (data.companies && Array.isArray(data.companies)) {
@@ -59,23 +80,30 @@ async function buildFinancialDatabase() {
                   보고서종류: company.보고서종류,
                   통화: company.통화,
                 },
-                financialData: [],
+                financialStatements: {
+                  재무상태표: [],
+                  손익계산서: [],
+                  현금흐름표: [],
+                  자본변동표: [],
+                },
                 rawData: [], // 원본 데이터 보존
               }
               fileCompanyCount++
             }
 
-            // 재무데이터 추가 (중복 제거)
+            // 재무제표 종류별로 데이터 분류
             if (company.재무데이터 && Array.isArray(company.재무데이터)) {
               const existingCodes = new Set(
-                companyDatabase[companyName].financialData.map(
-                  (item) => item.항목코드
-                )
+                companyDatabase[companyName].financialStatements[
+                  fileInfo.type
+                ].map((item) => item.항목코드)
               )
 
               company.재무데이터.forEach((item) => {
                 if (!existingCodes.has(item.항목코드)) {
-                  companyDatabase[companyName].financialData.push(item)
+                  companyDatabase[companyName].financialStatements[
+                    fileInfo.type
+                  ].push(item)
                   existingCodes.add(item.항목코드)
                 }
               })
@@ -83,7 +111,8 @@ async function buildFinancialDatabase() {
 
             // 원본 데이터도 저장 (디버깅용)
             companyDatabase[companyName].rawData.push({
-              source: file,
+              source: fileInfo.name,
+              type: fileInfo.type,
               data: company,
             })
           }
@@ -96,23 +125,33 @@ async function buildFinancialDatabase() {
         console.log(`  ⚠️  잘못된 형식: companies 배열이 없음`)
       }
     } catch (error) {
-      console.error(`  ❌ 오류 발생 (${file}):`, error.message)
+      console.error(`  ❌ 오류 발생 (${fileInfo.name}):`, error.message)
     }
   }
 
   console.log(`\n📊 통계:`)
-  console.log(`  - 처리된 파일: ${processedFiles}/${files.length}`)
+  console.log(`  - 처리된 파일: ${processedFiles}/${allFiles.length}`)
   console.log(`  - 총 회사 수: ${Object.keys(companyDatabase).length}`)
   console.log(`  - 총 데이터 항목: ${totalCompanies}`)
 
-  // 회사별 재무데이터 항목 수 체크
+  // 회사별 재무제표 항목 수 체크
   console.log(`\n🏢 회사별 데이터 현황 (상위 10개):`)
   const sortedCompanies = Object.entries(companyDatabase)
-    .sort((a, b) => b[1].financialData.length - a[1].financialData.length)
+    .map(([name, data]) => {
+      const totalItems =
+        data.financialStatements.재무상태표.length +
+        data.financialStatements.손익계산서.length +
+        data.financialStatements.현금흐름표.length +
+        data.financialStatements.자본변동표.length
+      return [name, totalItems, data.financialStatements]
+    })
+    .sort((a, b) => b[1] - a[1])
     .slice(0, 10)
 
-  sortedCompanies.forEach(([name, data]) => {
-    console.log(`  ${name}: ${data.financialData.length}개 항목`)
+  sortedCompanies.forEach(([name, totalItems, statements]) => {
+    console.log(
+      `  ${name}: ${totalItems}개 항목 (재무상태표:${statements.재무상태표.length}, 손익계산서:${statements.손익계산서.length}, 현금흐름표:${statements.현금흐름표.length}, 자본변동표:${statements.자본변동표.length})`
+    )
   })
 
   // 검색 인덱스 생성
@@ -158,6 +197,7 @@ async function buildFinancialDatabase() {
         totalFiles: processedFiles,
         industries: Object.keys(searchIndex.industryMap).length,
         markets: Object.keys(searchIndex.marketMap).length,
+        statementTypes: statementTypes,
       },
       companies: companyDatabase,
       searchIndex,

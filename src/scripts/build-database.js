@@ -7,11 +7,88 @@ const {
 } = require('fs')
 const { join } = require('path')
 
+// 항목명 매핑 테이블 (필요한 18개 항목만 추출)
+const ITEM_MAPPING = {
+  매출액: ['매출액', '매출', '수익(매출액)', '영업수익'],
+  영업이익: ['영업이익', '영업이익(손실)'],
+  당기순이익: ['당기순이익', '당기순이익(손실)', '분기순이익'],
+  자산총계: ['자산총계'],
+  유동자산: ['유동자산'],
+  비유동자산: ['비유동자산'],
+  부채총계: ['부채총계'],
+  유동부채: ['유동부채'],
+  비유동부채: ['비유동부채'],
+  자본총계: ['자본총계', '자기자본'],
+  현금및현금성자산: ['현금및현금성자산', '현금 및 현금성자산'],
+  매출채권: ['매출채권', '매출채권 및 기타채권'],
+  재고자산: ['재고자산', '재고'],
+  단기차입금: ['단기차입금'],
+  장기차입금: ['장기차입금'],
+}
+
 /**
- * 모든 재무제표 JSON 파일들을 하나로 통합하는 스크립트
+ * 회사 재무데이터에서 필요한 항목만 추출
+ */
+function extractEssentialFinancialData(company) {
+  const result = {
+    // 손익계산서 항목 (3개)
+    매출액: null,
+    영업이익: null,
+    당기순이익: null,
+    // 재무상태표 항목 (12개)
+    자산총계: null,
+    유동자산: null,
+    비유동자산: null,
+    부채총계: null,
+    유동부채: null,
+    비유동부채: null,
+    자본총계: null,
+    현금및현금성자산: null,
+    매출채권: null,
+    재고자산: null,
+    단기차입금: null,
+    장기차입금: null,
+    // 전년 동기 데이터 (성장률 계산용, 3개)
+    전년매출액: null,
+    전년영업이익: null,
+    전년당기순이익: null,
+  }
+
+  if (company.재무데이터 && Array.isArray(company.재무데이터)) {
+    company.재무데이터.forEach((item) => {
+      const currentValue = item['당기 1분기말']
+      const previousValue = item['전기말']
+
+      Object.entries(ITEM_MAPPING).forEach(([key, searchTerms]) => {
+        searchTerms.forEach((term) => {
+          if (item.항목명.includes(term) && currentValue !== null) {
+            if (result[key] === null) {
+              result[key] = currentValue
+
+              // 전년 동기 데이터도 저장
+              if (key === '매출액' && previousValue !== null) {
+                result.전년매출액 = previousValue
+              } else if (key === '영업이익' && previousValue !== null) {
+                result.전년영업이익 = previousValue
+              } else if (key === '당기순이익' && previousValue !== null) {
+                result.전년당기순이익 = previousValue
+              }
+            }
+          }
+        })
+      })
+    })
+  }
+
+  return result
+}
+
+/**
+ * 모든 재무제표 JSON 파일들을 하나로 통합하는 스크립트 (최적화된 버전)
+ * 처음부터 필요한 18개 항목만 추출하여 저장
  */
 async function buildFinancialDatabase() {
-  console.log('🔄 재무데이터베이스 구축 시작...')
+  console.log('🔄 최적화된 재무데이터베이스 구축 시작...')
 
   const processedDir = '../data/processed/'
   const outputFile = '../data/financial-database.json'
@@ -80,40 +157,40 @@ async function buildFinancialDatabase() {
                   보고서종류: company.보고서종류,
                   통화: company.통화,
                 },
-                financialStatements: {
-                  재무상태표: [],
-                  손익계산서: [],
-                  현금흐름표: [],
-                  자본변동표: [],
+                financialData: {
+                  // 필수 18개 항목 초기화
+                  매출액: null,
+                  영업이익: null,
+                  당기순이익: null,
+                  자산총계: null,
+                  유동자산: null,
+                  비유동자산: null,
+                  부채총계: null,
+                  유동부채: null,
+                  비유동부채: null,
+                  자본총계: null,
+                  현금및현금성자산: null,
+                  매출채권: null,
+                  재고자산: null,
+                  단기차입금: null,
+                  장기차입금: null,
+                  전년매출액: null,
+                  전년영업이익: null,
+                  전년당기순이익: null,
                 },
-                rawData: [], // 원본 데이터 보존
               }
               fileCompanyCount++
             }
 
-            // 재무제표 종류별로 데이터 분류
-            if (company.재무데이터 && Array.isArray(company.재무데이터)) {
-              const existingCodes = new Set(
-                companyDatabase[companyName].financialStatements[
-                  fileInfo.type
-                ].map((item) => item.항목코드)
-              )
-
-              company.재무데이터.forEach((item) => {
-                if (!existingCodes.has(item.항목코드)) {
-                  companyDatabase[companyName].financialStatements[
-                    fileInfo.type
-                  ].push(item)
-                  existingCodes.add(item.항목코드)
-                }
-              })
-            }
-
-            // 원본 데이터도 저장 (디버깅용)
-            companyDatabase[companyName].rawData.push({
-              source: fileInfo.name,
-              type: fileInfo.type,
-              data: company,
+            // 필수 재무 항목만 추출하여 병합
+            const extractedData = extractEssentialFinancialData(company)
+            Object.entries(extractedData).forEach(([key, value]) => {
+              if (
+                value !== null &&
+                companyDatabase[companyName].financialData[key] === null
+              ) {
+                companyDatabase[companyName].financialData[key] = value
+              }
             })
           }
         })
@@ -134,23 +211,28 @@ async function buildFinancialDatabase() {
   console.log(`  - 총 회사 수: ${Object.keys(companyDatabase).length}`)
   console.log(`  - 총 데이터 항목: ${totalCompanies}`)
 
-  // 회사별 재무제표 항목 수 체크
+  // 회사별 재무데이터 추출 현황 체크
   console.log(`\n🏢 회사별 데이터 현황 (상위 10개):`)
   const sortedCompanies = Object.entries(companyDatabase)
     .map(([name, data]) => {
-      const totalItems =
-        data.financialStatements.재무상태표.length +
-        data.financialStatements.손익계산서.length +
-        data.financialStatements.현금흐름표.length +
-        data.financialStatements.자본변동표.length
-      return [name, totalItems, data.financialStatements]
+      const extractedCount = Object.values(data.financialData).filter(
+        (value) => value !== null
+      ).length
+      return [name, extractedCount, data.financialData]
     })
     .sort((a, b) => b[1] - a[1])
     .slice(0, 10)
 
-  sortedCompanies.forEach(([name, totalItems, statements]) => {
+  sortedCompanies.forEach(([name, extractedCount, financialData]) => {
+    const nonNullItems = Object.entries(financialData)
+      .filter(([, value]) => value !== null)
+      .map(([key, value]) => `${key}: ${value.toLocaleString()}`)
+      .slice(0, 5) // 첫 5개만 표시
+
     console.log(
-      `  ${name}: ${totalItems}개 항목 (재무상태표:${statements.재무상태표.length}, 손익계산서:${statements.손익계산서.length}, 현금흐름표:${statements.현금흐름표.length}, 자본변동표:${statements.자본변동표.length})`
+      `  ${name}: ${extractedCount}/18개 항목 추출 (${nonNullItems.join(', ')}${
+        extractedCount > 5 ? '...' : ''
+      })`
     )
   })
 
@@ -197,7 +279,9 @@ async function buildFinancialDatabase() {
         totalFiles: processedFiles,
         industries: Object.keys(searchIndex.industryMap).length,
         markets: Object.keys(searchIndex.marketMap).length,
-        statementTypes: statementTypes,
+        version: '1.0.0-optimized',
+        optimizedFor: 'financial-analysis-18-items',
+        extractedItems: Object.keys(ITEM_MAPPING).length + 3, // 15개 + 3개 전년 데이터
       },
       companies: companyDatabase,
       searchIndex,

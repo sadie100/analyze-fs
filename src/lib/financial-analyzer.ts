@@ -19,7 +19,8 @@ interface CompanyBasicInfo {
   통화: string
 }
 
-interface CompanyData {
+// 기존 방대한 DB 구조 (백워드 호환성)
+interface LegacyCompanyData {
   basicInfo: CompanyBasicInfo
   financialStatements: {
     재무상태표: FinancialItem[]
@@ -29,6 +30,15 @@ interface CompanyData {
   }
   rawData: unknown[]
 }
+
+// 최적화된 DB 구조 (새로운 구조)
+interface OptimizedCompanyData {
+  basicInfo: CompanyBasicInfo
+  financialData: ExtractedFinancialData
+}
+
+// 통합 타입 (둘 다 지원)
+type CompanyData = LegacyCompanyData | OptimizedCompanyData
 
 // 분석 결과 타입
 interface FinancialRatios {
@@ -130,16 +140,23 @@ const EVALUATION_THRESHOLDS = {
 
 /**
  * 재무데이터에서 주요 항목들을 추출
+ * 최적화된 DB와 기존 DB 모두 지원
  */
 function extractFinancialData(
   companyData: CompanyData
 ): ExtractedFinancialData {
-  // 모든 재무제표 종류의 데이터를 합침
+  // 최적화된 DB 구조인 경우 이미 추출된 데이터 반환
+  if ('financialData' in companyData) {
+    return companyData.financialData
+  }
+
+  // 기존 방대한 DB 구조인 경우 추출 로직 실행
+  const legacyData = companyData as LegacyCompanyData
   const allData = [
-    ...companyData.financialStatements.재무상태표,
-    ...companyData.financialStatements.손익계산서,
-    ...companyData.financialStatements.현금흐름표,
-    ...companyData.financialStatements.자본변동표,
+    ...legacyData.financialStatements.재무상태표,
+    ...legacyData.financialStatements.손익계산서,
+    ...legacyData.financialStatements.현금흐름표,
+    ...legacyData.financialStatements.자본변동표,
   ]
 
   const result: ExtractedFinancialData = {

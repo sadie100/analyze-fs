@@ -21,7 +21,12 @@ interface CompanyBasicInfo {
 
 interface CompanyData {
   basicInfo: CompanyBasicInfo
-  financialData: FinancialItem[]
+  financialStatements: {
+    재무상태표: FinancialItem[]
+    손익계산서: FinancialItem[]
+    현금흐름표: FinancialItem[]
+    자본변동표: FinancialItem[]
+  }
   rawData: unknown[]
 }
 
@@ -129,7 +134,14 @@ const EVALUATION_THRESHOLDS = {
 function extractFinancialData(
   companyData: CompanyData
 ): ExtractedFinancialData {
-  const data = companyData.financialData
+  // 모든 재무제표 종류의 데이터를 합침
+  const allData = [
+    ...companyData.financialStatements.재무상태표,
+    ...companyData.financialStatements.손익계산서,
+    ...companyData.financialStatements.현금흐름표,
+    ...companyData.financialStatements.자본변동표,
+  ]
+
   const result: ExtractedFinancialData = {
     매출액: null,
     영업이익: null,
@@ -171,7 +183,7 @@ function extractFinancialData(
   }
 
   // 데이터 매핑
-  data.forEach((item) => {
+  allData.forEach((item) => {
     const currentValue = item['당기 1분기말']
     const previousValue = item['전기말']
 

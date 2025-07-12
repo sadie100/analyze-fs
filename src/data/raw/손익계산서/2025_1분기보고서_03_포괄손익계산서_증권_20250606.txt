@@ -1,0 +1,936 @@
+재무제표종류	종목코드	회사명	시장구분	업종	업종명	결산월	결산기준일	보고서종류	통화	항목코드	항목명	당기 1분기말	전기말	전전기말	
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstruments	      금융상품관련순손익	2,001,626,780		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstruments	         금융상품관련수익	257,255,714,527		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstruments	         금융상품관련비용	-255,254,087,747		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	3,837,407,492		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	2,054,454,304		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00251400_GainLossFromLoansOfStatementOfComprehensiveIncomeAbstract	      대출채권관련순손익	361,842,187		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00251400_GainFromLoansOfGainLossFromLoansOfStatementOfComprehensiveIncomeAbstract	         대출채권관련이익	361,842,187		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00251400_LossFromLoansOfGainLossFromLoansOfStatementOfComprehensiveIncomeAbstract	         대출채권관련손실	0		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	8,522,058,476		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	18,670,016,270		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	5,310,493,166		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	23,980,509,436		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	3,434,597,267		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	22,645,571,385		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	36,502,812,982		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	59,148,384,367		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익인식금융자산으로부터의 이자수익	38,548,247,730		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            유효이자율적용이자수익	20,600,136,637		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	355,281,853,802		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-119,946,297		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            세전기타포괄손익, 기타포괄손익-공정가치로 측정되는 금융자산	1,076,500,955		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 자기신용위험조정	-648,905,749		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-331,026,693		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-216,514,810		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	60,755,114,179		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	32,360,155,666		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	17,864,567,859		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	            그밖의 기타영업비용	14,495,587,807		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	28,394,958,513		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	25,268,584,983		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	            그밖의 기타영업이익	3,126,373,530		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	8,642,004,773		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	12,076,602,040		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	13,859,555,228		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	369,141,409,030		
+ 포괄손익계산서, 증권 - 별도	[null]	BNK투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매 및 일반관리비	25,854,304,241		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익(손실)	17,497,179,938		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	19,334,334		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	171,694,747		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	16,167,810,792		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	435		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	435		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	3,213,372,937		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	356,707,556,431		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련손실	121,145,386		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	239,254,678,305		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	         기타의영업비용	3,848,251,345		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	9,811,559,403		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	         외환거래손실	8,180,467,753		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	33,291,138,970		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	         판매비와관리비	62,200,315,269		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-1,329,369,146		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산평가손익	1,433,827,720		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채 신용위험변동효과	-229,793,554		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융자산평가손익	-2,533,403,312		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	17,497,179,938		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	20,710,552,875		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	20,558,192,462		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	377,265,748,893		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	252,396,232,214		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	         기타의영업수익	5,239,052,553		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	53,513,976,741		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	         외환거래이익	8,038,696,026		
+ 포괄손익계산서, 증권 - 별도	[016610]	DB증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	58,077,791,359		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      (대손준비금 반영후 조정이익)	13,259,815,884		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromDerivatives	      파생상품평가및처분이익	147,453,777,015		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainsOnChangeInFairValueAndOnDisposalOfFinancialInstruments	      금융상품평가및처분이익	116,107,151,649		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesFromDerivatives	      파생상품평가및처분손실	164,886,005,665		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      지분법손실	1,112,688,516		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOnChangeInFairValueAndOnDisposalOfFinancialInstruments	      금융상품평가및처분손실	77,764,243,664		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      V. 영업외비용	1,114,724,827		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      IV. 영업외수익	1,057,770,645		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타의영업비용	54,688,722		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타의영업수익	10,805,194,454		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      지분법이익	843,720,827		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00330424_udf_IS_2023119182719482OfStatementOfComprehensiveIncomeAbstract	      유형자산관련이익	0		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00330424_udf_IS_20231191828095OfStatementOfComprehensiveIncomeAbstract	      기타	214,049,818		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00330424_udf_IS_2023119182922412OfStatementOfComprehensiveIncomeAbstract	      기타	2,036,311		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00330424_udf_IS_202311918298792OfStatementOfComprehensiveIncomeAbstract	      유형자산관련손실	0		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금전입액	15,475,094,969		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      X. 분기총포괄손익	13,018,173,615		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당손익	210		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당손익	210		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	9,348,377,908		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	31,649,607,398		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	6,039,611,973		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	5,903,011,374		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VII. 법인세비용	4,222,559,091		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	45,785,370,978		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      II. 영업비용	351,854,177,300		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      IX. 기타포괄손익	0		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      VIII. 당기순이익	13,018,173,615		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      VI. 법인세비용차감전순이익	17,240,732,706		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III. 영업이익	17,297,686,888		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      I. 영업수익	369,151,864,188		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	55,646,412,328		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         기타 이자수익	32,023,149,186		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율법으로 인식하는 이자수익	23,623,263,142		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금환입액	1,450,109,371		
+ 포괄손익계산서, 증권 - 별도	[078020]	LS증권	코스닥시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	32,637,384,020		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	      상각후원가측정금융상품관련순손익	68,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	193,023,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_AdjustmentsForForeignExchangeGainLoss	      외환거래손익	20,457,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련순손익	4,820,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련순손익	-32,290,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	20,575,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	7,194,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금전입(환입)액	14,794,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	197,710,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         기본우선주당순이익	589		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본보통주당순이익	539		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석보통주당순이익	539		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	247,472,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	53,685,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	301,157,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	68,827,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	187,628,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	223,947,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	411,575,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품	158,761,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            유효이자율적용이자수익	252,814,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	10,524,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	7,169,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채신용위험조정	-4,807,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	8,162,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타의영업손익	101,712,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	187,186,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	256,013,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	269,394,000,000		
+ 포괄손익계산서, 증권 - 별도	[005940]	NH투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매와관리비	245,679,000,000		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstruments	      금융상품관련순손익	-2,173,854,337		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstruments	         금융상품관련수익	171,841,294,116		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융상품관련이익	16,046,113		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련이익	171,825,248,003		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstruments	         금융상품관련비용	174,015,148,453		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	            상각후원가측정금융상품관련손실	632,666,253		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품관련손실	173,382,482,200		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	38,163,179		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	683,941,156		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00131850_udf_IS_20231112182355990OfStatementOfComprehensiveIncomeAbstract	      순영업손익	56,309,849,822		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 전입액	487,123,580		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	2,958,959,392		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	13		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	13		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	32,297,619,906		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	2,105,448,925		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	34,403,068,831		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	1,154,768,240		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	11,400,697,852		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	26,576,302,089		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	37,976,999,941		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정 금융자산 이자수익	22,955,475,607		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            유효이자율적용이자수익	15,021,524,334		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-2,558,605,065		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채 신용위험변동	215,413,762		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-2,020,507,844		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-753,510,983		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	1,711,768,287		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	4,535,046,519		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	3,949,095,982		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	            기타영업비용	585,950,537		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	6,246,814,806		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	3,397,297,302		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	            기타영업수익	2,849,517,504		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	5,517,564,457		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	6,672,332,697		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	6,026,554,720		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	10,439,126,325		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 환입액	3,121,615,369		
+ 포괄손익계산서, 증권 - 별도	[001510]	SK증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	50,283,295,102		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	4,095,824,194		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	3,183,261,339		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	52,010,928,782		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	421		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익(손실)	421		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	17,799,254,448		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	1,032,891,698,787		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련손실	0		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	869,189,934,064		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	3,077,009,471		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	12,371,729,303		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	         외환거래손실	35,732,188,444		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	45,426,644,771		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	         판매비와관리비	67,094,192,734		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	4,521,332,609		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되는 포괄손익	6,930,686,576		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax	            기타포괄손익-공정가치금융자산평가손익	6,930,686,576		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 포괄손익	-2,409,353,967		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치지정금융부채평가손익	-504,424,937		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-1,904,929,030		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	47,489,596,173		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	65,288,850,621		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	66,201,413,476		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	1,099,093,112,263		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련이익	4,562,173,090		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	868,801,598,291		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	4,800,622,024		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	73,430,453,031		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	         외환거래이익	37,909,947,871		
+ 포괄손익계산서, 증권 - 별도	[030610]	교보증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	109,588,317,956		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstruments	      금융상품관련수익	243,131,917,084		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련이익	1,778,340,305		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	241,353,576,779		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstruments	      금융상품관련비용	217,162,068,228		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련손실	1,604,453,162		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	215,557,615,066		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      IV. 영업외손익	348,141,342		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	13,195,750,065		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	10,487,265,619		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      IX. 분기총포괄이익	9,400,062,082		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익	159		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익	147		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	1,357,250,599		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	8,675,025,078		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VI. 법인세비용(수익)	2,907,300,065		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	31,708,854,064		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      II. 영업비용	291,399,111,141		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      VIII. 기타포괄손익	-639,760,272		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품 관련손익	-638,499,341		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 신용위험변동	-1,260,931		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      VII. 분기순이익	10,039,822,354		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      V. 법인세비용차감전순이익	12,947,122,419		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III. 영업이익	12,598,981,077		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      I. 영업수익	303,998,092,218		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당금수익	420,512,575		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	41,283,371,862		
+ 포괄손익계산서, 증권 - 별도	[030210]	다올투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	27,975,188,185		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	201,085,846,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	         영업외손실	6,819,574,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	         영업외이익	207,905,420,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄손익	206,956,963,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         우선주기본주당순이익	2,995		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_DilutedEarningsLossPerSharePreferredStock	         우선주희석주당순이익	2,831		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00110893_TwoBasicEarningsLossPerSharePreferredStockOfEarningsPerShareAbstract	         2우선주기본주당순이익	2,983		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00110893_TwoDilutedEarningsLossPerSharePreferredStockOfEarningsPerShareAbstract	         2우선주희석주당순이익	2,818		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당순이익	2,984		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당순이익	2,819		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	75,614,411,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	881,479,378,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	         신용손실충당금전입액	13,909,003,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	571,933,125,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_MiscellaneousExpenses	         기타판매비와관리비	27,610,786,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	446,318,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_PersonalExpense	         인건비	55,341,711,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00110893_LossfromfinancialinstrumentsdesignatedatfairvaluethroughprofitorlossOfOperatingExpense	         당기손익-공정가치측정지정금융상품관련손실	40,165,932,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DepreciationAndAmortisationExpense	         감가상각비 및 상각비	7,886,868,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	5,760,741,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	82,214,263,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_NetForeignExchangeLoss	         외환거래손실	76,210,631,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      분기기타포괄손익	-44,649,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossBeforeTax	         후속적으로 당기손익으로 재분류되지 않는 항목	-44,649,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	1,576,478,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 자기신용위험변동손익	-1,621,127,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	207,001,612,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	282,616,023,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업손익	81,530,177,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	963,009,555,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	673,032,122,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	         기타의영업수익	43,644,009,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	         신용손실충당금환입액	756,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00110893_GainfromfinancialinstrumentsdesignatedatfairvaluethroughprofitorlossOfRevenue	         당기손익-공정가치측정지정금융상품관련이익	7,991,277,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	97,918,737,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_NetForeignExchangeGain	         외환거래이익	75,080,362,000		
+ 포괄손익계산서, 증권 - 별도	[003540]	대신증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	65,342,292,000		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	2,507,357,353		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	792,680,983		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	230,202,639,458		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	354		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	354		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	49,450,393,740		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	4,726,720,273,329		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-498,163,841		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	3,035,843,713		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채평가손익	-291,919,216		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권관련손익	-2,168,523,547		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채 재측정요소	-1,073,564,791		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	230,700,803,299		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	280,151,197,039		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	281,865,873,409		
+ 포괄손익계산서, 증권 - 별도	[008560]	메리츠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	5,008,586,146,738		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-104,286,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	         영업외비용	105,286,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	         영업외수익	1,000,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      당기총포괄손익	92,021,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         기본 주당이익(우선주)	154		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_DilutedEarningsLossPerSharePreferredStock	         희석 주당이익(우선주)	154		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본 주당이익(보통주)	154		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석 주당이익(보통주)	154		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	33,013,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	4,056,568,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_AdditionalImpairmentLossesOfFinancialAssets	         신용손실충당금전입액	9,239,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련손실	1,236,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	2,696,384,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	         기타의영업비용	5,941,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_PersonalExpense	         인건비	198,523,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	64,039,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	         외환거래손실	499,617,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	468,700,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	         판매관리비	112,889,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	1,410,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산평가손익	17,728,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 신용위험 변동	-2,161,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지정금융자산평가손익	-14,157,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	90,611,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	123,624,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	227,910,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	4,284,478,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련이익	28,686,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	2,769,432,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	         기타의영업수익	123,738,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_ReversalsOfImpairmentLossesOfFinancialAssets	         신용손실충당금환입액	1,309,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	316,996,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	         외환거래이익	505,462,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	538,855,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	            상각후원가측정금융자산관련이자수익	195,570,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융자산관련이자수익	216,383,000,000		
+ 포괄손익계산서, 증권 - 별도	[006800]	미래에셋증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산관련이자수익	126,902,000,000		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstruments	      2. 금융상품관련수익	59,634,132,206		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainsOnTransactionOfDerivativeFinancialInstrument	      3. 파생상품거래이익	72,413,154,300		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstruments	      2. 금융상품평가및처분손실	44,233,970,221		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOnTransactionOfDerivativeFinancialInstrument	      3. 파생상품거래손실	61,854,705,957		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      V. 영업외비용	0		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      IV. 영업외수익	1,587,743,090		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      8. 기타영업비용	1,019,057,491		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      7. 기타영업수익	5,880,189,178		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00123772_udf_IS_202311719537199OfStatementOfComprehensiveIncomeAbstract	      5. 대출채권평가및처분이익	15,502,500		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00123772_udf_IS_2023117195455449OfStatementOfComprehensiveIncomeAbstract	      5. 대출채권평가및처분손실	4,379,425,000		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      X. 총포괄이익(손실)	13,947,978,603		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         1. 구형우선주 기본주당이익	1,754		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_DilutedEarningsLossPerSharePreferredStock	         2. 구형우선주 희석주당이익	1,754		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         3. 보통주 기본주당이익	1,741		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         4. 보통주 희석주당이익	1,741		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      1. 수수료비용	1,931,216,788		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      1. 수수료수익	16,478,495,428		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VII. 법인세비용	4,501,541,175		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      4. 이자비용	24,990,783,412		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_NetForeignExchangeGain	      6. 외환거래이익	0		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_NetForeignExchangeLoss	      6. 외환거래손실	0		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      II. 영업비용	165,806,262,862		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      IX. 기타포괄손익	-1,592,943,323		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            (1) 기타포괄손익-공정가치측정금융자산 평가이익	-1,592,943,323		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation	            (2) 재평가잉여금	0		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      VIII. 당기순이익	15,540,921,926		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      VI. 법인세차감전순이익	20,042,463,101		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III. 영업이익	18,454,720,011		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      I. 영업수익	184,260,982,873		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      4. 이자수익	29,839,509,261		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         (2) 당기손익-공정가치측정금융자산 관련 이자수익	23,927,412,956		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         (1) 유효이자율법을 사용하여 계산한 이자수익	5,912,096,305		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	            상각후원가측정금융자산 관련 이자수익	5,912,096,305		
+ 포괄손익계산서, 증권 - 별도	[001270]	부국증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      7. 판매비와관리비	27,397,103,993		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품순손익	97,931,923,975		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	2,046,502,232,127		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	1,829,159,010,729		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00104856_GainFromFinancialInstrumentsDesignatedAtFairValueThroughProfitOrLossOfGainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정지정금융상품관련이익	94,910,951,283		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00104856_GainOnExchangeRateFluctuationsOfudf_IS_2024311181936193OfStatementOfComprehensiveIncomeAbstract	         환율변동이익	19,000,619,467		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00104856_LossFromFinancialInstrumentsDesignatedAtFairValueThroughProfitOrLossOfGainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정지정금융상품관련손실	214,279,028,536		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00104856_LossOnExchangeRateFluctuationsOfudf_IS_2024311181936193OfStatementOfComprehensiveIncomeAbstract	         환율변동손실	19,043,839,637		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	293,721,609		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	1,220,470,231		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_PersonalExpense	      인건비	137,267,010,528		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00104856_udf_IS_202311994859830OfStatementOfComprehensiveIncomeAbstract	      순영업손익	545,120,199,737		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	236,085,196,037		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당순이익	2,552		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당순이익	2,552		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	226,677,853,851		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	36,389,169,056		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	263,067,022,907		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	81,693,146,635		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	132,754,258,040		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	206,049,049,895		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	338,803,307,935		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	            상각후원가측정금융자산관련이자수익	142,070,957,744		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnCashAndCashEquivalents	            현금및현금성자산이자수익	14,517,069,279		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융자산이자수익	149,984,111,279		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산이자수익	32,231,169,633		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	8,169,999,510		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품 관련손익	2,478,464,217		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채 신용위험변동	199,027,535		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품 관련손익	5,508,284,302		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-15,776,544		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	87,756,163,871		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산관련수익	478,703,734		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산관련비용	0		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	321,313,968,323		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	423,764,706,098		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         금융자산신용손실	22,879,102,504		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	         금융자산신용손실환입	7,705,824,866		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익	227,915,196,527		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	309,608,343,162		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	308,681,594,540		
+ 포괄손익계산서, 증권 - 별도	[016360]	삼성증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	99,171,594,669		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련이익 (주5,32)	24,848,900,912		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손실 (주5,32)	20,565,150,207		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      V.영업외비용 (주36,42)	410,747,546		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      IV.영업외수익 (주36,42)	508,765,662		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용 (주35)	1,038,587,995		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익 (주35)	221,541,548		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      대출채권 평가 및 처분손실 (주33)	275,580,257		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      Ⅹ.총포괄손익	-2,886,684,761		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익 (주37)	2		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익 (주37)	2		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용 (주31)	468,543,177		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익 (주31)	7,933,917,494		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VII.법인세비용(수익) (주26,42)	-76,782,342		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용 (주6)	6,942,454,597		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      II.영업비용 (주41.42)	44,616,831,571		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      Ⅸ.기타포괄손익	-3,076,493,364		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익 (주5,9)	-3,076,493,364		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익	189,808,603		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      VI.법인세차감전순이익	113,026,261		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III.영업이익(손실)	15,008,145		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      I.영업수익 (주41,42)	44,631,839,716		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익 (주5)	2,913,784,322		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익 (주6)	7,345,052,696		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         (2) 당기손익-공정가치로 측정하는 금융자산의 이자수익	5,339,375,931		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         (1) 유효이자율적용이자수익	2,005,676,765		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      대출채권평가 및 처분이익 (주33)	1,368,642,744		
+ 포괄손익계산서, 증권 - 별도	[001290]	상상인증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비 (주34)	15,326,515,338		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	51,281,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	11,272,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타의영업손익	811,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00138321_GainOnFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncomeOfStatementOfComprehensiveIncomeAbstract	      기타포괄손익-공정가치측정금융상품관련순손익	4,553,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00138321_udf_IS_2023919145429704OfStatementOfComprehensiveIncomeAbstract	      당기손익-공정가치측정금융상품관련순손익	71,146,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	86,793,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	169,723,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	25,566,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	195,289,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래손익	46,407,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	28,756,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	121,366,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	190,235,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	311,601,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융상품이자수익	206,299,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            유효이자율적용이자수익	105,302,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-466,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLoss	            법인세효과	115,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품평가손익	-437,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss	            법인세효과	52,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채신용위험조정	-743,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융상품평가손익	547,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            퇴직급여부채의 보험수리적손익	0		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	87,259,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	116,015,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	156,024,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	9,192,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금환입(전입)액	-75,683,000,000		
+ 포괄손익계산서, 증권 - 별도	[008670]	신한투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	191,491,000,000		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_Donations	      기부금	8,394,935		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstruments	      증권평가및처분이익	118,948,423,136		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainsOnSaleOfInvestmentAccountedForUsingEquityMethod	      지분법주식처분이익	215,878,286		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstruments	      증권평가및처분손실	109,853,887,750		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      지분법손실	522,296,610		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOnSaleOfInvestmentAccountedForUsingEquityMethod	      지분법주식처분손실	2,330,681		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_MiscellaneousIncome	      잡이익	70,101,108		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_MiscellaneousLosses	      잡손실	12,574,971		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	572,318,866		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	416,916,737		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타의영업비용	1,292,122,315		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타의영업수익	1,023,197,772		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	      지분법이익	123,402,143		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00684918_GainsFromCancellationOfLeaseContractOfStatementOfComprehensiveIncomeAbstract	      리스해지이익	7,535,200		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00684918_GainsOnTradeAndOnChangeInFairValueOfDerivativesOfStatementOfComprehensiveIncomeAbstract	      파생상품거래및평가이익	479,056,230,780		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00684918_LossesOnTradeAndOnChangeInFairValueOfDerivativesOfStatementOfComprehensiveIncomeAbstract	      파생상품거래및평가손실	490,729,154,269		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00684918_udf_IS_2023111101745902OfStatementOfComprehensiveIncomeAbstract	      외환거래이익	10,587,220,665		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00684918_udf_IS_2023111102034234OfStatementOfComprehensiveIncomeAbstract	      외환거래손실	6,561,722,208		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00684918_udf_IS_2023111102035780OfStatementOfComprehensiveIncomeAbstract	      대출채권평가및처분손실	3,591,828,772		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00684918_udf_IS_2023111103048356OfStatementOfComprehensiveIncomeAbstract	      리스해지손실	10,208,570		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00684918_udf_IS_20245716329184OfStatementOfComprehensiveIncomeAbstract	      대손준비금 반영후 조정이익(손실)	17,550,329,825		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	12,031,111,919		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	84		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	2,562,729,350		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	31,521,496,646		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	3,903,719,320		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	45,509,187,149		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_LossesOnDisposalsOfPropertyPlantAndEquipment	      유형자산처분손실	16,513,099		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	701,736,988,200		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      분기기타포괄손익	23,769,194		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산 평가손익	22,457,902		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            신용위험조정변동	1,311,292		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여자산 재측정요소	0		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	12,007,342,725		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	15,911,062,045		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	16,066,464,174		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	717,803,452,374		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당금수익	613,953,605		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	76,052,929,770		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품 이자수익	63,417,735,254		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율적용 이자수익	12,635,194,516		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	            상각후원가측정금융상품 이자수익	9,244,983,345		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융상품 이자수익	3,390,211,171		
+ 포괄손익계산서, 증권 - 별도	[null]	아이비케이투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	41,636,356,387		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstruments	      금융상품관련수익	165,451,466,394		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련이익	20,485,795,250		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련이익	454,920,667		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	144,510,750,477		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstruments	      금융상품관련비용	205,785,437,055		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련손실	88,511,843,069		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련손실	138,108,000		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	117,135,485,986		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	392,612,991		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	316,326,894		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	21,504,295,221		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	96,968,375,151		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00148665_GaimFromDerivativeInstrumentsOfStatementOfComprehensiveIncomeAbstract	      파생상품관련이익	188,297,381,928		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00148665_udf_IS_202531210318138OfStatementOfComprehensiveIncomeAbstract	      파생상품관련손실	181,619,359,366		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	25,670,800,661		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	4,619,176,207		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	34,430,217,666		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	7,287,249,426		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	57,780,816,926		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	520,528,826,956		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-242,125,076		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	-150,572,014		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	30,353,375		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의재측정요소	-121,906,437		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	25,912,925,737		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	33,200,175,163		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	33,276,461,260		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	553,805,288,216		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	68,657,847,077		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치로 측정하는 금융자산의 이자수익	42,324,896,445		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율적용이자수익	26,332,950,632		
+ 포괄손익계산서, 증권 - 별도	[null]	아이엠증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매 및 일반관리비	49,219,742,181		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstruments	      금융상품평가및처분이익	504,463,664,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainsOnChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	         당기손익인식지정금융부채평가이익	9,536,107,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainsOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권처분이익	0		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainsOnTransactionOfDerivativeFinancialInstrument	         파생상품거래이익	266,980,939,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainsOnValuationOfHeldForTradingFinancialLiabilities	         단기매매금융부채평가이익	3,554,351,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_GainsOnDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossExcludingStructuredInstrumentsOfGainFromFinancialInstruments	         당기손익-공정가치측정금융자산처분이익	31,569,708,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_GainsOnDisposalOfOtherFinancialAssetsAtFairValueThroughProfitOrLossOfGainFromFinancialInstruments	         기타당기손익-공정가치측정금융자산처분이익	6,650,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_GainsOnDisposalOfStructuredFinancialAssetsAtFairValueThroughProfitOrLossOfGainFromFinancialInstruments	         당기손익-공정가치측정복합금융자산처분이익	901,083,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_GainsOnValuationOfFinancialAssetsAtFairValueThroughProfitOrLossExcludingStructuredInstrumentsOfGainFromFinancialInstruments	         당기손익-공정가치측정금융자산평가이익	48,967,037,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_GainsOnValuationOfStructuredFinancialAssetsAtFairValueThroughProfitOrLossOfGainFromFinancialInstruments	         당기손익-공정가치측정복합금융자산평가이익	2,465,450,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_udf_IS_2023102713631398OfGainFromFinancialInstruments	         단기매매금융부채상환이익	1,693,265,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_udf_IS_2023102713635878OfGainFromFinancialInstruments	         기타당기손익-공정가치측정금융자산평가이익	488,406,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_udf_IS_202310271363710OfGainFromFinancialInstruments	         당기손익인식지정금융부채상환이익	173,553,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_GainsOnChangeInFairValueOfDerivatives	         파생상품평가이익	138,127,115,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstruments	      금융상품평가및처분손실	494,753,916,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_ImpairmentLossOfFinancialAssetsAtAmortisedCost	         상각후원가측정증권손상차손	34,713,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_ImpairmentLossOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정증권손상차손	9,450,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossOnValuationOfHeldForTradingFinancialLiabilities	         단기매매금융부채평가손실	6,639,198,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOnChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	         당기손익인식지정금융부채평가손실	32,456,643,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권처분손실	0		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOnTransactionOfDerivativeFinancialInstrument	         파생상품거래손실	276,019,193,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_LossesOnDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossExcludingStructuredInstrumentsOfLossFromFinancialInstruments	         당기손익-공정가치측정금융자산처분손실	16,031,580,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_LossesOnDisposalOfOtherFinancialAssetsAtFairValueThroughProfitOrLossOfLossFromFinancialInstruments	         기타당기손익-공정가치측정금융자산처분손실	0		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_LossesOnDisposalOfStructuredFinancialAssetsAtFairValueThroughProfitOrLossOfLossFromFinancialInstruments	         당기손익-공정가치측정복합금융자산처분손실	1,122,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_LossesOnValuationOfFinancialAssetsAtFairValueThroughProfitOrLossExcludingStructuredInstrumentsOfLossFromFinancialInstruments	         당기손익-공정가치측정금융자산평가손실	11,489,608,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_LossesOnValuationOfStructuredFinancialAssetsAtFairValueThroughProfitOrLossOfLossFromFinancialInstruments	         당기손익-공정가치측정복합금융자산평가손실	539,286,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_udf_IS_20231027131758784OfLossFromFinancialInstruments	         단기매매금융부채상환손실	6,261,178,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_udf_IS_2023102713183713OfLossFromFinancialInstruments	         기타당기손익-공정가치측정금융자산평가손실	478,551,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_udf_IS_2023102713184351OfLossFromFinancialInstruments	         당기손익인식지정금융부채상환손실	10,956,703,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_LossesOnChangeInFairValueOfDerivatives	         파생상품평가손실	133,836,691,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      V. 영업외비용	2,622,752,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_MiscellaneousLosses	         기타영업외비용	2,618,846,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_LossesOnDisposalsOfAssetsOfNonOperatingExpense	         자산처분손실	3,906,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      IV. 영업외수익	1,151,202,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_MiscellaneousIncome	         기타영업외수익	1,151,202,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_ProfitFromDisposalOfAssetsOfNonOperatingIncome	         자산처분이익	0		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	18,771,634,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherExpenseOfProvisions	         충당부채전입액	7,382,280,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	         기타의영업비용	11,389,354,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	24,753,973,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_ReversalsOfAllowanceForOtherDoubtfulAccounts	         기타대손충당금환입	250,130,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_udf_IS_20231027131259536OfOtherOperatingIncome	         분배금수익	1,710,070,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	         기타의영업수익	16,526,750,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherReversalsOfProvisions	         충당부채환입액	422,371,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	         배당금수익	5,844,652,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_GainsOnValuationAndDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract	      대출채권평가및처분이익	0		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_GainsOnDisposalOfLoansOfGainsOnValuationAndDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract	         대출채권처분이익	0		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_ReversalOfAllowanceOfGainsOnValuationAndDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract	         대손충당금환입	0		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_LossesOnValuationAndDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract	      대출채권평가및처분손실	2,578,365,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_BadDebtExpenses	         대손상각비	2,578,365,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      X. 분기총포괄이익	-1,930,868,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         기본우선주당순이익(손실)	41		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본보통주당순이익(손실)	41		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	6,617,708,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	72,505,101,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	44,362,305,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	45,267,247,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VII. 법인세비용(수익)	2,484,088,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	68,701,290,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      Ⅱ. 영업비용	739,550,930,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      IX. 세후기타포괄손익	-10,262,501,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	713,190,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치 지정금융부채 자기신용위험 변동손익	2,993,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권평가손익	-5,026,691,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치 지정금융부채 자기신용위험 처분손익	-2,993,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여제도의재측정요소	-5,949,000,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      VIII. 분기순이익(손실)	8,331,633,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      VI. 법인세비용차감전순손익	10,815,721,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      III. 영업이익(손실)	12,287,271,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      I. 영업수익	751,838,201,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	105,753,158,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품이자수익	60,714,767,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         상각후원가측정 및 기타포괄손익 공정가치측정금융자산 관련 이자수익	45,038,391,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	102,860,770,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_AdvertisingExpensesSellingGeneralAdministrativeExpenses	         광고선전비	931,565,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_AmortisationExpenseSellingGeneralAdministrativeExpenses	         무형자산상각비	1,537,366,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_CommissionsSellingGeneralAdministrativeExpenses	         지급수수료	6,481,506,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_DepreciationExpenseSellingGeneralAdministrativeExpenses	         감가상각비	6,805,934,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_ElectronicFacilitiesExpensesSellingGeneralAdministrativeExpenses	         전산운용비	6,565,722,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_EmployeeBenefitsSellingGeneralAdministrativeExpenses	         복리후생비	11,764,244,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_EntertainmentExpensesSellingGeneralAdministrativeExpenses	         접대비	1,463,100,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_MiscellaneousExpenses	         기타	4,387,142,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_ProvisionForSeveranceIndemnities	         퇴직급여	5,336,348,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_RentalExpensesSellingGeneralAdministrativeExpenses	         임차료	1,938,745,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_ResearchExpenseSellingGeneralAdministrativeExpenses	         조사연구비	1,463,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_SalariesWages	         급여	50,363,823,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_TaxesDuesSellingGeneralAdministrativeExpenses	         세금과공과금	4,043,422,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_TrainingExpensesSellingGeneralAdministrativeExpenses	         연수비	69,880,000		
+ 포괄손익계산서, 증권 - 별도	[003470]	유안타증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00117601_udf_IS_202551092126688OfSellingGeneralAndAdministrativeExpense	         명예퇴직금	1,170,510,000		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	      상각후원가측정금융상품관련이익	0		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련이익	128,015,359,164		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainsOnTransactionOfDerivativeFinancialInstrumentsFinancialIncome	      파생상품거래이익	99,063,235,933		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	      상각후원가측정금융상품관련손실	6,323,456,442		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손실	133,856,437,598		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOnTransactionOfDerivativeFinancialInstrumentsFinancialExpense	      파생상품거래손실	103,683,758,417		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	165,070,820		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	369,436,797		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	1,028,236,978		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	11,415,124,569		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄손익	3,012,994,226		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	46		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	46		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	3,719,362,658		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	31,362,159,553		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	14,152,225,069		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	13,558,552,026		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용(수익)	-496,074,643		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	38,182,179,622		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	340,336,378,639		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-1,234,692,367		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치인식지정금융부채 신용위험변동손익	2,551,363,761		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융상품평가손익	-3,786,056,128		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익(손실)	4,247,686,593		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익(손실)	3,751,611,950		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	3,547,245,973		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	343,883,624,612		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	59,875,520,324		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산이자수익	42,016,659,579		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율적용이자수익	17,858,860,745		
+ 포괄손익계산서, 증권 - 별도	[001200]	유진증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	39,984,394,898		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstruments	      금융상품관련순손익	4,578,374		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	459,300,481		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	454,722,107		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	41		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	2,659,066,859		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	4,648,693,090		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	3,860,152,705		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00145190_BasicAndDilutedEarningsLossPerShareOfEarningsPerShareAbstract	         보통주기본및희석주당이익(손실)	115		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00145190_BasicAndDilutedEarningsLossPerSharePreferredStockOfEarningsPerShareAbstract	         우선주기본및희석주당이익(손실)	117		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	296,560,987		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	75,672,193		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	372,233,180		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	1,502,784,464		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	4,211,258,229		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	1,178,872,296		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	5,390,130,525		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	            상각후원가측정금융자산관련이자수익	895,699,860		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치로 측정하는 금융자산의 이자수익	4,494,430,665		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-3,127,834,520		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-3,127,834,520		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	6,987,987,225		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	8,490,771,689		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	5,831,704,871		
+ 포괄손익계산서, 증권 - 별도	[003460]	유화증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매 및 일반관리비	3,329,385,809		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	      상각후원가측정금융자산평가및처분이익	197,001,287		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainsOnChangeInFairValueAndOnDisposalOfFinancialInstruments	      금융상품평가및처분이익	2,005,929,955,455		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	      상각후원가측정금융자산평가및처분손실	10,728,400,270		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOnChangeInFairValueAndOnDisposalOfFinancialInstruments	      금융상품평가및처분손실	1,951,701,554,486		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	4,818,308,797		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	25,233,818,658		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타의영업비용	16,429,883,850		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타의영업수익	48,763,608,443		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	173,033,840,407		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	53,150,319,150		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	251,592,764,983		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	218,954,352,725		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	193,263,654,054		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	58,547,629,172		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	258,511,277,171		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	2,713,072,696,352		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      세후기타포괄손익	-3,198,268,861		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	925,992,311		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치지정금융부채 신용위험변동손익	-5,844,874,972		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	1,733,695,964		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            순확정급여부채의 재측정요소	-13,082,164		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	176,232,109,268		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	234,779,738,440		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	214,364,228,579		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	2,927,436,924,931		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	401,999,242,038		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품이자수익	217,567,922,506		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율적용이자수익	184,431,319,532		
+ 포괄손익계산서, 증권 - 별도	[003450]	케이비증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매관리비	229,287,607,371		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainLossFromFinancialInstruments	      금융상품관련순손익	4,218,881,231		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	18,929,514,755		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	14,710,633,524		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	177,000		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	12,330		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	310,870,092		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	2		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익(손실)	2		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      순수수료손익	3,570,327,432		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	169,686,111		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	3,740,013,543		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	117,088,760		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueExpense	      순이자손익	905,839,703		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	816,317,304		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	1,722,157,007		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-58,419,368		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-58,419,368		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherOperatingIncomeExpense	      기타영업손익	-24,172,598		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	24,172,598		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	            외화거래손실	999,933		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	            그밖의 기타영업비용	23,172,665		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	0		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	            외화거래이익	0		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	369,289,460		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	486,378,220		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	486,542,890		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	110,061,031		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 환입액	32,812,632		
+ 포괄손익계산서, 증권 - 별도	[null]	케이알투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매 및 일반관리비	8,327,206,541		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영 업 외 비 용	-7,458,338,304		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영 업 외 수 익	19,689,741,936		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      9. 기타의영업비용	-23,701,884,716		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      8. 기타의영업수익	3,129,117,950		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00296290_udf_IS_2023111095031524OfStatementOfComprehensiveIncomeAbstract	      2. 당기손익-공정가치측정금융상품 관련이익	511,142,747,268		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00296290_udf_IS_2023111095033443OfStatementOfComprehensiveIncomeAbstract	      3. 파생상품 관련이익	1,877,930,771,967		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00296290_udf_IS_2023111095035531OfStatementOfComprehensiveIncomeAbstract	      4. 기타포괄손익-공정가치측정금융상품 관련이익	20,018,957,725		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00296290_udf_IS_2023111095036753OfStatementOfComprehensiveIncomeAbstract	      5. 상각후원가측정금융상품 관련이익	30,000,000		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00296290_udf_IS_2023111095045140OfStatementOfComprehensiveIncomeAbstract	      7. 외환거래이익	395,812,792,487		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00296290_udf_IS_2023111095351730OfStatementOfComprehensiveIncomeAbstract	      2. 당기손익-공정가치측정금융상품 관련손실	-404,623,703,273		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00296290_udf_IS_2023111095353385OfStatementOfComprehensiveIncomeAbstract	      3. 파생상품 관련손실	-1,864,376,418,231		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00296290_udf_IS_2023111095354706OfStatementOfComprehensiveIncomeAbstract	      4. 기타포괄손익-공정가치측정금융상품 관련손실	0		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00296290_udf_IS_2023111095355928OfStatementOfComprehensiveIncomeAbstract	      5. 상각후원가측정금융상품 관련손실	-823,280,380		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00296290_udf_IS_2023111095530616OfStatementOfComprehensiveIncomeAbstract	      7. 외환거래손실	-376,083,656,530		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	251,262,514,490		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStock	         우선주기본주당이익	8,156		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_DilutedEarningsLossPerSharePreferredStock	         우선주희석주당이익	8,156		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익	8,718		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익	7,930		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      1. 수수료비용	-56,240,640,218		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      1. 수수료수익	259,252,321,353		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	-77,424,789,636		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      6. 이자비용	-173,175,841,119		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영  업  비  용	-3,058,431,436,117		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기 타 포 괄 손 익	20,960,919,558		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치 측정 금융자산 평가(채무상품)	0		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            (2) 당기손익-공정가치 측정 금융부채 평가손익(신용위험조정)	-1,613,750,700		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            (1) 기타포괄손익-공정가치 측정 금융자산 평가손익(지분상품)	22,378,869,265		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            (3) 확정급여제도의 재측정요소	195,800,993		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      1. 당기순이익	230,301,594,932		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	307,726,384,568		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영  업  이  익	295,494,980,936		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영  업  수  익	3,353,926,417,053		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      6. 이자수익	286,609,708,303		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         (2) 당기손익-공정가치 측정 금융상품 이자수익	129,217,180,562		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         (1) 유효이자율 적용 이자수익	157,392,527,741		
+ 포괄손익계산서, 증권 - 별도	[039490]	키움증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      8. 판매비와관리비	-159,406,011,650		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingProfitLoss	      영업외손익	-7,667,002,812		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄이익	89,317,548,988		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         지배기업소유주 기본 및 희석주당이익	905		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	21,706,914,702		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	3,441,378,351,484		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련손실	3,846,549,327		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	2,668,819,783,438		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	         기타영업비용	18,531,629,722		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_PersonalExpense	         인건비	82,173,530,436		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	         수수료비용	19,880,949,922		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	         외환거래손실	274,616,934,442		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_GeneralAndAdministrativeExpense	         일반관리비	72,418,877,384		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ImpairmentLossRecognisedInProfitOrLoss	         금융자산손상차손	57,335,976,078		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	         이자비용	243,754,120,735		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	16,541,928,512		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류될 수 있는 항목	16,755,975,896		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무증권평가손익	16,755,975,896		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax	         후속적으로 당기손익으로 재분류되지 않는 항목	-214,047,384		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정지정금융부채 신용위험변동효과	1,835,531,775		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-2,105,004,172		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여제도의 재측정요소	55,425,013		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	72,775,620,476		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세비용차감전순이익	94,482,535,178		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	102,149,537,990		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	3,543,527,889,474		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융상품관련이익	12,714,822,382		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	2,751,571,685,520		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	         기타영업수익	9,524,179,213		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	         수수료수익	111,529,757,468		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	         외환거래이익	295,608,772,767		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	         종속기업및관계기업배당금수익	6,488,394,746		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	         이자수익	344,233,331,848		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정 금융상품 이자수익	208,699,684,030		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeForFinancialAssetsNotAtFairValueThroughProfitOrLoss	            기타포괄손익-공정가치측정 및 상각후원가측정 금융상품 이자수익	135,533,647,818		
+ 포괄손익계산서, 증권 - 별도	[null]	하나증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalOfImpairmentLossRecognisedInProfitOrLoss	         금융자산손상차손환입	11,856,945,530		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstruments	      금융자산(부채)평가및처분이익	2,971,504,222,182		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstruments	      금융자산(부채)평가및처분손실	2,832,900,848,378		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	7,636,561,102		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	9,382,997,767		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	3,679,772,622		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	58,008,632,615		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 전입액	184,569,186		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익의 귀속	490,816,167,292		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	41,054,929,656		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	317,235,767,531		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	682,239,111,983		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	633,179,256,421		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	110,895,633,756		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	420,083,309,634		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	4,195,713,897,830		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	25,110,638,127		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치로 측정하는 채무상품-공정가치 변동	1,294,232,065		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00160144_DebtInstrumentsMeasuredAtFairValueOfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            기타포괄손익-공정가치로 측정하는 채무상품-신용위험 변동	135,842,921		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치측정지정금융부채의 신용위험변동	93,929,442		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치로 측정하는 지분상품-공정가치 변동	23,949,272,727		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            확정급여부채 재측정요소	-362,639,028		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	465,705,529,165		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	576,601,162,921		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	574,854,726,256		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	4,770,568,624,086		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당금수익	125,445,274,385		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	590,421,708,708		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산 관련 이자수익	382,722,155,208		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         상각후원가측정 및 기타포괄손익-공정가치측정금융자산 관련 이자수익	207,699,553,500		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 환입액	25,713,906,682		
+ 포괄손익계산서, 증권 - 별도	[null]	한국투자증권	기타법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매비와관리비	264,631,211,933		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstruments	      금융상품관련수익	135,003,153,514		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련이익	5,935,882		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련이익	134,997,217,632		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstruments	      금융상품관련비용	112,098,090,362		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtAmortisedCost	         상각후원가측정금융상품관련손실	2,618,248,213		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융상품관련손실	109,479,842,149		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	2,718,129,297		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	180,627,741		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타영업비용	687,846,038		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	         외화거래손실	687,696,554		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	         그밖의 기타영업비용	149,484		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타영업수익	1,615,003,274		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	         외화거래이익	1,574,364,795		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	         그밖의 기타영업이익	40,638,479		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	19,212,187,801		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         보통주기본주당이익(손실)	1,630		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         보통주희석주당이익(손실)	1,630		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	1,618,210,874		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	33,380,106,139		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	7,573,517,108		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	20,119,979,685		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	170,920,396,868		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-1,658,743,537		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분상품평가손익	-1,658,743,537		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	20,870,931,338		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	28,444,448,446		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	30,981,950,002		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	201,902,346,870		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	5,145,198,860		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	26,758,885,083		
+ 포괄손익계산서, 증권 - 별도	[001750]	한양증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매 및 일반관리비	36,396,269,909		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      대손준비금 반영후 조정이익	36,672,101,177		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	95,271,342		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	156,158,155		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00148610_udf_IS_202422695253573OfStatementOfComprehensiveIncomeAbstract	      유가증권평가및처분이익	136,904,907,389		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00148610_udf_IS_202422695424900OfStatementOfComprehensiveIncomeAbstract	      파생상품평가및거래이익	459,553,416,262		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00148610_udf_IS_202422695557891OfStatementOfComprehensiveIncomeAbstract	      유가증권평가및처분손실	111,753,005,808		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00148610_udf_IS_202422695724124OfStatementOfComprehensiveIncomeAbstract	      파생상품평가및거래손실	476,102,152,908		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 전입액	37,387,388,298		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      분기총포괄이익	32,817,423,032		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_BasicEarningsLossPerSharePreferredStockFromContinuingOperations	         구형우선주 기본주당이익	227		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_DilutedEarningsLossPerSharePreferredStockFromContinuingOperations	         구형우선주 희석주당이익	227		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShareFromContinuingOperations	         보통주 기본주당이익	177		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations	         보통주 희석주당이익	177		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	6,525,451,385		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	62,104,125,324		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래이익	24,081,303,270		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래손실	20,933,166,799		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	10,663,505,446		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	64,213,284,656		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingExpense	      기타비용	172,192,931		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_MiscellaneousOtherOperatingIncome	      기타수익	3,168,384,131		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	786,997,414,195		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-5,932,142,534		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            당기손익-공정가치지정금융부채 신용위험변동손익	-17,592,715		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정금융자산평가손익	-5,914,549,819		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      분기순이익	38,749,565,566		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	49,413,071,012		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익	49,352,184,199		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	836,349,598,394		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromDividends	      배당수익	37,536,521,726		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	81,480,589,549		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      신용손실충당금 환입액	31,520,350,743		
+ 포괄손익계산서, 증권 - 별도	[003530]	한화투자증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매 및 일반관리비	69,910,771,410		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromDerivatives	      파생상품관련수익	168,857,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련이익	4,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련이익	83,739,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      기타포괄손익-공정가치측정금융상품관련손실	375,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      당기손익-공정가치측정금융상품관련손실	81,918,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesFromDerivatives	      파생상품관련비용	168,347,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingExpense	      영업외비용	1,856,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_Donations	         기부금	16,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_LossesOnDisposalOfIntangibleAssets	         무형자산처분손실	0		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_MiscellaneousLosses	         기타영업외비용	1,798,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_LossesOnDisposalsOfPropertyPlantAndEquipment	         유형자산처분손실	42,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_NonOperatingIncome	      영업외수익	181,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_MiscellaneousIncome	         기타영업외수익	181,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingExpense	      기타비용	0		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherOperatingIncome	      기타수익	37,957,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	      총포괄손익	19,176,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_BasicEarningsLossPerShare	         기본주당이익(손실)	490		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_DilutedEarningsLossPerShare	         희석주당이익(손실)	431		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionExpense	      수수료비용	3,427,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_FeeAndCommissionIncome	      수수료수익	43,343,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeGain	      외환거래수익	915,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ForeignExchangeLoss	      외환거래비용	1,150,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      법인세비용	6,671,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestExpense	      이자비용	55,816,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OperatingExpense	      영업비용	391,292,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	      기타포괄손익	-720,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정채무상품평가손익	1,264,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            기타포괄손익-공정가치측정지분증권관련손익	-2,012,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            종업원급여재측정요소	28,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherFinanceCost	      금융상품 관련 기타비용	22,832,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         신용손실충당금 전입액	22,832,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherFinanceIncome	      금융상품 관련 기타수익	7,208,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	entity00137997_MiscellaneousOtherIncomeOfudf_IS_2024351916214OfStatementOfComprehensiveIncomeAbstract	         그 밖의 기타금융수익	6,541,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	         신용손실충당금 환입액	667,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	      당기순이익(손실)	19,896,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossBeforeTax	      법인세차감전순이익	26,567,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLossFromOperatingActivities	      영업이익(손실)	28,242,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Revenue	      영업수익	419,534,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_RevenueFromInterest	      이자수익	77,511,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	         당기손익-공정가치로 측정하는 금융자산의 이자수익	49,797,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	         유효이자율적용 이자수익	27,714,000,000		
+ 포괄손익계산서, 증권 - 별도	[001500]	현대차증권	유가증권시장상장법인	661	금융 지원 서비스업	12	2025-03-31	1분기보고서	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      판매 및 일반관리비	57,427,000,000		

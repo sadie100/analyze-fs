@@ -1,0 +1,922 @@
+재무제표종류	종목코드	회사명	시장구분	업종	업종명	결산월	결산기준일	보고서종류	통화	항목코드	항목명	당기 1분기말	전기말	전전기말	
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	2,338,000,962,249		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	98,100,000,000		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	2,600,000,000		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_LossOnRepaymentOfHybridBondOfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치 측정 지분상품 처분손익 대체	-1,073,137,953		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_ReversalOfImpairmentLossForDebtSecuritiesAtFvociOfOtherComprehensiveIncomeAbstract	                  기타포괄손익인식채무증권대손상각비(환입)	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_udf_CE_2024116152647962OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치 측정 지분상품 평가손익	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치 측정 채무상품 평가손익	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	66,025,251,853		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	2,302,253,076,149		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	432,104,560,000		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_LossOnRepaymentOfHybridBondOfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치 측정 지분상품 처분손익 대체	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_ReversalOfImpairmentLossForDebtSecuritiesAtFvociOfOtherComprehensiveIncomeAbstract	                  기타포괄손익인식채무증권대손상각비(환입)	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_udf_CE_2024116152647962OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치 측정 지분상품 평가손익	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치 측정 채무상품 평가손익	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	432,104,560,000		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	199,449,480,000		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_LossOnRepaymentOfHybridBondOfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치 측정 지분상품 처분손익 대체	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_ReversalOfImpairmentLossForDebtSecuritiesAtFvociOfOtherComprehensiveIncomeAbstract	                  기타포괄손익인식채무증권대손상각비(환입)	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_udf_CE_2024116152647962OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치 측정 지분상품 평가손익	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치 측정 채무상품 평가손익	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	199,449,480,000		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	696,469,117,702		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_LossOnRepaymentOfHybridBondOfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치 측정 지분상품 처분손익 대체	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_ReversalOfImpairmentLossForDebtSecuritiesAtFvociOfOtherComprehensiveIncomeAbstract	                  기타포괄손익인식채무증권대손상각비(환입)	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_udf_CE_2024116152647962OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치 측정 지분상품 평가손익	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치 측정 채무상품 평가손익	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	696,469,117,702		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-14,739,230,682		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_LossOnRepaymentOfHybridBondOfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치 측정 지분상품 처분손익 대체	1,073,137,953		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_ReversalOfImpairmentLossForDebtSecuritiesAtFvociOfOtherComprehensiveIncomeAbstract	                  기타포괄손익인식채무증권대손상각비(환입)	-65,142,437		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_udf_CE_2024116152647962OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치 측정 지분상품 평가손익	-1,612,738,303		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치 측정 채무상품 평가손익	-7,906,630,056		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	-10,440,922,027		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-33,691,525,552		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	3,651,284,889,269		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	98,100,000,000		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	2,600,000,000		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_LossOnRepaymentOfHybridBondOfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치 측정 지분상품 처분손익 대체	0		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_ReversalOfImpairmentLossForDebtSecuritiesAtFvociOfOtherComprehensiveIncomeAbstract	                  기타포괄손익인식채무증권대손상각비(환입)	-65,142,437		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity01030132_udf_CE_2024116152647962OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치 측정 지분상품 평가손익	-1,612,738,303		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치 측정 채무상품 평가손익	-7,906,630,056		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	-10,440,922,027		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	66,025,251,853		
+ 자본변동표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	3,596,584,708,299	3,651,284,889,269	
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,310,624,059,513		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타변동	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	64,206,394,015		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,374,830,453,528		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	256,580,285,000		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타변동	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	256,580,285,000		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타변동	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	689,414,543,589		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타변동	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	689,414,543,589		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-32,519,988,872		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타변동	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	1,753,813,917		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	-508,460,995		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-31,274,635,950		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	2,224,098,899,230		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타변동	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	1,753,813,917		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	0		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	-508,460,995		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	64,206,394,015		
+ 자본변동표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	2,289,550,646,167	2,224,098,899,230	
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	2,021,896,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 채무상품 관련손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	                     기타포괄손익-공정가치 측정 지분상품 관련손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	                  현금흐름위험회피수단의 손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  외환차이	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  순확정급여부채 재측정요소	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	2,021,896,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,065,612,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 채무상품 관련손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	                     기타포괄손익-공정가치 측정 지분상품 관련손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	                  현금흐름위험회피수단의 손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  외환차이	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  순확정급여부채 재측정요소	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,065,612,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	5,134,745,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 채무상품 관련손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	                     기타포괄손익-공정가치 측정 지분상품 관련손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	                  현금흐름위험회피수단의 손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  외환차이	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  순확정급여부채 재측정요소	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	5,134,745,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	444,493,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 채무상품 관련손익	5,945,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	                     기타포괄손익-공정가치 측정 지분상품 관련손익	37,179,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	                  현금흐름위험회피수단의 손익	-14,287,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  외환차이	1,861,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  순확정급여부채 재측정요소	-5,280,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	469,911,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	28,679,447,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	1,625,604,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	12,231,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 채무상품 관련손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	                     기타포괄손익-공정가치 측정 지분상품 관련손익	-1,176,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	                  현금흐름위험회피수단의 손익	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  외환차이	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  순확정급여부채 재측정요소	0		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	960,813,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	28,001,249,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	37,346,193,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	1,625,604,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	12,231,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 채무상품 관련손익	5,945,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	                     기타포괄손익-공정가치 측정 지분상품 관련손익	36,003,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	                  현금흐름위험회피수단의 손익	-14,287,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  외환차이	1,861,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  순확정급여부채 재측정요소	-5,280,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	960,813,000,000		
+ 자본변동표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	36,693,413,000,000	37,346,193,000,000	
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	977,418,250,000		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               배당금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 분배금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_2023920144321961OfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정지분증권처분손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_202391147512OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치채무증권 대손상각비	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외영업순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	977,418,250,000		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	249,304,460,000		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               배당금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 분배금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_2023920144321961OfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정지분증권처분손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_202391147512OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치채무증권 대손상각비	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외영업순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	249,304,460,000		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	395,448,098,000		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               배당금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 분배금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_2023920144321961OfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	332,520,000		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정지분증권처분손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_202391147512OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치채무증권 대손상각비	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외영업순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	395,780,618,000		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-28,423,261,324		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               배당금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 분배금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_2023920144321961OfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	-7,142,444,904		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정지분증권처분손익	7,817,364		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_202391147512OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치채무증권 대손상각비	-200,613,507		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	-516,323,045		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	-20,432,469,694		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외영업순투자위험회피평가손익	436,621,500		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-56,270,673,610		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	4,290,232,311,839		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               배당금의 지급	122,700,000,000		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 분배금의 지급	2,655,684,930		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_2023920144321961OfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	-332,520,000		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정지분증권처분손익	-7,817,364		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_202391147512OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치채무증권 대손상각비	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외영업순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	81,649,061,227		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	4,246,185,350,772		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	5,883,979,858,515		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               배당금의 지급	122,700,000,000		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 분배금의 지급	2,655,684,930		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당금의 지급	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_2023920144321961OfIncreaseDecreaseThroughTransactionsWithOwnersAbstract	               신종자본증권상환손실	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	-7,142,444,904		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정지분증권처분손익	0		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00124106_udf_CE_202391147512OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치채무증권 대손상각비	-200,613,507		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	-516,323,045		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	-20,432,469,694		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외영업순투자위험회피평가손익	436,621,500		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	81,649,061,227		
+ 자본변동표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	5,812,418,005,162	5,883,979,858,515	
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	7,928,078,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권 상환	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정유가증권평가손익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	7,928,078,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	2,088,595,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권 상환	239,460,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정유가증권평가손익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,849,135,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	22,965,878,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	1,662,952,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	21,803,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권 상환	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타	-673,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정유가증권평가손익	-474,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	931,566,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	22,211,542,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	398,080,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권 상환	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정유가증권평가손익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	398,080,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	6,103,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권 상환	540,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타	673,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정유가증권평가손익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	6,236,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-58,359,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권 상환	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정유가증권평가손익	134,138,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	-193,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	75,586,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	33,328,375,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	1,662,952,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	21,803,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권 상환	240,000,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타	0		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정유가증권평가손익	133,664,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	-193,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	931,566,000,000		
+ 자본변동표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	32,468,657,000,000	33,328,375,000,000	
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	720,625,000,000		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	               자본조정 상각	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정채무상품평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00109019_udf_CE_2023102619287375OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산 기대신용손실	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자 위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               연결분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	720,625,000,000		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	99,717,480,000		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	               자본조정 상각	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정채무상품평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00109019_udf_CE_2023102619287375OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산 기대신용손실	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자 위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               연결분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	99,717,480,000		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	552,032,687,201		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	               자본조정 상각	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정채무상품평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00109019_udf_CE_2023102619287375OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산 기대신용손실	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자 위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               연결분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	552,032,687,201		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-282,520,000		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	               자본조정 상각	282,520,000		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정채무상품평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00109019_udf_CE_2023102619287375OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산 기대신용손실	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자 위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               연결분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-40,905,860,667		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	               자본조정 상각	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정채무상품평가손익	5,910,458,040		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치측정지분증권평가손익	-166,862,523		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00109019_udf_CE_2023102619287375OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산 기대신용손실	-4,573,218		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	-348,952,653		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자 위험회피평가손익	186,476,891		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               연결분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-35,329,314,130		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	3,584,021,055,751		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	               자본조정 상각	-282,520,000		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	-1,182,499,999		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정채무상품평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00109019_udf_CE_2023102619287375OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산 기대신용손실	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자 위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               연결분기순이익(손실)	129,152,306,820		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	3,711,708,342,572		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	4,915,207,842,285		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	               자본조정 상각	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	-1,182,499,999		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정채무상품평가손익	5,910,458,040		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                  기타포괄손익-공정가치측정지분증권평가손익	-166,862,523		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00109019_udf_CE_2023102619287375OfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산 기대신용손실	-4,573,218		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	-348,952,653		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자 위험회피평가손익	186,476,891		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               연결분기순이익(손실)	129,152,306,820		
+ 자본변동표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	5,048,754,195,643	4,915,207,842,285	
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	3,581,392,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               보통주 배당	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               동일지배하 사업결합	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	                  자본조정 잉여금처분	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정지정금융부채신용위험변동손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00254045_udf_CE_20253172463223OfOtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeAbstract	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	3,581,392,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,645,947,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               보통주 배당	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               동일지배하 사업결합	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	                  자본조정 잉여금처분	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정지정금융부채신용위험변동손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00254045_udf_CE_20253172463223OfOtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeAbstract	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,645,947,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,068,420,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               보통주 배당	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               동일지배하 사업결합	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	                  자본조정 잉여금처분	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정지정금융부채신용위험변동손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00254045_udf_CE_20253172463223OfOtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeAbstract	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,068,420,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-55,215,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               보통주 배당	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               동일지배하 사업결합	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	                  자본조정 잉여금처분	50,333,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정지정금융부채신용위험변동손익	26,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	996,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00254045_udf_CE_20253172463223OfOtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeAbstract	                     기타포괄손익-공정가치측정금융자산평가손익	81,346,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	603,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	-108,057,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자위험회피평가손익	237,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-29,731,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	20,486,766,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               보통주 배당	-1,352,524,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	-36,457,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               동일지배하 사업결합	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	                  자본조정 잉여금처분	-50,333,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정지정금융부채신용위험변동손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	-996,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00254045_udf_CE_20253172463223OfOtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeAbstract	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	582,587,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	19,629,043,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	26,727,310,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               보통주 배당	-1,352,524,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권 배당	-36,457,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               동일지배하 사업결합	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DispositionOfCapitalAdjustments	                  자본조정 잉여금처분	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정지정금융부채신용위험변동손익	26,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산처분손익	0		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00254045_udf_CE_20253172463223OfOtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeAbstract	                     기타포괄손익-공정가치측정금융자산평가손익	81,346,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	                  해외사업환산손익	603,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	-108,057,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	                  해외사업장순투자위험회피평가손익	237,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	582,587,000,000		
+ 자본변동표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	25,895,071,000,000	26,727,310,000,000	
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	500,448,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                     기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfInvestmentsInEquityInstruments	                     기타포괄손익-공정가치측정지분증권처분손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	500,448,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	325,108,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                     기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfInvestmentsInEquityInstruments	                     기타포괄손익-공정가치측정지분증권처분손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	325,108,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-23,969,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	2,878,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                     기타포괄손익-공정가치측정지분증권평가손익	-114,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfInvestmentsInEquityInstruments	                     기타포괄손익-공정가치측정지분증권처분손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	-337,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-21,542,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,201,645,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	-57,751,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                     기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfInvestmentsInEquityInstruments	                     기타포괄손익-공정가치측정지분증권처분손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	41,459,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,185,353,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	2,003,232,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	-57,751,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_InterimDividendsPaid	               중간배당	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	2,878,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments	                     기타포괄손익-공정가치측정지분증권평가손익	-114,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxDisposalOfInvestmentsInEquityInstruments	                     기타포괄손익-공정가치측정지분증권처분손익	0		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	-337,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	41,459,000,000		
+ 자본변동표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,989,367,000,000	2,003,232,000,000	
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	160,644,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00148832_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeOfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	160,644,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	99,689,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00148832_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeOfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	99,689,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	10,311,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00148832_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeOfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	10,311,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	416,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00148832_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeOfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	416,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-8,863,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00148832_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeOfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산평가손익	847,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-8,016,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	327,911,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	-3,213,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	-1,451,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00148832_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeOfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	2,904,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	326,151,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	590,108,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	-3,213,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	-1,451,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_IssueOfHybridBond	               신종자본증권발행	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_RepaymentOfHybridBond	               신종자본증권상환	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00148832_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeOfOtherComprehensiveIncomeAbstract	                  기타포괄손익-공정가치측정금융자산평가손익	847,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의재측정요소	0		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익(손실)	2,904,000,000		
+ 자본변동표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	589,195,000,000	590,108,000,000	
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	2,384,843,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타자본조정	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	38,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  1. 순확정급여자산의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	                  관계기업 기타포괄손익에 대한 지분	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               IX. 분기순이익	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	2,384,881,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	2,988,152,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타자본조정	-1,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	10,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  1. 순확정급여자산의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	                  관계기업 기타포괄손익에 대한 지분	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               IX. 분기순이익	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	2,988,161,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	219,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타자본조정	126,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  1. 순확정급여자산의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	                  관계기업 기타포괄손익에 대한 지분	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               IX. 분기순이익	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	345,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	43,714,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타자본조정	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	6,785,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  1. 순확정급여자산의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	                  관계기업 기타포괄손익에 대한 지분	-2,921,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               IX. 분기순이익	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	47,578,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,123,203,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DividendsPaid	               연차배당	171,520,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타자본조정	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  1. 순확정급여자산의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	                  관계기업 기타포괄손익에 대한 지분	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               IX. 분기순이익	137,416,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,089,099,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	6,540,131,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_DividendsPaid	               연차배당	171,520,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	               기타자본조정	125,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IssueOfEquity	               유상증자	48,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	6,785,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  1. 순확정급여자산의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	                  관계기업 기타포괄손익에 대한 지분	-2,921,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               IX. 분기순이익	137,416,000,000		
+ 자본변동표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	6,510,064,000,000	6,540,131,000,000	
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,878,476,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,878,476,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,899,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상	56,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,955,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	2,148,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	3,382,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	-15,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	5,515,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	113,322,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	16,058,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	129,380,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,995,845,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상	56,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산평가손익	3,382,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	-15,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	16,058,000,000		
+ 자본변동표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	2,015,326,000,000	1,995,845,000,000	
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	         연차배당	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	5,359,578,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	         제거등으로 인한 기타포괄손익-공정가치측정지분증권평가손익 재분류	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00158909_udf_CE_202431019142575OfStatementOfChangesInEquityLineItems	         소계	5,359,578,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	         분기총포괄이익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	5,359,578,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	         기타 자본조정	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	         해외사업장환산손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	         기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	         확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	         해외사업장순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	         분기순이익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	         연차배당	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	6,149,764,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	         제거등으로 인한 기타포괄손익-공정가치측정지분증권평가손익 재분류	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00158909_udf_CE_202431019142575OfStatementOfChangesInEquityLineItems	         소계	6,149,764,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	         분기총포괄이익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	6,149,764,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	         기타 자본조정	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	         해외사업장환산손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	         기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	         확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	         해외사업장순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	         분기순이익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	         연차배당	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	353,738,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	         제거등으로 인한 기타포괄손익-공정가치측정지분증권평가손익 재분류	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00158909_udf_CE_202431019142575OfStatementOfChangesInEquityLineItems	         소계	353,738,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	         분기총포괄이익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	353,738,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	         기타 자본조정	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	         해외사업장환산손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	         기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	         확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	         해외사업장순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	         분기순이익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	         연차배당	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-6,095,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	         제거등으로 인한 기타포괄손익-공정가치측정지분증권평가손익 재분류	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00158909_udf_CE_202431019142575OfStatementOfChangesInEquityLineItems	         소계	-6,095,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	         분기총포괄이익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-6,095,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	         기타 자본조정	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	         해외사업장환산손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	         기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	         확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	         해외사업장순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	         분기순이익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	         연차배당	1,000,000,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	21,123,646,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	         제거등으로 인한 기타포괄손익-공정가치측정지분증권평가손익 재분류	-1,153,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00158909_udf_CE_202431019142575OfStatementOfChangesInEquityLineItems	         소계	20,122,493,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	         분기총포괄이익	967,060,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	21,089,553,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	         기타 자본조정	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	         해외사업장환산손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	         기타포괄손익-공정가치측정지분증권평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	         확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	         해외사업장순투자위험회피평가손익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	         분기순이익	967,060,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	         연차배당	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-1,037,234,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	         제거등으로 인한 기타포괄손익-공정가치측정지분증권평가손익 재분류	1,153,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00158909_udf_CE_202431019142575OfStatementOfChangesInEquityLineItems	         소계	-1,036,081,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	         분기총포괄이익	67,715,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-968,366,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	         기타 자본조정	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	         해외사업장환산손익	-12,955,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권평가손익	68,606,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	         기타포괄손익-공정가치측정지분증권평가손익	13,937,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	         확정급여제도의 재측정요소	-673,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	         해외사업장순투자위험회피평가손익	-1,200,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	         분기순이익	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	         연차배당	1,000,000,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	31,943,397,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_TransferOfAmountRecognisedInOtherComprehensiveIncomeAndAccumulatedInEquityRelatingToDisposalOfInvestmentsInEquityInstruments	         제거등으로 인한 기타포괄손익-공정가치측정지분증권평가손익 재분류	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	entity00158909_udf_CE_202431019142575OfStatementOfChangesInEquityLineItems	         소계	30,943,397,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	         분기총포괄이익	1,034,775,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	31,978,172,000,000	31,943,397,000,000	
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity	         기타 자본조정	0		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	         해외사업장환산손익	-12,955,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정채무증권평가손익	68,606,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	         기타포괄손익-공정가치측정지분증권평가손익	13,937,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	         확정급여제도의 재측정요소	-673,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	         해외사업장순투자위험회피평가손익	-1,200,000,000		
+ 자본변동표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	         분기순이익	967,060,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,313,043,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상거래에 따른 증가(감소)	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners	               소유주와의 거래 합계	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	               총포괄손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	                     당기손익-공정가치측정지정금융부채의 자기신용위험조정	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산관련손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	                  기타포괄손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,313,043,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	299,969,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상거래에 따른 증가(감소)	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners	               소유주와의 거래 합계	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	               총포괄손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	                     당기손익-공정가치측정지정금융부채의 자기신용위험조정	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산관련손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	                  기타포괄손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	299,969,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	658,784,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상거래에 따른 증가(감소)	-8,976,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners	               소유주와의 거래 합계	-8,976,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	               총포괄손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	                     당기손익-공정가치측정지정금융부채의 자기신용위험조정	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산관련손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	                  기타포괄손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	649,808,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-5,180,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상거래에 따른 증가(감소)	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners	               소유주와의 거래 합계	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	               총포괄손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	                     당기손익-공정가치측정지정금융부채의 자기신용위험조정	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산관련손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	                  기타포괄손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-5,180,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-3,261,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상거래에 따른 증가(감소)	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners	               소유주와의 거래 합계	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	               총포괄손익	-2,976,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	                     당기손익-공정가치측정지정금융부채의 자기신용위험조정	-102,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산관련손익	-2,874,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	                  기타포괄손익	-2,976,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-6,237,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	3,297,389,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	232,000,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	4,091,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상거래에 따른 증가(감소)	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners	               소유주와의 거래 합계	-236,091,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	               총포괄손익	113,453,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	                     당기손익-공정가치측정지정금융부채의 자기신용위험조정	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산관련손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	                  기타포괄손익	0		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	113,453,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	3,174,751,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	5,560,744,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	232,000,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_DividendToHybridBond	               신종자본증권배당	4,091,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상거래에 따른 증가(감소)	-8,976,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners	               소유주와의 거래 합계	-245,067,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ComprehensiveIncome	               총포괄손익	110,477,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	                     당기손익-공정가치측정지정금융부채의 자기신용위험조정	-102,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정금융자산관련손익	-2,874,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncome	                  기타포괄손익	-2,976,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	113,453,000,000		
+ 자본변동표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	5,426,154,000,000	5,560,744,000,000	
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,591,372,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정 항목지정 금융부채 신용위험변동효과	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,591,372,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	1,377,462,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상	-50,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정 항목지정 금융부채 신용위험변동효과	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	1,377,412,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	-63,785,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정 항목지정 금융부채 신용위험변동효과	-123,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 금융자산평가손익	12,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	-4,404,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	-68,300,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	2,780,687,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	155,955,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정 항목지정 금융부채 신용위험변동효과	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 금융자산평가손익	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	0		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	82,404,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	2,707,136,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_EquityAtBeginningOfPeriod	         기초자본	5,685,736,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_AnnualDividendsPaid	               연차배당	155,955,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions	               주식기준보상	-50,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss	                     당기손익-공정가치측정 항목지정 금융부채 신용위험변동효과	-123,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	                     기타포괄손익-공정가치측정 금융자산평가손익	12,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	                  확정급여제도의 재측정요소	-4,404,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_ProfitLoss	               분기순이익	82,404,000,000		
+ 자본변동표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-03-31	1분기보고서	KRW	ifrs-full_Equity	         자본총계	5,607,620,000,000	5,685,736,000,000	

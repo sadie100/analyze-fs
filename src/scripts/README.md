@@ -1,189 +1,222 @@
-# 재무제표 데이터 변환기
+# 재무제표 데이터 처리 시스템
 
-탭으로 구분된 재무제표 텍스트 파일을 JSON 형태로 변환하는 도구입니다.
+금융감독원 재무상태표 TXT 파일을 JSON으로 변환하고 통합 데이터베이스를 구축하는 시스템입니다.
 
-## 주요 기능
-
-- 탭으로 구분된 재무제표 데이터를 JSON으로 변환
-- 숫자 데이터 자동 파싱 (쉼표 제거 및 타입 변환)
-- 회사별 데이터 그룹화 옵션
-- 에러 처리 및 데이터 검증
-- TypeScript 지원
-
-## 파일 구조
+## 📋 데이터 처리 플로우
 
 ```
-src/scripts/
-├── financial-data-converter.ts    # 메인 변환기 (TypeScript)
-├── financial-data-converter.js    # 컴파일된 JavaScript 파일
-├── test-financial-converter.ts    # 테스트 코드 (TypeScript)
-├── test-financial-converter.js    # 컴파일된 테스트 파일
-├── test_data.txt                  # 샘플 테스트 데이터
-└── README.md                      # 이 파일
+1. 재무상태표 .txt 파일들
+   ↓ (financial-converter-flexible.js)
+2. 재무상태표 .json 파일들
+   ↓ (build-database.js)
+3. 통합 데이터베이스 (financial-database.json)
+   └── 검색 인덱스 (company-index.json)
 ```
 
-## 사용법
+## 🗂️ 프로젝트 구조
 
-### 기본 사용법
+```
+src/
+├── data/
+│   ├── raw/                           # 원본 TXT 파일들
+│   ├── processed/                     # 변환된 JSON 파일들
+│   ├── resources/                     # CORPCODE.xml 등 참조 파일들
+│   ├── financial-database.json        # 최종 통합 데이터베이스
+│   └── company-index.json             # 검색 인덱스
+└── scripts/
+    ├── financial-converter-flexible.js    # TXT → JSON 변환기 (필수)
+    ├── build-database.js                  # JSON 통합 → DB 구축기 (필수)
+    ├── extract-company.js                 # 특정 회사 추출 (선택)
+    ├── check-items.js                     # 데이터 검증 (선택)
+    └── README.md                          # 이 파일
+```
+
+## 🚀 사용법
+
+### 1단계: TXT → JSON 변환
 
 ```bash
-# TypeScript 컴파일 (처음 한 번만)
-npx tsc financial-data-converter.ts
+# scripts 폴더로 이동
+cd src/scripts
 
-# 변환 실행 (회사별 그룹화)
-node financial-data-converter.js input.txt output.json
+# 각 TXT 파일을 JSON으로 변환 (raw → processed)
+node financial-converter-flexible.js "../data/raw/2025_1분기보고서_01_재무상태표_20250606.txt" "../data/processed/2025_1분기보고서_01_재무상태표_20250606.json"
 
-# 변환 실행 (원본 구조 유지)
-node financial-data-converter.js input.txt output.json --no-group
+node financial-converter-flexible.js "../data/raw/2025_1분기보고서_01_재무상태표_금융기타_20250606.txt" "../data/processed/2025_1분기보고서_01_재무상태표_금융기타_20250606.json"
+
+node financial-converter-flexible.js "../data/raw/2025_1분기보고서_01_재무상태표_금융기타_연결_20250606.txt" "../data/processed/2025_1분기보고서_01_재무상태표_금융기타_연결_20250606.json"
+
+node financial-converter-flexible.js "../data/raw/2025_1분기보고서_01_재무상태표_보험_20250606.txt" "../data/processed/2025_1분기보고서_01_재무상태표_보험_20250606.json"
+
+node financial-converter-flexible.js "../data/raw/2025_1분기보고서_01_재무상태표_보험_연결_20250606.txt" "../data/processed/2025_1분기보고서_01_재무상태표_보험_연결_20250606.json"
+
+node financial-converter-flexible.js "../data/raw/2025_1분기보고서_01_재무상태표_연결_20250606.txt" "../data/processed/2025_1분기보고서_01_재무상태표_연결_20250606.json"
+
+node financial-converter-flexible.js "../data/raw/2025_1분기보고서_01_재무상태표_은행_20250606.txt" "../data/processed/2025_1분기보고서_01_재무상태표_은행_20250606.json"
+
+node financial-converter-flexible.js "../data/raw/2025_1분기보고서_01_재무상태표_은행_연결_20250606.txt" "../data/processed/2025_1분기보고서_01_재무상태표_은행_연결_20250606.json"
+
+node financial-converter-flexible.js "../data/raw/2025_1분기보고서_01_재무상태표_증권_20250606.txt" "../data/processed/2025_1분기보고서_01_재무상태표_증권_20250606.json"
+
+node financial-converter-flexible.js "../data/raw/2025_1분기보고서_01_재무상태표_증권_연결_20250606.txt" "../data/processed/2025_1분기보고서_01_재무상태표_증권_연결_20250606.json"
 ```
 
-### 입력 파일 형식
+### 2단계: 통합 데이터베이스 구축
 
-입력 파일은 탭(Tab)으로 구분된 텍스트 파일이어야 합니다:
+```bash
+# JSON 파일들을 통합하여 최종 데이터베이스 생성
+node build-database.js
+```
+
+이 명령으로 생성되는 파일들:
+
+- `../data/financial-database.json` - 통합 재무 데이터베이스
+- `../data/company-index.json` - 회사 검색 인덱스
+
+## 📊 입력 파일 형식
+
+### TXT 파일 (금융감독원 형식)
 
 ```
 재무제표종류	종목코드	회사명	시장구분	업종	업종명	결산월	결산기준일	보고서종류	통화	항목코드	항목명	당기 1분기말	전기말	전전기말
 재무상태표, 유동/비유동법 - 별도	[095570]	AJ네트웍스	유가증권시장상장법인	763	산업용 기계 및 장비 임대업	12	2025-03-31	1분기보고서	KRW	ifrs-full_Assets	자산총계	1,669,024,533,027	1,619,112,721,909	1,500,000,000,000
 ```
 
-### 출력 형식
+## 📄 출력 파일 형식
 
-#### 회사별 그룹화된 JSON (기본값)
+### 1단계 출력: 개별 JSON 파일
 
 ```json
 {
-  "095570_AJ네트웍스": {
-    "종목코드": "095570",
-    "회사명": "AJ네트웍스",
-    "시장구분": "유가증권시장상장법인",
-    "업종": "763",
-    "업종명": "산업용 기계 및 장비 임대업",
-    "결산월": "12",
-    "결산기준일": "2025-03-31",
-    "보고서종류": "1분기보고서",
-    "통화": "KRW",
-    "재무데이터": [
-      {
-        "재무제표종류": "재무상태표, 유동/비유동법 - 별도",
-        "항목코드": "ifrs-full_Assets",
-        "항목명": "자산총계",
-        "당기 1분기말": 1669024533027,
-        "전기말": 1619112721909,
-        "전전기말": 1500000000000
-      }
-    ]
+  "companies": [
+    {
+      "종목코드": "095570",
+      "회사명": "AJ네트웍스",
+      "시장구분": "유가증권시장상장법인",
+      "업종": "763",
+      "업종명": "산업용 기계 및 장비 임대업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "재무상태표, 유동/비유동법 - 별도",
+          "항목코드": "ifrs-full_Assets",
+          "항목명": "자산총계",
+          "당기 1분기말": 1669024533027,
+          "전기말": 1619112721909,
+          "전전기말": 1500000000000
+        }
+      ]
+    }
+  ]
+}
+```
+
+### 2단계 출력: 통합 데이터베이스
+
+```json
+{
+  "metadata": {
+    "buildDate": "2025-01-06T...",
+    "totalCompanies": 2847,
+    "totalFiles": 11,
+    "industries": 45,
+    "markets": 3
+  },
+  "companies": {
+    "AJ네트웍스": {
+      "basicInfo": {
+        "종목코드": "095570",
+        "시장구분": "유가증권시장상장법인",
+        "업종": "763",
+        "업종명": "산업용 기계 및 장비 임대업"
+      },
+      "financialData": [...],
+      "rawData": [...]
+    }
+  },
+  "searchIndex": {
+    "companyNames": ["AJ네트웍스", "삼성전자", ...],
+    "industryMap": {
+      "반도체": ["삼성전자", "SK하이닉스", ...],
+      "자동차": ["현대차", "기아", ...]
+    },
+    "marketMap": {
+      "유가증권시장상장법인": ["삼성전자", "현대차", ...],
+      "코스닥시장상장법인": ["네이버", "카카오", ...]
+    }
   }
 }
 ```
 
-#### 원본 구조 유지 (`--no-group` 옵션)
+## 🔧 주요 기능
 
-```json
-[
-  {
-    "재무제표종류": "재무상태표, 유동/비유동법 - 별도",
-    "종목코드": "[095570]",
-    "회사명": "AJ네트웍스",
-    "시장구분": "유가증권시장상장법인",
-    "업종": "763",
-    "업종명": "산업용 기계 및 장비 임대업",
-    "결산월": "12",
-    "결산기준일": "2025-03-31",
-    "보고서종류": "1분기보고서",
-    "통화": "KRW",
-    "항목코드": "ifrs-full_Assets",
-    "항목명": "자산총계",
-    "당기 1분기말": 1669024533027,
-    "전기말": 1619112721909,
-    "전전기말": 1500000000000
-  }
-]
+### financial-converter-flexible.js
+
+- 한글 인코딩 자동 감지 및 처리 (CP949, EUC-KR, UTF-8)
+- 탭으로 구분된 데이터 파싱
+- 숫자 데이터 자동 변환 (쉼표 제거, number 타입 변환)
+- 회사별 데이터 그룹화
+- 에러 처리 및 로깅
+
+### build-database.js
+
+- 여러 JSON 파일 통합
+- 중복 데이터 제거
+- 회사별 인덱싱
+- 업종별/시장별 분류
+- 검색 인덱스 생성
+
+## 📈 통계 예시
+
+```
+🔄 재무데이터베이스 구축 시작...
+📁 발견된 JSON 파일: 11개
+  - 2025_1분기보고서_01_재무상태표_20250606.json
+  - 2025_1분기보고서_01_재무상태표_금융기타_20250606.json
+  ...
+
+📊 통계:
+  - 처리된 파일: 11/11
+  - 총 회사 수: 2,847
+  - 총 데이터 항목: 3,128
+
+✅ 데이터베이스 저장 완료: ../data/financial-database.json
+✅ 검색 인덱스 저장 완료: ../data/company-index.json
+📦 데이터베이스 크기: 15.23 MB
 ```
 
-## 테스트 실행
+## 🗑️ 정리 가능한 파일들
 
-```bash
-# TypeScript 테스트 파일 컴파일
-npx tsc test-financial-converter.ts
+처리 완료 후 삭제 가능한 파일들:
 
-# 테스트 실행
-node test-financial-converter.js
-```
+- `src/data/raw/*.txt` - 원본 TXT 파일들 (백업 목적으로 보관 권장)
+- `src/data/processed/*.json` - 개별 JSON 파일들 (통합 DB 생성 후 선택적 삭제 가능)
 
-테스트는 다음을 확인합니다:
-
-- ✅ 숫자 데이터 파싱 기능
-- ✅ 파일 파싱 기능
-- ✅ 회사별 그룹화 기능
-- ✅ JSON 변환 기능 (그룹화/비그룹화)
-- ✅ 에러 처리 (존재하지 않는 파일, 빈 파일 등)
-- ✅ 통합 테스트
-
-## 주요 특징
-
-### 1. 데이터 타입 자동 변환
-
-- 숫자 데이터는 자동으로 쉼표를 제거하고 number 타입으로 변환
-- 빈 값은 `null`로 처리
-- 텍스트 데이터는 문자열로 유지
-
-### 2. 회사별 그룹화
-
-- 종목코드와 회사명을 기준으로 데이터를 그룹화
-- 각 회사의 재무데이터를 배열로 정리
-- 회사 정보와 재무데이터를 분리하여 구조화
-
-### 3. 에러 처리
-
-- 파일 존재 여부 확인
-- 헤더와 데이터 열 개수 불일치 감지
-- 잘못된 형식의 데이터에 대한 경고 메시지
-
-### 4. TypeScript 지원
-
-- 완전한 타입 정의
-- 컴파일 타임 에러 검증
-- IDE 자동완성 지원
-
-## 요구사항
+## ⚙️ 요구사항
 
 - Node.js 14 이상
-- TypeScript (개발 시)
+- iconv-lite 패키지 (한글 인코딩 처리)
 
-## 라이선스
+## 🔍 디버깅 도구
 
-이 프로젝트는 MIT 라이선스 하에 배포됩니다.
-
-## 문제 해결
-
-### 일반적인 문제들
-
-1. **"파일을 찾을 수 없습니다" 오류**
-
-   - 입력 파일 경로가 올바른지 확인
-   - 파일이 존재하는지 확인
-
-2. **"열 개수가 헤더와 맞지 않습니다" 경고**
-
-   - 모든 데이터 행이 헤더와 같은 수의 열을 가지는지 확인
-   - 탭 문자가 올바르게 사용되었는지 확인
-
-3. **컴파일 오류**
-   - `@types/node`가 설치되어 있는지 확인: `npm install --save-dev @types/node`
-   - TypeScript가 설치되어 있는지 확인: `npm install -g typescript`
-
-### 예제 사용법
+### 특정 회사 데이터 추출
 
 ```bash
-# 1. 프로젝트 디렉토리로 이동
-cd src/scripts
-
-# 2. TypeScript 파일 컴파일
-npx tsc financial-data-converter.ts
-
-# 3. 변환 실행
-node financial-data-converter.js test_data.txt result.json
-
-# 4. 결과 확인
-cat result.json
+node extract-company.js
 ```
+
+### 데이터 검증
+
+```bash
+node check-items.js
+```
+
+## ❗ 주의사항
+
+1. **인코딩**: TXT 파일이 CP949나 EUC-KR로 인코딩되어 있을 수 있음
+2. **메모리**: 대용량 파일 처리 시 충분한 메모리 필요
+3. **중복 제거**: build-database.js가 자동으로 중복 데이터 제거
+4. **백업**: 원본 TXT 파일은 백업 보관 권장

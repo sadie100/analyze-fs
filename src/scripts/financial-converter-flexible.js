@@ -11,7 +11,8 @@ function cleanNumericValue(value) {
     return null
   }
 
-  const cleaned = value.replace(/,/g, '').trim()
+  // 숫자만 추출 (쉼표 제거 및 공백 제거)
+  const cleaned = value.replace(/[^0-9.-]/g, '').trim()
   const num = parseFloat(cleaned)
 
   return isNaN(num) ? null : num
@@ -21,35 +22,47 @@ function readFileWithKoreanEncoding(filePath) {
   console.log(`📁 파일 읽는 중: ${filePath}`)
 
   const buffer = fs.readFileSync(filePath)
+  let content
+
+  // CP949로 시도 (EUC-KR의 확장이므로 먼저 시도)
+  try {
+    content = iconv.decode(buffer, 'cp949')
+    if (content.includes('')) {
+      throw new Error('CP949 디코딩 실패')
+    }
+    console.log('✅ CP949 인코딩으로 성공')
+    return content
+  } catch {
+    console.log('⚠️ CP949 디코딩 실패, EUC-KR 시도')
+  }
 
   // EUC-KR로 시도
   try {
-    const content = iconv.decode(buffer, 'euc-kr')
-    if (/[가-힣]/.test(content) && !content.includes('�')) {
-      console.log('✅ EUC-KR 인코딩으로 성공')
-      return content
+    content = iconv.decode(buffer, 'euc-kr')
+    if (content.includes('')) {
+      throw new Error('EUC-KR 디코딩 실패')
     }
-  } catch (error) {
-    console.error(error)
-    throw error
-  }
-
-  // CP949로 시도
-  try {
-    const content = iconv.decode(buffer, 'cp949')
-    if (/[가-힣]/.test(content) && !content.includes('�')) {
-      console.log('✅ CP949 인코딩으로 성공')
-      return content
-    }
-  } catch (error) {
-    console.error(error)
-    throw error
+    console.log('✅ EUC-KR 인코딩으로 성공')
+    return content
+  } catch {
+    console.log('⚠️ EUC-KR 디코딩 실패, UTF-8 시도')
   }
 
   // UTF-8로 시도
-  const content = fs.readFileSync(filePath, 'utf8')
-  console.log('⚠️ UTF-8 인코딩 사용 (한글이 깨질 수 있음)')
-  return content
+  try {
+    content = buffer.toString('utf8')
+    if (content.includes('')) {
+      throw new Error('UTF-8 디코딩 실패')
+    }
+    console.log('✅ UTF-8 인코딩으로 성공')
+    return content
+  } catch {
+    console.log('⚠️ UTF-8 디코딩 실패')
+  }
+
+  // 모든 인코딩 시도 실패 시 CP949로 강제 시도
+  console.log('⚠️ 모든 인코딩 시도 실패, CP949 강제 적용')
+  return iconv.decode(buffer, 'cp949')
 }
 
 function parseFinancialData(content) {
@@ -62,8 +75,20 @@ function parseFinancialData(content) {
     throw new Error('파일이 비어있습니다.')
   }
 
-  // 헤더 파싱
-  const headers = lines[0].split('\t').map((h) => h.trim())
+  // 헤더 파싱 및 정리
+  const headers = lines[0]
+    .split('\t')
+    .map((h) => h.trim())
+    .map((h) => {
+      // 깨진 한글 헤더 수정
+      if (h.includes('')) {
+        if (h.includes('당')) return '당기 1분기말'
+        if (h.includes('전기')) return '전기말'
+        if (h.includes('전전')) return '전전기말'
+      }
+      return h
+    })
+
   console.log('📋 헤더 개수:', headers.length)
   console.log('📋 헤더:', headers)
 
@@ -80,13 +105,11 @@ function parseFinancialData(content) {
 
     // 컬럼 개수 처리
     if (values.length < headers.length) {
-      // 부족한 컬럼을 빈 문자열로 채움
       while (values.length < headers.length) {
         values.push('')
       }
       fixedRows++
     } else if (values.length > headers.length) {
-      // 초과 컬럼 제거
       values.splice(headers.length)
       fixedRows++
     }
@@ -97,7 +120,7 @@ function parseFinancialData(content) {
       row[header] = values[index]?.trim() || ''
     })
 
-    // 필수 필드 검증 (회사명이나 항목명이 있어야 함)
+    // 필수 필드 검증
     if (!row.회사명 && !row.항목명) {
       skippedRows++
       continue
@@ -117,11 +140,9 @@ function parseFinancialData(content) {
       통화: row.통화 || '',
       항목코드: row.항목코드 || '',
       항목명: row.항목명 || '',
-      '당기 1분기말': cleanNumericValue(
-        row['당기 1분기말'] || row['당 1분기말'] || ''
-      ),
-      전기말: cleanNumericValue(row['전기말'] || ''),
-      전전기말: cleanNumericValue(row['전전기말'] || ''),
+      '당기 1분기말': cleanNumericValue(row['당기 1분기말']),
+      전기말: cleanNumericValue(row['전기말']),
+      전전기말: cleanNumericValue(row['전전기말']),
     }
 
     results.push(financialData)

@@ -1,7 +1,7 @@
 {
   "companies": [
     {
-      "종목코드": "[null]",
+      "종목코드": "",
       "회사명": "DB생명보험",
       "시장구분": "기타법인",
       "업종": "651",
@@ -448,2766 +448,6 @@
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익(손실)",
           "당기 1분기말": 47141816311,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InvestmentIncomeExpenses",
-          "항목명": "투자손익",
-          "당기 1분기말": 314991733762,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInvestment",
-          "항목명": "투자영업비용",
-          "당기 1분기말": 3310468249156,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융비용",
-          "당기 1분기말": 1396121758,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융비용",
-          "당기 1분기말": 1134372774094,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtAmortisedCost",
-          "항목명": "상각후원가측정금융상품관련손실",
-          "당기 1분기말": 83684992858,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 10240429176,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 545894184713,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossesFromDerivatives",
-          "항목명": "파생상품관련비용",
-          "당기 1분기말": 1123966910945,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInvestment",
-          "항목명": "기타투자비용",
-          "당기 1분기말": 24489357471,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeLoss",
-          "항목명": "외화거래손실",
-          "당기 1분기말": 98556951639,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InterestExpense",
-          "항목명": "이자비용",
-          "당기 1분기말": 95340352768,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherFinanceCost",
-          "항목명": "기타금융비용",
-          "당기 1분기말": 176677837366,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
-          "항목명": "재산관리비",
-          "당기 1분기말": 15848336368,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InvestmentIncome",
-          "항목명": "투자영업수익",
-          "당기 1분기말": 3625459982918,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융수익",
-          "당기 1분기말": 860057259,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromDerivatives",
-          "항목명": "파생상품관련수익",
-          "당기 1분기말": 987121438305,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtAmortisedCost",
-          "항목명": "상각후원가측정금융상품관련이익",
-          "당기 1분기말": 3663891572,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 163419535410,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 877243736568,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융수익",
-          "당기 1분기말": 149284858,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingIncomeInvestment",
-          "항목명": "기타투자수익",
-          "당기 1분기말": 222012526300,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_FeeAndCommissionIncome",
-          "항목명": "수수료수익",
-          "당기 1분기말": 89045623765,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeGain",
-          "항목명": "외화거래이익",
-          "당기 1분기말": 206743855987,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RentalIncome",
-          "항목명": "임대료수익",
-          "당기 1분기말": 24373269921,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromDividends",
-          "항목명": "배당금수익",
-          "당기 1분기말": 87884058548,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromInterest",
-          "항목명": "이자수익",
-          "당기 1분기말": 962942704425,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingProfitLoss",
-          "항목명": "영업외손익",
-          "당기 1분기말": -5157686792,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingExpense",
-          "항목명": "영업외비용",
-          "당기 1분기말": 13705769789,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingIncome",
-          "항목명": "영업외수익",
-          "당기 1분기말": 8548082997,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncome",
-          "항목명": "분기총포괄손익",
-          "당기 1분기말": -655305878674,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분에 귀속되는 총포괄손익",
-          "당기 1분기말": 8102451505,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
-          "항목명": "지배기업의 소유주에게 귀속되는 총포괄손익",
-          "당기 1분기말": -663408330179,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_BasicEarningsLossPerShare",
-          "항목명": "보통주기본주당이익(손실)",
-          "당기 1분기말": 2554,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
-          "항목명": "법인세비용",
-          "당기 1분기말": 99033560557,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceResult",
-          "항목명": "보험손익",
-          "당기 1분기말": 154703487583,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInsurance",
-          "항목명": "보험서비스비용",
-          "당기 1분기말": 822431480300,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInsurance",
-          "항목명": "기타사업비용",
-          "당기 1분기말": 13772770257,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
-          "항목명": "재보험비용",
-          "당기 1분기말": 7333989182,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
-          "항목명": "보험비용",
-          "당기 1분기말": 801324720861,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingIncomeInsurance",
-          "항목명": "보험영업수익",
-          "당기 1분기말": 977134967883,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
-          "항목명": "재보험수익",
-          "당기 1분기말": 6699186674,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceRevenue",
-          "항목명": "보험수익",
-          "당기 1분기말": 970435781209,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncome",
-          "항목명": "기타포괄손익",
-          "당기 1분기말": -948103993509,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "당기손익으로 재분류되는 세후기타포괄손익의 구성요소",
-          "당기 1분기말": -959108458483,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromDerivativesHeldForHedging",
-          "항목명": "위험회피목적파생상품평가손익",
-          "당기 1분기말": 39664583682,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정채무증권 손실충당금",
-          "당기 1분기말": 266664856,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
-          "항목명": "해외사업장환산손익",
-          "당기 1분기말": 76685752,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
-          "항목명": "재보험계약자산(부채)순금융손익",
-          "당기 1분기말": -6559337999,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정채무증권평가손익",
-          "당기 1분기말": 894575632221,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
-          "항목명": "보험계약자산(부채)순금융손익",
-          "당기 1분기말": -1887140939014,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "관계종속기업투자평가손익",
-          "당기 1분기말": 8252019,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소",
-          "당기 1분기말": 11004464974,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments",
-          "항목명": "기타포괄손익-공정가치측정지분증권평가손익",
-          "당기 1분기말": 8614328506,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluationOfPropertyPlandAndEquipment",
-          "항목명": "유형자산재평가잉여금",
-          "당기 1분기말": 3089104161,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability",
-          "항목명": "당기손익-공정가치측정지정금융부채의 자기신용위험조정",
-          "당기 1분기말": -491058299,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
-          "항목명": "확정급여제도의재측정요소",
-          "당기 1분기말": -207909394,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
-          "항목명": "기타영업손익",
-          "당기 1분기말": -72705859161,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpense",
-          "항목명": "기타영업비용",
-          "당기 1분기말": 352117422874,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingIncome",
-          "항목명": "기타영업수익",
-          "당기 1분기말": 279411563713,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLoss",
-          "항목명": "분기순이익(손실)",
-          "당기 1분기말": 292798114835,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분에 귀속되는 당기순이익(손실)",
-          "당기 1분기말": 7445369507,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
-          "항목명": "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
-          "당기 1분기말": 285352745328,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossBeforeTax",
-          "항목명": "법인세차감전순이익",
-          "당기 1분기말": 391831675392,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영업이익",
-          "당기 1분기말": 396989362184,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InvestmentIncomeExpenses",
-          "항목명": "투자손익",
-          "당기 1분기말": 44384000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInvestment",
-          "항목명": "투자영업비용",
-          "당기 1분기말": 935074000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_AdditionalImpairmentLossesOfFinancialAssets",
-          "항목명": "신용손실충당금 전입액",
-          "당기 1분기말": 5005000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융비용",
-          "당기 1분기말": 10726000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융비용",
-          "당기 1분기말": 511380000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익공정가치측정유가증권처분손실",
-          "당기 1분기말": 13923000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익공정가치측정금융자산관련손실",
-          "당기 1분기말": 148237000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossesFromDerivatives",
-          "항목명": "파생상품관련손실",
-          "당기 1분기말": 128287000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInvestment",
-          "항목명": "기타투자비용",
-          "당기 1분기말": 83042000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "entity00137517_LossesOnDisposalOfLoansAtAmortizedCostOfOperatingExpenseInvestment",
-          "항목명": "상각후원가측정대출채권처분손실",
-          "당기 1분기말": 26000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeLoss",
-          "항목명": "외화거래손실",
-          "당기 1분기말": 14687000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InterestExpense",
-          "항목명": "이자비용",
-          "당기 1분기말": 15549000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
-          "항목명": "재산관리비",
-          "당기 1분기말": 4212000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InvestmentIncome",
-          "항목명": "투자영업수익",
-          "당기 1분기말": 979458000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융수익",
-          "당기 1분기말": 11155000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromDerivatives",
-          "항목명": "파생상품관련이익",
-          "당기 1분기말": 23399000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익공정가치측정유가증권처분이익",
-          "당기 1분기말": 49448000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익공정가치측정금융자산관련이익",
-          "당기 1분기말": 273025000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융수익",
-          "당기 1분기말": 58911000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingIncomeInvestment",
-          "항목명": "기타투자수익",
-          "당기 1분기말": 63983000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_ReversalsOfImpairmentLossesOfFinancialAssets",
-          "항목명": "신용손실충당금환입액",
-          "당기 1분기말": 3326000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "entity00137517_FeesAndCommissionIncomeOfInvestmentIncome",
-          "항목명": "수수료수익",
-          "당기 1분기말": 2289000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "entity00137517_GainsOnDisposalOfLoansAtAmortizedCostOfInvestmentIncome",
-          "항목명": "상각후원가측정대출채권처분이익",
-          "당기 1분기말": 59000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeGain",
-          "항목명": "외환거래이익",
-          "당기 1분기말": 99813000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromDividends",
-          "항목명": "배당수익",
-          "당기 1분기말": 17304000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromInterest",
-          "항목명": "이자수익",
-          "당기 1분기말": 376746000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingProfitLoss",
-          "항목명": "영업외손익",
-          "당기 1분기말": -7631000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "entity00137517_udf_IS_2023111011359606OfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "관계기업손익에 대한 지분",
-          "당기 1분기말": -232000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncome",
-          "항목명": "분기총포괄손익",
-          "당기 1분기말": -524073000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
-          "항목명": "지배기업 소유주지분",
-          "당기 1분기말": -524073000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_BasicEarningsLossPerShare",
-          "항목명": "기본 및 희석주당분기순이익",
-          "당기 1분기말": 1405,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
-          "항목명": "법인세비용",
-          "당기 1분기말": 58339000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceResult",
-          "항목명": "보험손익",
-          "당기 1분기말": 186990000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInsurance",
-          "항목명": "보험영업비용",
-          "당기 1분기말": 559285000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
-          "항목명": "재보험서비스비용",
-          "당기 1분기말": 25697000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
-          "항목명": "보험서비스비용",
-          "당기 1분기말": 533588000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingIncomeInsurance",
-          "항목명": "보험영업수익",
-          "당기 1분기말": 766284000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
-          "항목명": "재보험수익",
-          "당기 1분기말": 20687000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceRevenue",
-          "항목명": "보험수익",
-          "당기 1분기말": 745597000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInsurance",
-          "항목명": "기타사업비용",
-          "당기 1분기말": 20009000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncome",
-          "항목명": "기타포괄손익",
-          "당기 1분기말": -689245000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "후속적으로 당기손익으로 재분류되는 항목",
-          "당기 1분기말": -689567000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
-          "항목명": "현금흐름위험회피목적파생상품평가손익",
-          "당기 1분기말": 45143000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
-          "항목명": "해외사업환산손익",
-          "당기 1분기말": -643000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
-          "항목명": "재보험계약자산(부채)순금융손익",
-          "당기 1분기말": -6355000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익공정가치측정유가증권평가손익",
-          "당기 1분기말": 686843000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
-          "항목명": "보험계약부채순금융손익",
-          "당기 1분기말": -1414555000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "후속적으로 당기손익으로 재분류되지 않는 항목",
-          "당기 1분기말": 322000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
-          "항목명": "기타포괄손익공정가치측정유가증권평가손익",
-          "당기 1분기말": 322000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLoss",
-          "항목명": "분기순이익",
-          "당기 1분기말": 165172000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
-          "항목명": "지배기업 소유주지분",
-          "당기 1분기말": 165172000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossBeforeTax",
-          "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 223511000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영업이익",
-          "당기 1분기말": 231374000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
-          "항목명": "대손준비금 반영후 조정이익",
-          "당기 1분기말": 17507979632,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InvestmentIncomeExpenses",
-          "항목명": "투자손익",
-          "당기 1분기말": 25450981385,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInvestment",
-          "항목명": "투자영업비용",
-          "당기 1분기말": 426069496906,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_AdditionalImpairmentLossesOfFinancialAssets",
-          "항목명": "신용손실충당금 전입액",
-          "당기 1분기말": 187542591,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융비용",
-          "당기 1분기말": 874426055,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융비용",
-          "당기 1분기말": 168716386353,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 1172474599,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 186008217801,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossesFromDerivatives",
-          "항목명": "파생상품관련비용",
-          "당기 1분기말": 18916445594,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInvestment",
-          "항목명": "기타투자비용",
-          "당기 1분기말": 1024351,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "entity00148391_udf_IS_2023102316452134OfOperatingExpenseInvestment",
-          "항목명": "부동산관리비",
-          "당기 1분기말": 1406952051,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "entity00148391_udf_IS_2023102316454337OfOperatingExpenseInvestment",
-          "항목명": "투자부동산감가상각비",
-          "당기 1분기말": 578012038,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "entity00148391_udf_IS_202311619434654OfOperatingExpenseInvestment",
-          "항목명": "무형자산상각비",
-          "당기 1분기말": 42913668,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeLoss",
-          "항목명": "외화거래손실",
-          "당기 1분기말": 16035606528,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InterestExpense",
-          "항목명": "이자비용",
-          "당기 1분기말": 17367229644,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
-          "항목명": "재산관리비",
-          "당기 1분기말": 14762265633,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InvestmentIncome",
-          "항목명": "투자영업수익",
-          "당기 1분기말": 451520478291,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융수익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromDerivatives",
-          "항목명": "파생상품관련수익",
-          "당기 1분기말": 1212358492,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 11411776655,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 217847757675,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융수익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingIncomeInvestment",
-          "항목명": "기타투자수익",
-          "당기 1분기말": 44956278184,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_ReversalsOfImpairmentLossesOfFinancialAssets",
-          "항목명": "신용손실충당금 환입액",
-          "당기 1분기말": 634010490,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "entity00148391_udf_IS_20231023164347684OfInvestmentIncome",
-          "항목명": "임대료수익",
-          "당기 1분기말": 1821766616,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "entity00148391_udf_IS_20231023164350153OfInvestmentIncome",
-          "항목명": "수수료수익",
-          "당기 1분기말": 14002794251,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeGain",
-          "항목명": "외화거래이익",
-          "당기 1분기말": 32864473963,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromDividends",
-          "항목명": "배당금수익",
-          "당기 1분기말": 4389317868,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromInterest",
-          "항목명": "이자수익",
-          "당기 1분기말": 122379944097,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingProfitLoss",
-          "항목명": "영업외손익",
-          "당기 1분기말": -5164977355,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingExpense",
-          "항목명": "영업외비용",
-          "당기 1분기말": 5215422256,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingIncome",
-          "항목명": "영업외수익",
-          "당기 1분기말": 50444901,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncome",
-          "항목명": "총포괄손익",
-          "당기 1분기말": -102441217004,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분에 귀속되는 총포괄손익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분에 귀속되는 계속영업포괄손익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
-          "항목명": "지배기업의 소유주에게 귀속되는 총포괄손익",
-          "당기 1분기말": -102441217004,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToOwnersOfParent",
-          "항목명": "지배기업의 소유주에게 귀속되는 계속영업포괄손익",
-          "당기 1분기말": -102441217004,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_BasicEarningsLossPerShare",
-          "항목명": "보통주기본주당이익(손실)",
-          "당기 1분기말": 5635,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_BasicEarningsLossPerShareFromContinuingOperations",
-          "항목명": "계속영업기본주당이익(손실) - 보통주",
-          "당기 1분기말": 5635,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
-          "항목명": "법인세비용(수익)",
-          "당기 1분기말": 12988618981,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceResult",
-          "항목명": "총 보험서비스결과",
-          "당기 1분기말": 10210594583,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInsurance",
-          "항목명": "보험서비스비용",
-          "당기 1분기말": 179113587248,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInsurance",
-          "항목명": "기타사업비용",
-          "당기 1분기말": 3049554860,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
-          "항목명": "재보험비용",
-          "당기 1분기말": 14948539401,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
-          "항목명": "보험비용",
-          "당기 1분기말": 161115492987,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingIncomeInsurance",
-          "항목명": "보험영업수익",
-          "당기 1분기말": 189324181831,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
-          "항목명": "재보험수익",
-          "당기 1분기말": 11010057073,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceRevenue",
-          "항목명": "보험수익",
-          "당기 1분기말": 178314124758,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncome",
-          "항목명": "기타포괄손익",
-          "당기 1분기말": -119949196636,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "당기손익으로 재분류되는 세후기타포괄손익의 구성요소",
-          "당기 1분기말": -119949196636,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정 신용손실",
-          "당기 1분기말": -52680882,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
-          "항목명": "현금흐름위험회피파생상품평가손익",
-          "당기 1분기말": 12926843001,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
-          "항목명": "재보험계약자산(부채)순금융손익",
-          "당기 1분기말": -12996174312,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융자산평가손익",
-          "당기 1분기말": 242891465259,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
-          "항목명": "보험계약자산(부채)순금융손익",
-          "당기 1분기말": -362718649702,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLoss",
-          "항목명": "당기순이익(손실)",
-          "당기 1분기말": 17507979632,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분에 귀속되는 당기순이익(손실)",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromContinuingOperationsAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분에 귀속될 계속영업이익(손실)",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
-          "항목명": "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
-          "당기 1분기말": 17507979632,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeFromContinuingOperationsAttributableToOwnersOfParent",
-          "항목명": "지배기업의 소유주에게 귀속될 계속영업손익",
-          "당기 1분기말": 35661575968,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossBeforeTax",
-          "항목명": "법인세차감전순이익",
-          "당기 1분기말": 30496598613,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromContinuingOperations",
-          "항목명": "계속영업이익(손실)",
-          "당기 1분기말": 35661575968,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영업이익(손실)",
-          "당기 1분기말": 35661575968,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InvestmentIncomeExpenses",
-          "항목명": "투자영업손익",
-          "당기 1분기말": 42370000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInvestment",
-          "항목명": "투자영업비용",
-          "당기 1분기말": 439288000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융비용",
-          "당기 1분기말": 115000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융비용",
-          "당기 1분기말": 332340000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": null,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 52847000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossesFromDerivatives",
-          "항목명": "파생상품평가 및 거래손실",
-          "당기 1분기말": 26223000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInvestment",
-          "항목명": "기타영업비용",
-          "당기 1분기말": 17922000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "entity00160393_LossesOnDisposalOfSubsidiariesOfOperatingExpenseInvestmentOfOperatingExpenseInvestment",
-          "항목명": "관계기업투자주식관련손실",
-          "당기 1분기말": 151000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeLoss",
-          "항목명": "외환거래손실",
-          "당기 1분기말": 7005000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InterestExpense",
-          "항목명": "이자비용",
-          "당기 1분기말": 2685000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InvestmentIncome",
-          "항목명": "투자영업수익",
-          "당기 1분기말": 481658000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융수익",
-          "당기 1분기말": 23000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromDerivatives",
-          "항목명": "파생상품평가 및 거래이익",
-          "당기 1분기말": 15452000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 10965000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 172006000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융수익",
-          "당기 1분기말": 1665000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingIncomeInvestment",
-          "항목명": "기타영업수익",
-          "당기 1분기말": 37975000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeGain",
-          "항목명": "외환거래이익",
-          "당기 1분기말": 6170000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromDividends",
-          "항목명": "배당금수익",
-          "당기 1분기말": 17573000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromInterest",
-          "항목명": "이자수익",
-          "당기 1분기말": 219829000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingProfitLoss",
-          "항목명": "영업외손익",
-          "당기 1분기말": 505000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingExpense",
-          "항목명": "영업외비용",
-          "당기 1분기말": 98000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingIncome",
-          "항목명": "영업외수익",
-          "당기 1분기말": 603000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncome",
-          "항목명": "총포괄손익",
-          "당기 1분기말": -248441000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
-          "항목명": "지배기업 소유지분",
-          "당기 1분기말": -248441000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
-          "항목명": "법인세비용",
-          "당기 1분기말": 30085000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceResult",
-          "항목명": "보험영업손익",
-          "당기 1분기말": 83549000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInsurance",
-          "항목명": "보험영업비용",
-          "당기 1분기말": 134737000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInsurance",
-          "항목명": "기타사업비용",
-          "당기 1분기말": -1356000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
-          "항목명": "재보험영업비용",
-          "당기 1분기말": 1536000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
-          "항목명": "보험영업비용",
-          "당기 1분기말": 134557000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingIncomeInsurance",
-          "항목명": "보험영업수익",
-          "당기 1분기말": 218286000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
-          "항목명": "재보험영업수익",
-          "당기 1분기말": 4605000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceRevenue",
-          "항목명": "보험영업수익",
-          "당기 1분기말": 213681000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncome",
-          "항목명": "기타포괄손익",
-          "당기 1분기말": -335402000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "후속적으로 당기손익으로 재분류되는 항목",
-          "당기 1분기말": -338762000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
-          "항목명": "현금흐름위험회피파생상품평가손익",
-          "당기 1분기말": -1883000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
-          "항목명": "재보험계약자산부채순금융손익",
-          "당기 1분기말": 1993000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정채무상품평가손익",
-          "당기 1분기말": 433121000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
-          "항목명": "보험계약자산부채순금융손익",
-          "당기 1분기말": -771993000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "후속적으로 당기손익으로 재분류되지 않는 항목",
-          "당기 1분기말": 3360000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
-          "항목명": "기타포괄손익-공정가치측정지분상품평가손익",
-          "당기 1분기말": 3461000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
-          "항목명": "순확정급여부채의 재측정요소",
-          "당기 1분기말": -101000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
-          "항목명": "기타영업손익",
-          "당기 1분기말": -9378000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpense",
-          "항목명": "기타영업비용",
-          "당기 1분기말": 28989000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingIncome",
-          "항목명": "기타영업수익",
-          "당기 1분기말": 19611000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLoss",
-          "항목명": "분기순이익",
-          "당기 1분기말": 86961000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
-          "항목명": "지배기업 소유지분",
-          "당기 1분기말": 86961000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossBeforeTax",
-          "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 117046000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영업이익",
-          "당기 1분기말": 116541000000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InvestmentIncomeExpenses",
-          "항목명": "투자손익",
-          "당기 1분기말": -91458611533,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInvestment",
-          "항목명": "투자영업비용",
-          "당기 1분기말": 316118619271,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_AdditionalImpairmentLossesOfFinancialAssets",
-          "항목명": "신용손실충당금 전입액",
-          "당기 1분기말": 346055685,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융비용",
-          "당기 1분기말": 5404963,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융비용",
-          "당기 1분기말": 72711532832,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost",
-          "항목명": "상각후원가측정금융상품제거손실",
-          "당기 1분기말": 82291047,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 1547726311,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 68085203058,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossesFromDerivatives",
-          "항목명": "파생상품관련비용",
-          "당기 1분기말": 45710807986,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInvestment",
-          "항목명": "기타투자비용",
-          "당기 1분기말": 81343426050,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeLoss",
-          "항목명": "외화거래손실",
-          "당기 1분기말": 29316804467,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InterestExpense",
-          "항목명": "금융부채의 이자비용",
-          "당기 1분기말": 16518041869,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
-          "항목명": "재산관리비",
-          "당기 1분기말": 451325003,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InvestmentIncome",
-          "항목명": "투자영업수익",
-          "당기 1분기말": 224660007738,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost",
-          "항목명": "상각후원가측정금융상품제거이익",
-          "당기 1분기말": 1591323385,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromDerivatives",
-          "항목명": "파생상품관련수익",
-          "당기 1분기말": 38553085518,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 1420169462,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 36183416323,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingIncomeInvestment",
-          "항목명": "기타투자수익",
-          "당기 1분기말": 4800067505,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_ReversalsOfImpairmentLossesOfFinancialAssets",
-          "항목명": "신용손실충당금 환입액",
-          "당기 1분기말": 8390499579,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeGain",
-          "항목명": "외화거래이익",
-          "당기 1분기말": 8871395323,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromDividends",
-          "항목명": "배당금수익",
-          "당기 1분기말": 860973029,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromInterest",
-          "항목명": "이자수익",
-          "당기 1분기말": 123989077614,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치로 측정하는 금융자산의 이자수익",
-          "당기 1분기말": 692840214,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
-          "항목명": "유효이자율법 적용 이자수익",
-          "당기 1분기말": 123296237400,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingProfitLoss",
-          "항목명": "영업외손익",
-          "당기 1분기말": -235564698,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingExpense",
-          "항목명": "영업외비용",
-          "당기 1분기말": 260978830,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingIncome",
-          "항목명": "영업외수익",
-          "당기 1분기말": 25414132,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncome",
-          "항목명": "총포괄손익",
-          "당기 1분기말": -130366052071,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
-          "항목명": "지배기업 소유주지분",
-          "당기 1분기말": -130366052071,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
-          "항목명": "법인세비용(수익)",
-          "당기 1분기말": -22256561575,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceResult",
-          "항목명": "보험손익",
-          "당기 1분기말": -3067402705,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInsurance",
-          "항목명": "보험서비스비용",
-          "당기 1분기말": 61440333809,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInsurance",
-          "항목명": "기타사업비용",
-          "당기 1분기말": 2384032208,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
-          "항목명": "재보험비용",
-          "당기 1분기말": 2151835663,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
-          "항목명": "보험비용",
-          "당기 1분기말": 56904465938,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingIncomeInsurance",
-          "항목명": "보험영업수익",
-          "당기 1분기말": 58372931104,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
-          "항목명": "재보험수익",
-          "당기 1분기말": 1091802204,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceRevenue",
-          "항목명": "보험수익",
-          "당기 1분기말": 57281128900,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncome",
-          "항목명": "기타포괄손익",
-          "당기 1분기말": -57861034710,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "당기손익으로 재분류되는 세후기타포괄손익의 구성요소",
-          "당기 1분기말": -57856867634,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정 신용손실",
-          "당기 1분기말": -52174759,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
-          "항목명": "현금흐름위험회피파생상품평가손익",
-          "당기 1분기말": -326485859,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
-          "항목명": "재보험계약자산(부채)순금융손익",
-          "당기 1분기말": -85913958,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융자산 평가손익",
-          "당기 1분기말": 67966707270,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
-          "항목명": "보험계약자산(부채)순금융손익",
-          "당기 1분기말": -125359000328,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소",
-          "당기 1분기말": -4167076,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
-          "항목명": "확정급여부채의 재측정요소",
-          "당기 1분기말": -4167076,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLoss",
-          "항목명": "분기순이익(손실)",
-          "당기 1분기말": -72505017361,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
-          "항목명": "지배기업 소유주지분",
-          "당기 1분기말": -72505017361,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossBeforeTax",
-          "항목명": "법인세차감전순이익(손실)",
-          "당기 1분기말": -94761578936,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영업이익(손실)",
-          "당기 1분기말": -94526014238,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InvestmentIncomeExpenses",
-          "항목명": "투자손익",
-          "당기 1분기말": 28706941733,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInvestment",
-          "항목명": "투자영업비용",
-          "당기 1분기말": 343996387026,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_AdditionalImpairmentLossesOfFinancialAssets",
-          "항목명": "신용손실충당금 전입액",
-          "당기 1분기말": 19264009846,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융비용",
-          "당기 1분기말": 1001075065,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융비용",
-          "당기 1분기말": 171522267723,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost",
-          "항목명": "상각후원가측정금융상품제거손실",
-          "당기 1분기말": 938961784,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 3041029745,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 35115194717,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_LossesFromDerivatives",
-          "항목명": "파생상품관련비용",
-          "당기 1분기말": 55518759125,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInvestment",
-          "항목명": "기타투자비용",
-          "당기 1분기말": 13725168574,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeLoss",
-          "항목명": "외화거래손실",
-          "당기 1분기말": 9478768363,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InterestExpense",
-          "항목명": "이자비용",
-          "당기 1분기말": 31618417519,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
-          "항목명": "재산관리비",
-          "당기 1분기말": 2772734565,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InvestmentIncome",
-          "항목명": "투자영업수익",
-          "당기 1분기말": 372703328759,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
-          "항목명": "재보험금융수익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromDerivatives",
-          "항목명": "파생상품관련수익",
-          "당기 1분기말": 20730290837,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 8095435578,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 82082595745,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
-          "항목명": "보험금융수익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingIncomeInvestment",
-          "항목명": "기타투자수익",
-          "당기 1분기말": 66427173944,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_ReversalsOfImpairmentLossesOfFinancialAssets",
-          "항목명": "신용손실충당금 환입액",
-          "당기 1분기말": 12787912878,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeGain",
-          "항목명": "외화거래이익",
-          "당기 1분기말": 35016732872,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_RevenueFromInterest",
-          "항목명": "이자수익",
-          "당기 1분기말": 147563186905,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치로 측정하는 금융자산의 이자수익",
-          "당기 1분기말": 5716638898,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
-          "항목명": "유효이자율법 적용 이자수익",
-          "당기 1분기말": 141846548007,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingExpense",
-          "항목명": "영업외비용",
-          "당기 1분기말": 460752729,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_NonOperatingIncome",
-          "항목명": "영업외수익",
-          "당기 1분기말": 56905980595,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncome",
-          "항목명": "분기총포괄손익",
-          "당기 1분기말": -275519061043,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
-          "항목명": "지배기업의 소유주",
-          "당기 1분기말": -275519061043,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_BasicEarningsLossPerShareFromContinuingOperations",
-          "항목명": "기본주당이익",
-          "당기 1분기말": 5854,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations",
-          "항목명": "희석주당이익",
-          "당기 1분기말": 5854,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
-          "항목명": "법인세비용",
-          "당기 1분기말": 10544422703,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceResult",
-          "항목명": "보험손익",
-          "당기 1분기말": 14625329863,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingExpenseInsurance",
-          "항목명": "보험비용",
-          "당기 1분기말": 256790188854,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherOperatingExpenseInsurance",
-          "항목명": "기타사업비용",
-          "당기 1분기말": 7526263297,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
-          "항목명": "재보험비용",
-          "당기 1분기말": 24769719750,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
-          "항목명": "보험비용",
-          "당기 1분기말": 224494205807,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OperatingIncomeInsurance",
-          "항목명": "보험수익",
-          "당기 1분기말": 271415518717,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
-          "항목명": "재보험수익",
-          "당기 1분기말": 18709488916,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_InsuranceRevenue",
-          "항목명": "보험수익",
-          "당기 1분기말": 252706029801,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncome",
-          "항목명": "기타포괄손익",
-          "당기 1분기말": -364752137802,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "후속적으로 당기손익으로 재분류될 수 있는 항목",
-          "당기 1분기말": -355545792143,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융자산손상충당금",
-          "당기 1분기말": 368434130,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
-          "항목명": "위험회피목적파생상품평가손익",
-          "당기 1분기말": -11384853058,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
-          "항목명": "해외사업환산손익",
-          "당기 1분기말": 3415,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
-          "항목명": "재보험계약 관련 금융손익",
-          "당기 1분기말": -11839226361,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융자산평가손익(채무상품)",
-          "당기 1분기말": 209767443451,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
-          "항목명": "보험계약 관련 금융손익",
-          "당기 1분기말": -472803429182,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "관계기업투자주식지분법자본변동",
-          "당기 1분기말": -69654164538,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "후속적으로 당기손익으로 재분류되지 않는 항목",
-          "당기 1분기말": -9206345659,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
-          "항목명": "기타포괄손익-공정가치측정금융자산평가손익(지분상품)",
-          "당기 1분기말": -5803295782,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
-          "항목명": "순확정급여부채 재측정요소",
-          "당기 1분기말": -6440528,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation",
-          "항목명": "재평가잉여금",
-          "당기 1분기말": -3396609349,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLoss",
-          "항목명": "분기순이익",
-          "당기 1분기말": 89233076759,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
-          "항목명": "지배기업의 소유주지분",
-          "당기 1분기말": 89233076759,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossBeforeTax",
-          "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 99777499462,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 보험 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영업이익",
-          "당기 1분기말": 43332271596,
           "전기말": null,
           "전전기말": null
         }
@@ -4194,6 +1434,531 @@
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익",
           "당기 1분기말": 422259000000,
+          "전기말": null,
+          "전전기말": null
+        }
+      ]
+    },
+    {
+      "종목코드": "",
+      "회사명": "교보생명보험",
+      "시장구분": "기타법인",
+      "업종": "651",
+      "업종명": "보험업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InvestmentIncomeExpenses",
+          "항목명": "투자손익",
+          "당기 1분기말": 314991733762,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInvestment",
+          "항목명": "투자영업비용",
+          "당기 1분기말": 3310468249156,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융비용",
+          "당기 1분기말": 1396121758,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융비용",
+          "당기 1분기말": 1134372774094,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtAmortisedCost",
+          "항목명": "상각후원가측정금융상품관련손실",
+          "당기 1분기말": 83684992858,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 10240429176,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 545894184713,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossesFromDerivatives",
+          "항목명": "파생상품관련비용",
+          "당기 1분기말": 1123966910945,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInvestment",
+          "항목명": "기타투자비용",
+          "당기 1분기말": 24489357471,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeLoss",
+          "항목명": "외화거래손실",
+          "당기 1분기말": 98556951639,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InterestExpense",
+          "항목명": "이자비용",
+          "당기 1분기말": 95340352768,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherFinanceCost",
+          "항목명": "기타금융비용",
+          "당기 1분기말": 176677837366,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
+          "항목명": "재산관리비",
+          "당기 1분기말": 15848336368,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InvestmentIncome",
+          "항목명": "투자영업수익",
+          "당기 1분기말": 3625459982918,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융수익",
+          "당기 1분기말": 860057259,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromDerivatives",
+          "항목명": "파생상품관련수익",
+          "당기 1분기말": 987121438305,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtAmortisedCost",
+          "항목명": "상각후원가측정금융상품관련이익",
+          "당기 1분기말": 3663891572,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 163419535410,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 877243736568,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융수익",
+          "당기 1분기말": 149284858,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingIncomeInvestment",
+          "항목명": "기타투자수익",
+          "당기 1분기말": 222012526300,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_FeeAndCommissionIncome",
+          "항목명": "수수료수익",
+          "당기 1분기말": 89045623765,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeGain",
+          "항목명": "외화거래이익",
+          "당기 1분기말": 206743855987,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RentalIncome",
+          "항목명": "임대료수익",
+          "당기 1분기말": 24373269921,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromDividends",
+          "항목명": "배당금수익",
+          "당기 1분기말": 87884058548,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromInterest",
+          "항목명": "이자수익",
+          "당기 1분기말": 962942704425,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingProfitLoss",
+          "항목명": "영업외손익",
+          "당기 1분기말": -5157686792,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingExpense",
+          "항목명": "영업외비용",
+          "당기 1분기말": 13705769789,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingIncome",
+          "항목명": "영업외수익",
+          "당기 1분기말": 8548082997,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncome",
+          "항목명": "분기총포괄손익",
+          "당기 1분기말": -655305878674,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분에 귀속되는 총포괄손익",
+          "당기 1분기말": 8102451505,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
+          "항목명": "지배기업의 소유주에게 귀속되는 총포괄손익",
+          "당기 1분기말": -663408330179,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_BasicEarningsLossPerShare",
+          "항목명": "보통주기본주당이익(손실)",
+          "당기 1분기말": 2554,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
+          "항목명": "법인세비용",
+          "당기 1분기말": 99033560557,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceResult",
+          "항목명": "보험손익",
+          "당기 1분기말": 154703487583,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInsurance",
+          "항목명": "보험서비스비용",
+          "당기 1분기말": 822431480300,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInsurance",
+          "항목명": "기타사업비용",
+          "당기 1분기말": 13772770257,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
+          "항목명": "재보험비용",
+          "당기 1분기말": 7333989182,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
+          "항목명": "보험비용",
+          "당기 1분기말": 801324720861,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingIncomeInsurance",
+          "항목명": "보험영업수익",
+          "당기 1분기말": 977134967883,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
+          "항목명": "재보험수익",
+          "당기 1분기말": 6699186674,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceRevenue",
+          "항목명": "보험수익",
+          "당기 1분기말": 970435781209,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncome",
+          "항목명": "기타포괄손익",
+          "당기 1분기말": -948103993509,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "당기손익으로 재분류되는 세후기타포괄손익의 구성요소",
+          "당기 1분기말": -959108458483,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromDerivativesHeldForHedging",
+          "항목명": "위험회피목적파생상품평가손익",
+          "당기 1분기말": 39664583682,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정채무증권 손실충당금",
+          "당기 1분기말": 266664856,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
+          "항목명": "해외사업장환산손익",
+          "당기 1분기말": 76685752,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
+          "항목명": "재보험계약자산(부채)순금융손익",
+          "당기 1분기말": -6559337999,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정채무증권평가손익",
+          "당기 1분기말": 894575632221,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
+          "항목명": "보험계약자산(부채)순금융손익",
+          "당기 1분기말": -1887140939014,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "관계종속기업투자평가손익",
+          "당기 1분기말": 8252019,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소",
+          "당기 1분기말": 11004464974,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments",
+          "항목명": "기타포괄손익-공정가치측정지분증권평가손익",
+          "당기 1분기말": 8614328506,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluationOfPropertyPlandAndEquipment",
+          "항목명": "유형자산재평가잉여금",
+          "당기 1분기말": 3089104161,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability",
+          "항목명": "당기손익-공정가치측정지정금융부채의 자기신용위험조정",
+          "당기 1분기말": -491058299,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
+          "항목명": "확정급여제도의재측정요소",
+          "당기 1분기말": -207909394,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
+          "항목명": "기타영업손익",
+          "당기 1분기말": -72705859161,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpense",
+          "항목명": "기타영업비용",
+          "당기 1분기말": 352117422874,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingIncome",
+          "항목명": "기타영업수익",
+          "당기 1분기말": 279411563713,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLoss",
+          "항목명": "분기순이익(손실)",
+          "당기 1분기말": 292798114835,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분에 귀속되는 당기순이익(손실)",
+          "당기 1분기말": 7445369507,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+          "항목명": "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+          "당기 1분기말": 285352745328,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossBeforeTax",
+          "항목명": "법인세차감전순이익",
+          "당기 1분기말": 391831675392,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
+          "항목명": "영업이익",
+          "당기 1분기말": 396989362184,
           "전기말": null,
           "전전기말": null
         }
@@ -7062,6 +4827,1389 @@
       ]
     },
     {
+      "종목코드": "",
+      "회사명": "신한라이프생명보험",
+      "시장구분": "기타법인",
+      "업종": "651",
+      "업종명": "보험업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InvestmentIncomeExpenses",
+          "항목명": "투자손익",
+          "당기 1분기말": 44384000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInvestment",
+          "항목명": "투자영업비용",
+          "당기 1분기말": 935074000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_AdditionalImpairmentLossesOfFinancialAssets",
+          "항목명": "신용손실충당금 전입액",
+          "당기 1분기말": 5005000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융비용",
+          "당기 1분기말": 10726000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융비용",
+          "당기 1분기말": 511380000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익공정가치측정유가증권처분손실",
+          "당기 1분기말": 13923000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익공정가치측정금융자산관련손실",
+          "당기 1분기말": 148237000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossesFromDerivatives",
+          "항목명": "파생상품관련손실",
+          "당기 1분기말": 128287000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInvestment",
+          "항목명": "기타투자비용",
+          "당기 1분기말": 83042000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "entity00137517_LossesOnDisposalOfLoansAtAmortizedCostOfOperatingExpenseInvestment",
+          "항목명": "상각후원가측정대출채권처분손실",
+          "당기 1분기말": 26000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeLoss",
+          "항목명": "외화거래손실",
+          "당기 1분기말": 14687000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InterestExpense",
+          "항목명": "이자비용",
+          "당기 1분기말": 15549000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
+          "항목명": "재산관리비",
+          "당기 1분기말": 4212000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InvestmentIncome",
+          "항목명": "투자영업수익",
+          "당기 1분기말": 979458000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융수익",
+          "당기 1분기말": 11155000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromDerivatives",
+          "항목명": "파생상품관련이익",
+          "당기 1분기말": 23399000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익공정가치측정유가증권처분이익",
+          "당기 1분기말": 49448000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익공정가치측정금융자산관련이익",
+          "당기 1분기말": 273025000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융수익",
+          "당기 1분기말": 58911000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingIncomeInvestment",
+          "항목명": "기타투자수익",
+          "당기 1분기말": 63983000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_ReversalsOfImpairmentLossesOfFinancialAssets",
+          "항목명": "신용손실충당금환입액",
+          "당기 1분기말": 3326000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "entity00137517_FeesAndCommissionIncomeOfInvestmentIncome",
+          "항목명": "수수료수익",
+          "당기 1분기말": 2289000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "entity00137517_GainsOnDisposalOfLoansAtAmortizedCostOfInvestmentIncome",
+          "항목명": "상각후원가측정대출채권처분이익",
+          "당기 1분기말": 59000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeGain",
+          "항목명": "외환거래이익",
+          "당기 1분기말": 99813000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromDividends",
+          "항목명": "배당수익",
+          "당기 1분기말": 17304000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromInterest",
+          "항목명": "이자수익",
+          "당기 1분기말": 376746000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingProfitLoss",
+          "항목명": "영업외손익",
+          "당기 1분기말": -7631000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "entity00137517_udf_IS_2023111011359606OfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "관계기업손익에 대한 지분",
+          "당기 1분기말": -232000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncome",
+          "항목명": "분기총포괄손익",
+          "당기 1분기말": -524073000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
+          "항목명": "지배기업 소유주지분",
+          "당기 1분기말": -524073000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_BasicEarningsLossPerShare",
+          "항목명": "기본 및 희석주당분기순이익",
+          "당기 1분기말": 1405,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
+          "항목명": "법인세비용",
+          "당기 1분기말": 58339000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceResult",
+          "항목명": "보험손익",
+          "당기 1분기말": 186990000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInsurance",
+          "항목명": "보험영업비용",
+          "당기 1분기말": 559285000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
+          "항목명": "재보험서비스비용",
+          "당기 1분기말": 25697000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
+          "항목명": "보험서비스비용",
+          "당기 1분기말": 533588000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingIncomeInsurance",
+          "항목명": "보험영업수익",
+          "당기 1분기말": 766284000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
+          "항목명": "재보험수익",
+          "당기 1분기말": 20687000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceRevenue",
+          "항목명": "보험수익",
+          "당기 1분기말": 745597000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInsurance",
+          "항목명": "기타사업비용",
+          "당기 1분기말": 20009000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncome",
+          "항목명": "기타포괄손익",
+          "당기 1분기말": -689245000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "후속적으로 당기손익으로 재분류되는 항목",
+          "당기 1분기말": -689567000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
+          "항목명": "현금흐름위험회피목적파생상품평가손익",
+          "당기 1분기말": 45143000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
+          "항목명": "해외사업환산손익",
+          "당기 1분기말": -643000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
+          "항목명": "재보험계약자산(부채)순금융손익",
+          "당기 1분기말": -6355000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익공정가치측정유가증권평가손익",
+          "당기 1분기말": 686843000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
+          "항목명": "보험계약부채순금융손익",
+          "당기 1분기말": -1414555000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "후속적으로 당기손익으로 재분류되지 않는 항목",
+          "당기 1분기말": 322000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
+          "항목명": "기타포괄손익공정가치측정유가증권평가손익",
+          "당기 1분기말": 322000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLoss",
+          "항목명": "분기순이익",
+          "당기 1분기말": 165172000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+          "항목명": "지배기업 소유주지분",
+          "당기 1분기말": 165172000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossBeforeTax",
+          "항목명": "법인세비용차감전순이익",
+          "당기 1분기말": 223511000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
+          "항목명": "영업이익",
+          "당기 1분기말": 231374000000,
+          "전기말": null,
+          "전전기말": null
+        }
+      ]
+    },
+    {
+      "종목코드": "",
+      "회사명": "에이비엘생명보험",
+      "시장구분": "기타법인",
+      "업종": "651",
+      "업종명": "보험업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
+          "항목명": "대손준비금 반영후 조정이익",
+          "당기 1분기말": 17507979632,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InvestmentIncomeExpenses",
+          "항목명": "투자손익",
+          "당기 1분기말": 25450981385,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInvestment",
+          "항목명": "투자영업비용",
+          "당기 1분기말": 426069496906,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_AdditionalImpairmentLossesOfFinancialAssets",
+          "항목명": "신용손실충당금 전입액",
+          "당기 1분기말": 187542591,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융비용",
+          "당기 1분기말": 874426055,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융비용",
+          "당기 1분기말": 168716386353,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 1172474599,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 186008217801,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossesFromDerivatives",
+          "항목명": "파생상품관련비용",
+          "당기 1분기말": 18916445594,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInvestment",
+          "항목명": "기타투자비용",
+          "당기 1분기말": 1024351,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "entity00148391_udf_IS_2023102316452134OfOperatingExpenseInvestment",
+          "항목명": "부동산관리비",
+          "당기 1분기말": 1406952051,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "entity00148391_udf_IS_2023102316454337OfOperatingExpenseInvestment",
+          "항목명": "투자부동산감가상각비",
+          "당기 1분기말": 578012038,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "entity00148391_udf_IS_202311619434654OfOperatingExpenseInvestment",
+          "항목명": "무형자산상각비",
+          "당기 1분기말": 42913668,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeLoss",
+          "항목명": "외화거래손실",
+          "당기 1분기말": 16035606528,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InterestExpense",
+          "항목명": "이자비용",
+          "당기 1분기말": 17367229644,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
+          "항목명": "재산관리비",
+          "당기 1분기말": 14762265633,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InvestmentIncome",
+          "항목명": "투자영업수익",
+          "당기 1분기말": 451520478291,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융수익",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromDerivatives",
+          "항목명": "파생상품관련수익",
+          "당기 1분기말": 1212358492,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 11411776655,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 217847757675,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융수익",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingIncomeInvestment",
+          "항목명": "기타투자수익",
+          "당기 1분기말": 44956278184,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_ReversalsOfImpairmentLossesOfFinancialAssets",
+          "항목명": "신용손실충당금 환입액",
+          "당기 1분기말": 634010490,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "entity00148391_udf_IS_20231023164347684OfInvestmentIncome",
+          "항목명": "임대료수익",
+          "당기 1분기말": 1821766616,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "entity00148391_udf_IS_20231023164350153OfInvestmentIncome",
+          "항목명": "수수료수익",
+          "당기 1분기말": 14002794251,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeGain",
+          "항목명": "외화거래이익",
+          "당기 1분기말": 32864473963,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromDividends",
+          "항목명": "배당금수익",
+          "당기 1분기말": 4389317868,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromInterest",
+          "항목명": "이자수익",
+          "당기 1분기말": 122379944097,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingProfitLoss",
+          "항목명": "영업외손익",
+          "당기 1분기말": -5164977355,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingExpense",
+          "항목명": "영업외비용",
+          "당기 1분기말": 5215422256,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingIncome",
+          "항목명": "영업외수익",
+          "당기 1분기말": 50444901,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncome",
+          "항목명": "총포괄손익",
+          "당기 1분기말": -102441217004,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분에 귀속되는 총포괄손익",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분에 귀속되는 계속영업포괄손익",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
+          "항목명": "지배기업의 소유주에게 귀속되는 총포괄손익",
+          "당기 1분기말": -102441217004,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToOwnersOfParent",
+          "항목명": "지배기업의 소유주에게 귀속되는 계속영업포괄손익",
+          "당기 1분기말": -102441217004,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_BasicEarningsLossPerShare",
+          "항목명": "보통주기본주당이익(손실)",
+          "당기 1분기말": 5635,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_BasicEarningsLossPerShareFromContinuingOperations",
+          "항목명": "계속영업기본주당이익(손실) - 보통주",
+          "당기 1분기말": 5635,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
+          "항목명": "법인세비용(수익)",
+          "당기 1분기말": 12988618981,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceResult",
+          "항목명": "총 보험서비스결과",
+          "당기 1분기말": 10210594583,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInsurance",
+          "항목명": "보험서비스비용",
+          "당기 1분기말": 179113587248,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInsurance",
+          "항목명": "기타사업비용",
+          "당기 1분기말": 3049554860,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
+          "항목명": "재보험비용",
+          "당기 1분기말": 14948539401,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
+          "항목명": "보험비용",
+          "당기 1분기말": 161115492987,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingIncomeInsurance",
+          "항목명": "보험영업수익",
+          "당기 1분기말": 189324181831,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
+          "항목명": "재보험수익",
+          "당기 1분기말": 11010057073,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceRevenue",
+          "항목명": "보험수익",
+          "당기 1분기말": 178314124758,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncome",
+          "항목명": "기타포괄손익",
+          "당기 1분기말": -119949196636,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "당기손익으로 재분류되는 세후기타포괄손익의 구성요소",
+          "당기 1분기말": -119949196636,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정 신용손실",
+          "당기 1분기말": -52680882,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
+          "항목명": "현금흐름위험회피파생상품평가손익",
+          "당기 1분기말": 12926843001,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
+          "항목명": "재보험계약자산(부채)순금융손익",
+          "당기 1분기말": -12996174312,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융자산평가손익",
+          "당기 1분기말": 242891465259,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
+          "항목명": "보험계약자산(부채)순금융손익",
+          "당기 1분기말": -362718649702,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLoss",
+          "항목명": "당기순이익(손실)",
+          "당기 1분기말": 17507979632,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분에 귀속되는 당기순이익(손실)",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromContinuingOperationsAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분에 귀속될 계속영업이익(손실)",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+          "항목명": "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+          "당기 1분기말": 17507979632,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeFromContinuingOperationsAttributableToOwnersOfParent",
+          "항목명": "지배기업의 소유주에게 귀속될 계속영업손익",
+          "당기 1분기말": 35661575968,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossBeforeTax",
+          "항목명": "법인세차감전순이익",
+          "당기 1분기말": 30496598613,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromContinuingOperations",
+          "항목명": "계속영업이익(손실)",
+          "당기 1분기말": 35661575968,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
+          "항목명": "영업이익(손실)",
+          "당기 1분기말": 35661575968,
+          "전기말": null,
+          "전전기말": null
+        }
+      ]
+    },
+    {
+      "종목코드": "",
+      "회사명": "케이비라이프생명보험",
+      "시장구분": "기타법인",
+      "업종": "651",
+      "업종명": "보험업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InvestmentIncomeExpenses",
+          "항목명": "투자영업손익",
+          "당기 1분기말": 42370000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInvestment",
+          "항목명": "투자영업비용",
+          "당기 1분기말": 439288000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융비용",
+          "당기 1분기말": 115000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융비용",
+          "당기 1분기말": 332340000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": null,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 52847000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossesFromDerivatives",
+          "항목명": "파생상품평가 및 거래손실",
+          "당기 1분기말": 26223000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInvestment",
+          "항목명": "기타영업비용",
+          "당기 1분기말": 17922000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "entity00160393_LossesOnDisposalOfSubsidiariesOfOperatingExpenseInvestmentOfOperatingExpenseInvestment",
+          "항목명": "관계기업투자주식관련손실",
+          "당기 1분기말": 151000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeLoss",
+          "항목명": "외환거래손실",
+          "당기 1분기말": 7005000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InterestExpense",
+          "항목명": "이자비용",
+          "당기 1분기말": 2685000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InvestmentIncome",
+          "항목명": "투자영업수익",
+          "당기 1분기말": 481658000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융수익",
+          "당기 1분기말": 23000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromDerivatives",
+          "항목명": "파생상품평가 및 거래이익",
+          "당기 1분기말": 15452000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 10965000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 172006000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융수익",
+          "당기 1분기말": 1665000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingIncomeInvestment",
+          "항목명": "기타영업수익",
+          "당기 1분기말": 37975000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeGain",
+          "항목명": "외환거래이익",
+          "당기 1분기말": 6170000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromDividends",
+          "항목명": "배당금수익",
+          "당기 1분기말": 17573000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromInterest",
+          "항목명": "이자수익",
+          "당기 1분기말": 219829000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingProfitLoss",
+          "항목명": "영업외손익",
+          "당기 1분기말": 505000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingExpense",
+          "항목명": "영업외비용",
+          "당기 1분기말": 98000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingIncome",
+          "항목명": "영업외수익",
+          "당기 1분기말": 603000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncome",
+          "항목명": "총포괄손익",
+          "당기 1분기말": -248441000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
+          "항목명": "지배기업 소유지분",
+          "당기 1분기말": -248441000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
+          "항목명": "법인세비용",
+          "당기 1분기말": 30085000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceResult",
+          "항목명": "보험영업손익",
+          "당기 1분기말": 83549000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInsurance",
+          "항목명": "보험영업비용",
+          "당기 1분기말": 134737000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInsurance",
+          "항목명": "기타사업비용",
+          "당기 1분기말": -1356000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
+          "항목명": "재보험영업비용",
+          "당기 1분기말": 1536000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
+          "항목명": "보험영업비용",
+          "당기 1분기말": 134557000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingIncomeInsurance",
+          "항목명": "보험영업수익",
+          "당기 1분기말": 218286000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
+          "항목명": "재보험영업수익",
+          "당기 1분기말": 4605000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceRevenue",
+          "항목명": "보험영업수익",
+          "당기 1분기말": 213681000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncome",
+          "항목명": "기타포괄손익",
+          "당기 1분기말": -335402000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "후속적으로 당기손익으로 재분류되는 항목",
+          "당기 1분기말": -338762000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
+          "항목명": "현금흐름위험회피파생상품평가손익",
+          "당기 1분기말": -1883000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
+          "항목명": "재보험계약자산부채순금융손익",
+          "당기 1분기말": 1993000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정채무상품평가손익",
+          "당기 1분기말": 433121000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
+          "항목명": "보험계약자산부채순금융손익",
+          "당기 1분기말": -771993000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "후속적으로 당기손익으로 재분류되지 않는 항목",
+          "당기 1분기말": 3360000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
+          "항목명": "기타포괄손익-공정가치측정지분상품평가손익",
+          "당기 1분기말": 3461000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
+          "항목명": "순확정급여부채의 재측정요소",
+          "당기 1분기말": -101000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
+          "항목명": "기타영업손익",
+          "당기 1분기말": -9378000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpense",
+          "항목명": "기타영업비용",
+          "당기 1분기말": 28989000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingIncome",
+          "항목명": "기타영업수익",
+          "당기 1분기말": 19611000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLoss",
+          "항목명": "분기순이익",
+          "당기 1분기말": 86961000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+          "항목명": "지배기업 소유지분",
+          "당기 1분기말": 86961000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossBeforeTax",
+          "항목명": "법인세비용차감전순이익",
+          "당기 1분기말": 117046000000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
+          "항목명": "영업이익",
+          "당기 1분기말": 116541000000,
+          "전기말": null,
+          "전전기말": null
+        }
+      ]
+    },
+    {
       "종목코드": "[003690]",
       "회사명": "코리안리",
       "시장구분": "유가증권시장상장법인",
@@ -7485,6 +6633,451 @@
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익(손실)",
           "당기 1분기말": 123459081802,
+          "전기말": null,
+          "전전기말": null
+        }
+      ]
+    },
+    {
+      "종목코드": "",
+      "회사명": "푸본현대생명보험",
+      "시장구분": "기타법인",
+      "업종": "651",
+      "업종명": "보험업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InvestmentIncomeExpenses",
+          "항목명": "투자손익",
+          "당기 1분기말": -91458611533,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInvestment",
+          "항목명": "투자영업비용",
+          "당기 1분기말": 316118619271,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_AdditionalImpairmentLossesOfFinancialAssets",
+          "항목명": "신용손실충당금 전입액",
+          "당기 1분기말": 346055685,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융비용",
+          "당기 1분기말": 5404963,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융비용",
+          "당기 1분기말": 72711532832,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost",
+          "항목명": "상각후원가측정금융상품제거손실",
+          "당기 1분기말": 82291047,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 1547726311,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 68085203058,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossesFromDerivatives",
+          "항목명": "파생상품관련비용",
+          "당기 1분기말": 45710807986,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInvestment",
+          "항목명": "기타투자비용",
+          "당기 1분기말": 81343426050,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeLoss",
+          "항목명": "외화거래손실",
+          "당기 1분기말": 29316804467,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InterestExpense",
+          "항목명": "금융부채의 이자비용",
+          "당기 1분기말": 16518041869,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
+          "항목명": "재산관리비",
+          "당기 1분기말": 451325003,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InvestmentIncome",
+          "항목명": "투자영업수익",
+          "당기 1분기말": 224660007738,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost",
+          "항목명": "상각후원가측정금융상품제거이익",
+          "당기 1분기말": 1591323385,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromDerivatives",
+          "항목명": "파생상품관련수익",
+          "당기 1분기말": 38553085518,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 1420169462,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 36183416323,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingIncomeInvestment",
+          "항목명": "기타투자수익",
+          "당기 1분기말": 4800067505,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_ReversalsOfImpairmentLossesOfFinancialAssets",
+          "항목명": "신용손실충당금 환입액",
+          "당기 1분기말": 8390499579,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeGain",
+          "항목명": "외화거래이익",
+          "당기 1분기말": 8871395323,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromDividends",
+          "항목명": "배당금수익",
+          "당기 1분기말": 860973029,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromInterest",
+          "항목명": "이자수익",
+          "당기 1분기말": 123989077614,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치로 측정하는 금융자산의 이자수익",
+          "당기 1분기말": 692840214,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
+          "항목명": "유효이자율법 적용 이자수익",
+          "당기 1분기말": 123296237400,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingProfitLoss",
+          "항목명": "영업외손익",
+          "당기 1분기말": -235564698,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingExpense",
+          "항목명": "영업외비용",
+          "당기 1분기말": 260978830,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingIncome",
+          "항목명": "영업외수익",
+          "당기 1분기말": 25414132,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncome",
+          "항목명": "총포괄손익",
+          "당기 1분기말": -130366052071,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
+          "항목명": "지배기업 소유주지분",
+          "당기 1분기말": -130366052071,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
+          "항목명": "법인세비용(수익)",
+          "당기 1분기말": -22256561575,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceResult",
+          "항목명": "보험손익",
+          "당기 1분기말": -3067402705,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInsurance",
+          "항목명": "보험서비스비용",
+          "당기 1분기말": 61440333809,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInsurance",
+          "항목명": "기타사업비용",
+          "당기 1분기말": 2384032208,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
+          "항목명": "재보험비용",
+          "당기 1분기말": 2151835663,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
+          "항목명": "보험비용",
+          "당기 1분기말": 56904465938,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingIncomeInsurance",
+          "항목명": "보험영업수익",
+          "당기 1분기말": 58372931104,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
+          "항목명": "재보험수익",
+          "당기 1분기말": 1091802204,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceRevenue",
+          "항목명": "보험수익",
+          "당기 1분기말": 57281128900,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncome",
+          "항목명": "기타포괄손익",
+          "당기 1분기말": -57861034710,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "당기손익으로 재분류되는 세후기타포괄손익의 구성요소",
+          "당기 1분기말": -57856867634,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정 신용손실",
+          "당기 1분기말": -52174759,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
+          "항목명": "현금흐름위험회피파생상품평가손익",
+          "당기 1분기말": -326485859,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
+          "항목명": "재보험계약자산(부채)순금융손익",
+          "당기 1분기말": -85913958,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융자산 평가손익",
+          "당기 1분기말": 67966707270,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
+          "항목명": "보험계약자산(부채)순금융손익",
+          "당기 1분기말": -125359000328,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소",
+          "당기 1분기말": -4167076,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
+          "항목명": "확정급여부채의 재측정요소",
+          "당기 1분기말": -4167076,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLoss",
+          "항목명": "분기순이익(손실)",
+          "당기 1분기말": -72505017361,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+          "항목명": "지배기업 소유주지분",
+          "당기 1분기말": -72505017361,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossBeforeTax",
+          "항목명": "법인세차감전순이익(손실)",
+          "당기 1분기말": -94761578936,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
+          "항목명": "영업이익(손실)",
+          "당기 1분기말": -94526014238,
           "전기말": null,
           "전전기말": null
         }
@@ -8972,6 +8565,491 @@
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익(손실)",
           "당기 1분기말": 283697636986,
+          "전기말": null,
+          "전전기말": null
+        }
+      ]
+    },
+    {
+      "종목코드": "",
+      "회사명": "흥국생명보험",
+      "시장구분": "기타법인",
+      "업종": "651",
+      "업종명": "보험업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InvestmentIncomeExpenses",
+          "항목명": "투자손익",
+          "당기 1분기말": 28706941733,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInvestment",
+          "항목명": "투자영업비용",
+          "당기 1분기말": 343996387026,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_AdditionalImpairmentLossesOfFinancialAssets",
+          "항목명": "신용손실충당금 전입액",
+          "당기 1분기말": 19264009846,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융비용",
+          "당기 1분기말": 1001075065,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융비용",
+          "당기 1분기말": 171522267723,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost",
+          "항목명": "상각후원가측정금융상품제거손실",
+          "당기 1분기말": 938961784,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 3041029745,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 35115194717,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_LossesFromDerivatives",
+          "항목명": "파생상품관련비용",
+          "당기 1분기말": 55518759125,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInvestment",
+          "항목명": "기타투자비용",
+          "당기 1분기말": 13725168574,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeLoss",
+          "항목명": "외화거래손실",
+          "당기 1분기말": 9478768363,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InterestExpense",
+          "항목명": "이자비용",
+          "당기 1분기말": 31618417519,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
+          "항목명": "재산관리비",
+          "당기 1분기말": 2772734565,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InvestmentIncome",
+          "항목명": "투자영업수익",
+          "당기 1분기말": 372703328759,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss",
+          "항목명": "재보험금융수익",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromDerivatives",
+          "항목명": "파생상품관련수익",
+          "당기 1분기말": 20730290837,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 8095435578,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 82082595745,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss",
+          "항목명": "보험금융수익",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingIncomeInvestment",
+          "항목명": "기타투자수익",
+          "당기 1분기말": 66427173944,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_ReversalsOfImpairmentLossesOfFinancialAssets",
+          "항목명": "신용손실충당금 환입액",
+          "당기 1분기말": 12787912878,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeGain",
+          "항목명": "외화거래이익",
+          "당기 1분기말": 35016732872,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_RevenueFromInterest",
+          "항목명": "이자수익",
+          "당기 1분기말": 147563186905,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치로 측정하는 금융자산의 이자수익",
+          "당기 1분기말": 5716638898,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
+          "항목명": "유효이자율법 적용 이자수익",
+          "당기 1분기말": 141846548007,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingExpense",
+          "항목명": "영업외비용",
+          "당기 1분기말": 460752729,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_NonOperatingIncome",
+          "항목명": "영업외수익",
+          "당기 1분기말": 56905980595,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncome",
+          "항목명": "분기총포괄손익",
+          "당기 1분기말": -275519061043,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
+          "항목명": "지배기업의 소유주",
+          "당기 1분기말": -275519061043,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_BasicEarningsLossPerShareFromContinuingOperations",
+          "항목명": "기본주당이익",
+          "당기 1분기말": 5854,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations",
+          "항목명": "희석주당이익",
+          "당기 1분기말": 5854,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
+          "항목명": "법인세비용",
+          "당기 1분기말": 10544422703,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceResult",
+          "항목명": "보험손익",
+          "당기 1분기말": 14625329863,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingExpenseInsurance",
+          "항목명": "보험비용",
+          "당기 1분기말": 256790188854,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherOperatingExpenseInsurance",
+          "항목명": "기타사업비용",
+          "당기 1분기말": 7526263297,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer",
+          "항목명": "재보험비용",
+          "당기 1분기말": 24769719750,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued",
+          "항목명": "보험비용",
+          "당기 1분기말": 224494205807,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OperatingIncomeInsurance",
+          "항목명": "보험수익",
+          "당기 1분기말": 271415518717,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_IncomeFromAmountsRecoveredFromReinsurer",
+          "항목명": "재보험수익",
+          "당기 1분기말": 18709488916,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_InsuranceRevenue",
+          "항목명": "보험수익",
+          "당기 1분기말": 252706029801,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncome",
+          "항목명": "기타포괄손익",
+          "당기 1분기말": -364752137802,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "후속적으로 당기손익으로 재분류될 수 있는 항목",
+          "당기 1분기말": -355545792143,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxCreditLossesOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융자산손상충당금",
+          "당기 1분기말": 368434130,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
+          "항목명": "위험회피목적파생상품평가손익",
+          "당기 1분기말": -11384853058,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
+          "항목명": "해외사업환산손익",
+          "당기 1분기말": 3415,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss",
+          "항목명": "재보험계약 관련 금융손익",
+          "당기 1분기말": -11839226361,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융자산평가손익(채무상품)",
+          "당기 1분기말": 209767443451,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss",
+          "항목명": "보험계약 관련 금융손익",
+          "당기 1분기말": -472803429182,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "관계기업투자주식지분법자본변동",
+          "당기 1분기말": -69654164538,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "후속적으로 당기손익으로 재분류되지 않는 항목",
+          "당기 1분기말": -9206345659,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
+          "항목명": "기타포괄손익-공정가치측정금융자산평가손익(지분상품)",
+          "당기 1분기말": -5803295782,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
+          "항목명": "순확정급여부채 재측정요소",
+          "당기 1분기말": -6440528,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation",
+          "항목명": "재평가잉여금",
+          "당기 1분기말": -3396609349,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLoss",
+          "항목명": "분기순이익",
+          "당기 1분기말": 89233076759,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+          "항목명": "지배기업의 소유주지분",
+          "당기 1분기말": 89233076759,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossBeforeTax",
+          "항목명": "법인세비용차감전순이익",
+          "당기 1분기말": 99777499462,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 보험 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
+          "항목명": "영업이익",
+          "당기 1분기말": 43332271596,
           "전기말": null,
           "전전기말": null
         }

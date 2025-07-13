@@ -90,8 +90,8 @@ function extractEssentialFinancialData(company) {
 async function buildFinancialDatabase() {
   console.log('🔄 최적화된 재무데이터베이스 구축 시작...')
 
-  const processedDir = '../data/processed/'
-  const outputFile = '../data/financial-database.json'
+  const processedDir = join(__dirname, '../data/processed/')
+  const outputFile = join(__dirname, '../data/financial-database.json')
 
   // 모든 재무제표 폴더 처리
   const statementTypes = [
@@ -106,8 +106,8 @@ async function buildFinancialDatabase() {
   for (const statementType of statementTypes) {
     const statementDir = join(processedDir, statementType)
     try {
-      const files = readdirSync(statementDir).filter(
-        (file) => file.endsWith('.json') && !file.includes('aj-networks-data') // 기존 파일 제외
+      const files = readdirSync(statementDir).filter((file) =>
+        file.endsWith('.json')
       )
 
       files.forEach((file) => {
@@ -266,8 +266,9 @@ async function buildFinancialDatabase() {
   // 결과 저장
   try {
     // data 디렉토리 생성
+    const dataDir = join(__dirname, '../data')
     try {
-      mkdirSync('../data', { recursive: true })
+      mkdirSync(dataDir, { recursive: true })
     } catch {
       // 이미 존재하는 경우 무시
     }
@@ -291,12 +292,9 @@ async function buildFinancialDatabase() {
     console.log(`\n✅ 데이터베이스 저장 완료: ${outputFile}`)
 
     // 검색 인덱스 별도 저장
-    writeFileSync(
-      '../data/company-index.json',
-      JSON.stringify(searchIndex, null, 2),
-      'utf8'
-    )
-    console.log(`✅ 검색 인덱스 저장 완료: ../data/company-index.json`)
+    const indexFile = join(__dirname, '../data/company-index.json')
+    writeFileSync(indexFile, JSON.stringify(searchIndex, null, 2), 'utf8')
+    console.log(`✅ 검색 인덱스 저장 완료: ${indexFile}`)
 
     // 파일 크기 확인
     const stats = statSync(outputFile)

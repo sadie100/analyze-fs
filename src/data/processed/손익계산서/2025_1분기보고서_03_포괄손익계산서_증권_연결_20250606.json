@@ -1,7 +1,7 @@
 {
   "companies": [
     {
-      "종목코드": "[null]",
+      "종목코드": "",
       "회사명": "BNK투자증권",
       "시장구분": "기타법인",
       "업종": "661",
@@ -328,1350 +328,6 @@
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "판매 및 일반관리비",
           "당기 1분기말": 25854304241,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_Donations",
-          "항목명": "기부금",
-          "당기 1분기말": 8394935,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_GainFromFinancialInstruments",
-          "항목명": "증권평가및처분이익",
-          "당기 1분기말": 118948423136,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_GainsOnSaleOfInvestmentAccountedForUsingEquityMethod",
-          "항목명": "지분법주식처분이익",
-          "당기 1분기말": 215878286,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_GainsOnSaleOfInvestmentsInSubsidiaries",
-          "항목명": "종속기업투자주식처분이익",
-          "당기 1분기말": 78329232,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossFromFinancialInstruments",
-          "항목명": "증권평가및처분손실",
-          "당기 1분기말": 109866740016,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod",
-          "항목명": "지분법손실",
-          "당기 1분기말": 522296610,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossesOnSaleOfInvestmentAccountedForUsingEquityMethod",
-          "항목명": "지분법주식처분손실",
-          "당기 1분기말": 2330681,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossesOnSaleOfInvestmentsInSubsidiaries",
-          "항목명": "종속기업투자주식처분손실",
-          "당기 1분기말": 39322342,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_MiscellaneousIncome",
-          "항목명": "잡이익",
-          "당기 1분기말": 163937860,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_MiscellaneousLosses",
-          "항목명": "잡손실",
-          "당기 1분기말": 12574971,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_NonOperatingExpense",
-          "항목명": "영업외비용",
-          "당기 1분기말": 689569428,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_NonOperatingIncome",
-          "항목명": "영업외수익",
-          "당기 1분기말": 589082721,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherOperatingExpense",
-          "항목명": "기타의영업비용",
-          "당기 1분기말": 1295683140,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherOperatingIncome",
-          "항목명": "기타의영업수익",
-          "당기 1분기말": 1023197772,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod",
-          "항목명": "지분법이익",
-          "당기 1분기말": 123402143,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00684918_AdjustedProfitLossNetOfRegulatoryReserveForCreditLossOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "대손준비금 반영후 조정이익",
-          "당기 1분기말": 17500397740,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00684918_LossFromInvestmentPropertyOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "투자부동산관련비용",
-          "당기 1분기말": 77928220,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00684918_LossesFromCancellationOfLeaseContractOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "리스해지손실",
-          "당기 1분기말": 10208570,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00684918_LossesOnChangeInFairValueAndOnDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "대출채권평가및처분손실",
-          "당기 1분기말": 3591828772,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00684918_MiscellaneousIncomeOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "리스해지이익",
-          "당기 1분기말": 7535200,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00684918_NetForeignExchangeGainOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "외환거래이익",
-          "당기 1분기말": 10587220665,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00684918_NetForeignExchangeLossOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "외환거래손실",
-          "당기 1분기말": 6561722208,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00684918_udf_IS_202557141136111OfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "파생상품거래및평가손실",
-          "당기 1분기말": 490729154269,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00684918_udf_IS_20255714117353OfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "파생상품거래및평가이익",
-          "당기 1분기말": 479056230780,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncome",
-          "항목명": "분기총포괄이익",
-          "당기 1분기말": 11935798555,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
-          "항목명": "비지배주주지분총포괄이익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
-          "항목명": "지배주주지분총포괄이익",
-          "당기 1분기말": 11935798555,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_BasicEarningsLossPerShare",
-          "항목명": "기본주당이익(손실)",
-          "당기 1분기말": 84,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_FeeAndCommissionExpense",
-          "항목명": "수수료비용",
-          "당기 1분기말": 2562729350,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_FeeAndCommissionIncome",
-          "항목명": "수수료수익",
-          "당기 1분기말": 29587880678,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
-          "항목명": "법인세비용",
-          "당기 1분기말": 3903719320,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestExpense",
-          "항목명": "이자비용",
-          "당기 1분기말": 49515651006,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_LossesOnDisposalsOfPropertyPlantAndEquipment",
-          "항목명": "유형자산처분손실",
-          "당기 1분기말": 16513099,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OperatingExpense",
-          "항목명": "영업비용",
-          "당기 1분기말": 706681993683,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncome",
-          "항목명": "분기기타포괄손익",
-          "당기 1분기말": 23769194,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융자산 평가손익",
-          "당기 1분기말": 22457902,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability",
-          "항목명": "신용위험조정변동",
-          "당기 1분기말": 1311292,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
-          "항목명": "순확정급여자산 재측정요소",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLoss",
-          "항목명": "분기순이익",
-          "당기 1분기말": 11912029361,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분순이익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
-          "항목명": "지배주주지분순이익",
-          "당기 1분기말": 11912029361,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossBeforeTax",
-          "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 15815748681,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영업이익",
-          "당기 1분기말": 15916235388,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_Revenue",
-          "항목명": "영업수익",
-          "당기 1분기말": 722598229071,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_RevenueFromDividends",
-          "항목명": "배당금수익",
-          "당기 1분기말": 490476996,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_RevenueFromInterest",
-          "항목명": "이자수익",
-          "당기 1분기말": 82904799044,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품 이자수익",
-          "당기 1분기말": 63417735254,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
-          "항목명": "유효이자율적용 이자수익",
-          "당기 1분기말": 19487063790,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost",
-          "항목명": "상각후원가측정금융상품 이자수익",
-          "당기 1분기말": 16096852619,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품 이자수익",
-          "당기 1분기말": 3390211171,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
-          "항목명": "판매비와관리비",
-          "당기 1분기말": 42558484922,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_GainFromFinancialInstruments",
-          "항목명": "금융상품관련수익",
-          "당기 1분기말": 163583032056,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtAmortisedCost",
-          "항목명": "상각후원가측정금융상품관련이익",
-          "당기 1분기말": 18009204813,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 454920667,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 145118906576,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossFromFinancialInstruments",
-          "항목명": "금융상품관련비용",
-          "당기 1분기말": 131363550734,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtAmortisedCost",
-          "항목명": "상각후원가측정금융상품관련손실",
-          "당기 1분기말": 14089956748,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 138108000,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 117135485986,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_NonOperatingExpense",
-          "항목명": "영업외비용",
-          "당기 1분기말": 663705119,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_NonOperatingIncome",
-          "항목명": "영업외수익",
-          "당기 1분기말": 2011979716,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherOperatingExpense",
-          "항목명": "기타영업비용",
-          "당기 1분기말": 820008828,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherOperatingIncome",
-          "항목명": "기타영업수익",
-          "당기 1분기말": 4171287440,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00148665_GainFromDerivativeInstrumentsOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "파생상품관련이익",
-          "당기 1분기말": 188297381928,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00148665_LossFromDerivativeInstrumentsOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "파생상품관련손실",
-          "당기 1분기말": 181619359366,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncome",
-          "항목명": "총포괄손익",
-          "당기 1분기말": 27125180384,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
-          "항목명": "지배기업의 소유주에게 귀속되는 총포괄손익",
-          "당기 1분기말": 27125180384,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_FeeAndCommissionExpense",
-          "항목명": "수수료비용",
-          "당기 1분기말": 6798974668,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_FeeAndCommissionIncome",
-          "항목명": "수수료수익",
-          "당기 1분기말": 31467125252,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
-          "항목명": "법인세비용(수익)",
-          "당기 1분기말": 7204615167,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestExpense",
-          "항목명": "이자비용",
-          "당기 1분기말": 64590103191,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OperatingExpense",
-          "항목명": "영업비용",
-          "당기 1분기말": 435653575527,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncome",
-          "항목명": "기타포괄손익",
-          "당기 1분기말": -242125076,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정채무상품평가손익",
-          "당기 1분기말": -150572014,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
-          "항목명": "기타포괄손익-공정가치측정지분상품평가손익",
-          "당기 1분기말": 30353375,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
-          "항목명": "확정급여제도의재측정요소",
-          "당기 1분기말": -121906437,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLoss",
-          "항목명": "당기순이익(손실)",
-          "당기 1분기말": 27367305460,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
-          "항목명": "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
-          "당기 1분기말": 27367305460,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossBeforeTax",
-          "항목명": "법인세차감전순이익",
-          "당기 1분기말": 34571920627,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영업이익(손실)",
-          "당기 1분기말": 33223646030,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_Revenue",
-          "항목명": "영업수익",
-          "당기 1분기말": 468877221557,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_RevenueFromInterest",
-          "항목명": "이자수익",
-          "당기 1분기말": 81358394881,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치로 측정하는 금융자산의 이자수익",
-          "당기 1분기말": 42324896445,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
-          "항목명": "유효이자율적용이자수익",
-          "당기 1분기말": 39033498436,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
-          "항목명": "판매 및 일반관리비",
-          "당기 1분기말": 50461578740,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_NonOperatingProfitLoss",
-          "항목명": "영업외손익",
-          "당기 1분기말": -3111424698,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod",
-          "항목명": "지분법손익",
-          "당기 1분기말": -7898082141,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherExpenseByNature",
-          "항목명": "기타비용",
-          "당기 1분기말": 20024352195,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherRevenue",
-          "항목명": "기타수익",
-          "당기 1분기말": 24811009638,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncome",
-          "항목명": "총포괄이익",
-          "당기 1분기말": 90881865016,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분총포괄손익",
-          "당기 1분기말": -593408113,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
-          "항목명": "지배기업소유주지분총포괄이익",
-          "당기 1분기말": 91475273129,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_BasicEarningsLossPerShare",
-          "항목명": "지배기업소유주 기본 및 희석주당이익",
-          "당기 1분기말": 937,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
-          "항목명": "법인세비용",
-          "당기 1분기말": 17943203050,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OperatingExpense",
-          "항목명": "영업비용",
-          "당기 1분기말": 3553370190952,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 3846549327,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 2775165441884,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherOperatingExpense",
-          "항목명": "기타영업비용",
-          "당기 1분기말": 13638738807,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_PersonalExpense",
-          "항목명": "인건비",
-          "당기 1분기말": 86937430218,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_FeeAndCommissionExpense",
-          "항목명": "수수료비용",
-          "당기 1분기말": 28479681351,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeLoss",
-          "항목명": "외환거래손실",
-          "당기 1분기말": 276669439990,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_GeneralAndAdministrativeExpense",
-          "항목명": "일반관리비",
-          "당기 1분기말": 77827992816,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ImpairmentLossRecognisedInProfitOrLoss",
-          "항목명": "금융자산손상차손",
-          "당기 1분기말": 16452829547,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestExpense",
-          "항목명": "이자비용",
-          "당기 1분기말": 274352087012,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncome",
-          "항목명": "기타포괄손익",
-          "당기 1분기말": 16182948947,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "후속적으로 당기손익으로 재분류될 수 있는 항목",
-          "당기 1분기말": 16631024059,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정채무증권평가손익",
-          "당기 1분기말": 16755975896,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
-          "항목명": "해외사업장환산외환차이",
-          "당기 1분기말": 265869531,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "지분법자본변동",
-          "당기 1분기말": -390821368,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "후속적으로 당기손익으로 재분류되지 않는 항목",
-          "당기 1분기말": -448075112,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정지정금융부채 신용위험변동효과",
-          "당기 1분기말": 1835531775,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments",
-          "항목명": "기타포괄손익-공정가치측정지분증권평가손익",
-          "당기 1분기말": -2077212812,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
-          "항목명": "확정급여제도의 재측정요소",
-          "당기 1분기말": 55425013,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "지분법자본변동",
-          "당기 1분기말": -261819088,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLoss",
-          "항목명": "분기순이익",
-          "당기 1분기말": 74698916069,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분순이익",
-          "당기 1분기말": -627339002,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
-          "항목명": "지배기업소유주지분순이익",
-          "당기 1분기말": 75326255071,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossBeforeTax",
-          "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 92642119119,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영업이익",
-          "당기 1분기말": 95753543817,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_Revenue",
-          "항목명": "영업수익",
-          "당기 1분기말": 3649123734769,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 13096057373,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 2806649342029,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherOperatingIncome",
-          "항목명": "기타영업수익",
-          "당기 1분기말": 9524129245,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_FeeAndCommissionIncome",
-          "항목명": "수수료수익",
-          "당기 1분기말": 104415413221,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeGain",
-          "항목명": "외환거래이익",
-          "당기 1분기말": 305937690351,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_RevenueFromInterest",
-          "항목명": "이자수익",
-          "당기 1분기말": 385276958425,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정 금융상품 이자수익",
-          "당기 1분기말": 208699684030,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestIncomeForFinancialAssetsNotAtFairValueThroughProfitOrLoss",
-          "항목명": "기타포괄손익-공정가치측정 및 상각후원가측정 금융상품 이자수익",
-          "당기 1분기말": 176577274395,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ReversalOfImpairmentLossRecognisedInProfitOrLoss",
-          "항목명": "금융자산손상차손환입",
-          "당기 1분기말": 24224144125,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_GainFromFinancialInstruments",
-          "항목명": "금융자산(부채)평가및처분이익",
-          "당기 1분기말": 3075046897702,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_LossFromFinancialInstruments",
-          "항목명": "금융자산(부채)평가및처분손실",
-          "당기 1분기말": 2957394392053,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_NonOperatingExpense",
-          "항목명": "영업외비용",
-          "당기 1분기말": 35407786160,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_NonOperatingIncome",
-          "항목명": "영업외수익",
-          "당기 1분기말": 105799901564,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherOperatingExpense",
-          "항목명": "기타영업비용",
-          "당기 1분기말": 9131136589,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherOperatingIncome",
-          "항목명": "기타영업수익",
-          "당기 1분기말": 36696300697,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00160144_ComprehensiveIncomeOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "총포괄손익",
-          "당기 1분기말": 461966800359,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00160144_ProfitLossOfStatementOfComprehensiveIncomeAbstract",
-          "항목명": "당기순이익의 귀속",
-          "당기 1분기말": 448212786466,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분순이익(손실)",
-          "당기 1분기말": 616793748,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
-          "항목명": "지배기업주주지분순이익",
-          "당기 1분기말": 447595992718,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
-          "항목명": "신용손실충당금 전입액",
-          "당기 1분기말": 915901324,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncome",
-          "항목명": "총포괄손익의 귀속",
-          "당기 1분기말": 461966800359,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
-          "항목명": "비지배지분총포괄이익(손실)",
-          "당기 1분기말": 380034945,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
-          "항목명": "지배기업주주지분총포괄손익",
-          "당기 1분기말": 461586765414,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_FeeAndCommissionExpense",
-          "항목명": "수수료비용",
-          "당기 1분기말": 52564059043,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_FeeAndCommissionIncome",
-          "항목명": "수수료수익",
-          "당기 1분기말": 361208562762,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeGain",
-          "항목명": "외환거래이익",
-          "당기 1분기말": 726680460594,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ForeignExchangeLoss",
-          "항목명": "외환거래손실",
-          "당기 1분기말": 662957983631,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
-          "항목명": "법인세비용",
-          "당기 1분기말": 141017018455,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestExpense",
-          "항목명": "이자비용",
-          "당기 1분기말": 464020057273,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OperatingExpense",
-          "항목명": "영업비용",
-          "당기 1분기말": 4454214701393,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncome",
-          "항목명": "기타포괄손익",
-          "당기 1분기말": 13754013893,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
-          "항목명": "기타포괄손익-공정가치로 측정하는 채무상품-공정가치 변동",
-          "당기 1분기말": 1294232065,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "entity00160144_One11OfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract",
-          "항목명": "기타포괄손익-공정가치로 측정하는 채무상품-신용위험 변동",
-          "당기 1분기말": 135842921,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
-          "항목명": "외환차이",
-          "당기 1분기말": -17930708206,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax",
-          "항목명": "지분법자본변동",
-          "당기 1분기말": 6482492905,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability",
-          "항목명": "당기손익-공정가치측정지정금융부채의 신용위험변동",
-          "당기 1분기말": 93929442,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
-          "항목명": "기타포괄손익-공정가치로 측정하는 지분상품-공정가치 변동",
-          "당기 1분기말": 24041949847,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
-          "항목명": "확정급여부채 재측정요소",
-          "당기 1분기말": -363725081,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLoss",
-          "항목명": "당기순이익(손실)",
-          "당기 1분기말": 448212786466,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossBeforeTax",
-          "항목명": "법인세차감전순이익",
-          "당기 1분기말": 589229804921,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영업이익(손실)",
-          "당기 1분기말": 518837689517,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_Revenue",
-          "항목명": "영업수익",
-          "당기 1분기말": 4973052390910,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_RevenueFromDividends",
-          "항목명": "배당금수익",
-          "당기 1분기말": 48386513528,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_RevenueFromInterest",
-          "항목명": "이자수익",
-          "당기 1분기말": 701173412430,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
-          "항목명": "당기손익-공정가치측정금융자산 관련 이자수익",
-          "당기 1분기말": 434585692283,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
-          "항목명": "상각후원가측정 및 기타포괄손익-공정가치측정금융자산 관련 이자수익",
-          "당기 1분기말": 266587720147,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets",
-          "항목명": "신용손실충당금 환입액",
-          "당기 1분기말": 23860243197,
-          "전기말": null,
-          "전전기말": null
-        },
-        {
-          "재무제표종류": "포괄손익계산서, 증권 - 연결",
-          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
-          "항목명": "판매비와관리비",
-          "당기 1분기말": 307231171480,
           "전기말": null,
           "전전기말": null
         }
@@ -5815,6 +4471,712 @@
       ]
     },
     {
+      "종목코드": "",
+      "회사명": "아이비케이투자증권",
+      "시장구분": "기타법인",
+      "업종": "661",
+      "업종명": "금융 지원 서비스업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_Donations",
+          "항목명": "기부금",
+          "당기 1분기말": 8394935,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_GainFromFinancialInstruments",
+          "항목명": "증권평가및처분이익",
+          "당기 1분기말": 118948423136,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_GainsOnSaleOfInvestmentAccountedForUsingEquityMethod",
+          "항목명": "지분법주식처분이익",
+          "당기 1분기말": 215878286,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_GainsOnSaleOfInvestmentsInSubsidiaries",
+          "항목명": "종속기업투자주식처분이익",
+          "당기 1분기말": 78329232,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossFromFinancialInstruments",
+          "항목명": "증권평가및처분손실",
+          "당기 1분기말": 109866740016,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod",
+          "항목명": "지분법손실",
+          "당기 1분기말": 522296610,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossesOnSaleOfInvestmentAccountedForUsingEquityMethod",
+          "항목명": "지분법주식처분손실",
+          "당기 1분기말": 2330681,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossesOnSaleOfInvestmentsInSubsidiaries",
+          "항목명": "종속기업투자주식처분손실",
+          "당기 1분기말": 39322342,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_MiscellaneousIncome",
+          "항목명": "잡이익",
+          "당기 1분기말": 163937860,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_MiscellaneousLosses",
+          "항목명": "잡손실",
+          "당기 1분기말": 12574971,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_NonOperatingExpense",
+          "항목명": "영업외비용",
+          "당기 1분기말": 689569428,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_NonOperatingIncome",
+          "항목명": "영업외수익",
+          "당기 1분기말": 589082721,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherOperatingExpense",
+          "항목명": "기타의영업비용",
+          "당기 1분기말": 1295683140,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherOperatingIncome",
+          "항목명": "기타의영업수익",
+          "당기 1분기말": 1023197772,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod",
+          "항목명": "지분법이익",
+          "당기 1분기말": 123402143,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00684918_AdjustedProfitLossNetOfRegulatoryReserveForCreditLossOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "대손준비금 반영후 조정이익",
+          "당기 1분기말": 17500397740,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00684918_LossFromInvestmentPropertyOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "투자부동산관련비용",
+          "당기 1분기말": 77928220,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00684918_LossesFromCancellationOfLeaseContractOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "리스해지손실",
+          "당기 1분기말": 10208570,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00684918_LossesOnChangeInFairValueAndOnDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "대출채권평가및처분손실",
+          "당기 1분기말": 3591828772,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00684918_MiscellaneousIncomeOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "리스해지이익",
+          "당기 1분기말": 7535200,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00684918_NetForeignExchangeGainOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "외환거래이익",
+          "당기 1분기말": 10587220665,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00684918_NetForeignExchangeLossOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "외환거래손실",
+          "당기 1분기말": 6561722208,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00684918_udf_IS_202557141136111OfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "파생상품거래및평가손실",
+          "당기 1분기말": 490729154269,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00684918_udf_IS_20255714117353OfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "파생상품거래및평가이익",
+          "당기 1분기말": 479056230780,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncome",
+          "항목명": "분기총포괄이익",
+          "당기 1분기말": 11935798555,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
+          "항목명": "비지배주주지분총포괄이익",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
+          "항목명": "지배주주지분총포괄이익",
+          "당기 1분기말": 11935798555,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_BasicEarningsLossPerShare",
+          "항목명": "기본주당이익(손실)",
+          "당기 1분기말": 84,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_FeeAndCommissionExpense",
+          "항목명": "수수료비용",
+          "당기 1분기말": 2562729350,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_FeeAndCommissionIncome",
+          "항목명": "수수료수익",
+          "당기 1분기말": 29587880678,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
+          "항목명": "법인세비용",
+          "당기 1분기말": 3903719320,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestExpense",
+          "항목명": "이자비용",
+          "당기 1분기말": 49515651006,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_LossesOnDisposalsOfPropertyPlantAndEquipment",
+          "항목명": "유형자산처분손실",
+          "당기 1분기말": 16513099,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OperatingExpense",
+          "항목명": "영업비용",
+          "당기 1분기말": 706681993683,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncome",
+          "항목명": "분기기타포괄손익",
+          "당기 1분기말": 23769194,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융자산 평가손익",
+          "당기 1분기말": 22457902,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability",
+          "항목명": "신용위험조정변동",
+          "당기 1분기말": 1311292,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
+          "항목명": "순확정급여자산 재측정요소",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLoss",
+          "항목명": "분기순이익",
+          "당기 1분기말": 11912029361,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분순이익",
+          "당기 1분기말": 0,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+          "항목명": "지배주주지분순이익",
+          "당기 1분기말": 11912029361,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossBeforeTax",
+          "항목명": "법인세비용차감전순이익",
+          "당기 1분기말": 15815748681,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
+          "항목명": "영업이익",
+          "당기 1분기말": 15916235388,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_Revenue",
+          "항목명": "영업수익",
+          "당기 1분기말": 722598229071,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_RevenueFromDividends",
+          "항목명": "배당금수익",
+          "당기 1분기말": 490476996,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_RevenueFromInterest",
+          "항목명": "이자수익",
+          "당기 1분기말": 82904799044,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품 이자수익",
+          "당기 1분기말": 63417735254,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
+          "항목명": "유효이자율적용 이자수익",
+          "당기 1분기말": 19487063790,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost",
+          "항목명": "상각후원가측정금융상품 이자수익",
+          "당기 1분기말": 16096852619,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품 이자수익",
+          "당기 1분기말": 3390211171,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
+          "항목명": "판매비와관리비",
+          "당기 1분기말": 42558484922,
+          "전기말": null,
+          "전전기말": null
+        }
+      ]
+    },
+    {
+      "종목코드": "",
+      "회사명": "아이엠증권",
+      "시장구분": "기타법인",
+      "업종": "661",
+      "업종명": "금융 지원 서비스업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_GainFromFinancialInstruments",
+          "항목명": "금융상품관련수익",
+          "당기 1분기말": 163583032056,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtAmortisedCost",
+          "항목명": "상각후원가측정금융상품관련이익",
+          "당기 1분기말": 18009204813,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 454920667,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 145118906576,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossFromFinancialInstruments",
+          "항목명": "금융상품관련비용",
+          "당기 1분기말": 131363550734,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtAmortisedCost",
+          "항목명": "상각후원가측정금융상품관련손실",
+          "당기 1분기말": 14089956748,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 138108000,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 117135485986,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_NonOperatingExpense",
+          "항목명": "영업외비용",
+          "당기 1분기말": 663705119,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_NonOperatingIncome",
+          "항목명": "영업외수익",
+          "당기 1분기말": 2011979716,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherOperatingExpense",
+          "항목명": "기타영업비용",
+          "당기 1분기말": 820008828,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherOperatingIncome",
+          "항목명": "기타영업수익",
+          "당기 1분기말": 4171287440,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00148665_GainFromDerivativeInstrumentsOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "파생상품관련이익",
+          "당기 1분기말": 188297381928,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00148665_LossFromDerivativeInstrumentsOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "파생상품관련손실",
+          "당기 1분기말": 181619359366,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncome",
+          "항목명": "총포괄손익",
+          "당기 1분기말": 27125180384,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
+          "항목명": "지배기업의 소유주에게 귀속되는 총포괄손익",
+          "당기 1분기말": 27125180384,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_FeeAndCommissionExpense",
+          "항목명": "수수료비용",
+          "당기 1분기말": 6798974668,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_FeeAndCommissionIncome",
+          "항목명": "수수료수익",
+          "당기 1분기말": 31467125252,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
+          "항목명": "법인세비용(수익)",
+          "당기 1분기말": 7204615167,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestExpense",
+          "항목명": "이자비용",
+          "당기 1분기말": 64590103191,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OperatingExpense",
+          "항목명": "영업비용",
+          "당기 1분기말": 435653575527,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncome",
+          "항목명": "기타포괄손익",
+          "당기 1분기말": -242125076,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정채무상품평가손익",
+          "당기 1분기말": -150572014,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
+          "항목명": "기타포괄손익-공정가치측정지분상품평가손익",
+          "당기 1분기말": 30353375,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
+          "항목명": "확정급여제도의재측정요소",
+          "당기 1분기말": -121906437,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLoss",
+          "항목명": "당기순이익(손실)",
+          "당기 1분기말": 27367305460,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+          "항목명": "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+          "당기 1분기말": 27367305460,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossBeforeTax",
+          "항목명": "법인세차감전순이익",
+          "당기 1분기말": 34571920627,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
+          "항목명": "영업이익(손실)",
+          "당기 1분기말": 33223646030,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_Revenue",
+          "항목명": "영업수익",
+          "당기 1분기말": 468877221557,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_RevenueFromInterest",
+          "항목명": "이자수익",
+          "당기 1분기말": 81358394881,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치로 측정하는 금융자산의 이자수익",
+          "당기 1분기말": 42324896445,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
+          "항목명": "유효이자율적용이자수익",
+          "당기 1분기말": 39033498436,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
+          "항목명": "판매 및 일반관리비",
+          "당기 1분기말": 50461578740,
+          "전기말": null,
+          "전전기말": null
+        }
+      ]
+    },
+    {
       "종목코드": "[003470]",
       "회사명": "유안타증권",
       "시장구분": "유가증권시장상장법인",
@@ -7483,7 +6845,7 @@
         {
           "재무제표종류": "포괄손익계산서, 증권 - 연결",
           "항목코드": "ifrs-full_OperatingExpense",
-          "항목명": "영  업  비  용",
+          "항목명": "영 업 비 용",
           "당기 1분기말": -3334497896586,
           "전기말": null,
           "전전기말": null
@@ -7587,7 +6949,7 @@
         {
           "재무제표종류": "포괄손익계산서, 증권 - 연결",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
-          "항목명": "영  업  이  익",
+          "항목명": "영 업 이 익",
           "당기 1분기말": 325455512151,
           "전기말": null,
           "전전기말": null
@@ -7595,7 +6957,7 @@
         {
           "재무제표종류": "포괄손익계산서, 증권 - 연결",
           "항목코드": "ifrs-full_Revenue",
-          "항목명": "영  업  수  익",
+          "항목명": "영 업 수 익",
           "당기 1분기말": 3659953408737,
           "전기말": null,
           "전전기말": null
@@ -7629,6 +6991,696 @@
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "8. 판매비와관리비",
           "당기 1분기말": -199017676652,
+          "전기말": null,
+          "전전기말": null
+        }
+      ]
+    },
+    {
+      "종목코드": "",
+      "회사명": "하나증권",
+      "시장구분": "기타법인",
+      "업종": "661",
+      "업종명": "금융 지원 서비스업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_NonOperatingProfitLoss",
+          "항목명": "영업외손익",
+          "당기 1분기말": -3111424698,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod",
+          "항목명": "지분법손익",
+          "당기 1분기말": -7898082141,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherExpenseByNature",
+          "항목명": "기타비용",
+          "당기 1분기말": 20024352195,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherRevenue",
+          "항목명": "기타수익",
+          "당기 1분기말": 24811009638,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncome",
+          "항목명": "총포괄이익",
+          "당기 1분기말": 90881865016,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분총포괄손익",
+          "당기 1분기말": -593408113,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
+          "항목명": "지배기업소유주지분총포괄이익",
+          "당기 1분기말": 91475273129,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_BasicEarningsLossPerShare",
+          "항목명": "지배기업소유주 기본 및 희석주당이익",
+          "당기 1분기말": 937,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
+          "항목명": "법인세비용",
+          "당기 1분기말": 17943203050,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OperatingExpense",
+          "항목명": "영업비용",
+          "당기 1분기말": 3553370190952,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 3846549327,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련손실",
+          "당기 1분기말": 2775165441884,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherOperatingExpense",
+          "항목명": "기타영업비용",
+          "당기 1분기말": 13638738807,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_PersonalExpense",
+          "항목명": "인건비",
+          "당기 1분기말": 86937430218,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_FeeAndCommissionExpense",
+          "항목명": "수수료비용",
+          "당기 1분기말": 28479681351,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeLoss",
+          "항목명": "외환거래손실",
+          "당기 1분기말": 276669439990,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_GeneralAndAdministrativeExpense",
+          "항목명": "일반관리비",
+          "당기 1분기말": 77827992816,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ImpairmentLossRecognisedInProfitOrLoss",
+          "항목명": "금융자산손상차손",
+          "당기 1분기말": 16452829547,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestExpense",
+          "항목명": "이자비용",
+          "당기 1분기말": 274352087012,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncome",
+          "항목명": "기타포괄손익",
+          "당기 1분기말": 16182948947,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "후속적으로 당기손익으로 재분류될 수 있는 항목",
+          "당기 1분기말": 16631024059,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정채무증권평가손익",
+          "당기 1분기말": 16755975896,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
+          "항목명": "해외사업장환산외환차이",
+          "당기 1분기말": 265869531,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "지분법자본변동",
+          "당기 1분기말": -390821368,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "후속적으로 당기손익으로 재분류되지 않는 항목",
+          "당기 1분기말": -448075112,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정지정금융부채 신용위험변동효과",
+          "당기 1분기말": 1835531775,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments",
+          "항목명": "기타포괄손익-공정가치측정지분증권평가손익",
+          "당기 1분기말": -2077212812,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
+          "항목명": "확정급여제도의 재측정요소",
+          "당기 1분기말": 55425013,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "지분법자본변동",
+          "당기 1분기말": -261819088,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLoss",
+          "항목명": "분기순이익",
+          "당기 1분기말": 74698916069,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분순이익",
+          "당기 1분기말": -627339002,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+          "항목명": "지배기업소유주지분순이익",
+          "당기 1분기말": 75326255071,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossBeforeTax",
+          "항목명": "법인세비용차감전순이익",
+          "당기 1분기말": 92642119119,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
+          "항목명": "영업이익",
+          "당기 1분기말": 95753543817,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_Revenue",
+          "항목명": "영업수익",
+          "당기 1분기말": 3649123734769,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 13096057373,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융상품관련이익",
+          "당기 1분기말": 2806649342029,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherOperatingIncome",
+          "항목명": "기타영업수익",
+          "당기 1분기말": 9524129245,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_FeeAndCommissionIncome",
+          "항목명": "수수료수익",
+          "당기 1분기말": 104415413221,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeGain",
+          "항목명": "외환거래이익",
+          "당기 1분기말": 305937690351,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_RevenueFromInterest",
+          "항목명": "이자수익",
+          "당기 1분기말": 385276958425,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_InterestRevenueOnFinancialAssetsAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정 금융상품 이자수익",
+          "당기 1분기말": 208699684030,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestIncomeForFinancialAssetsNotAtFairValueThroughProfitOrLoss",
+          "항목명": "기타포괄손익-공정가치측정 및 상각후원가측정 금융상품 이자수익",
+          "당기 1분기말": 176577274395,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ReversalOfImpairmentLossRecognisedInProfitOrLoss",
+          "항목명": "금융자산손상차손환입",
+          "당기 1분기말": 24224144125,
+          "전기말": null,
+          "전전기말": null
+        }
+      ]
+    },
+    {
+      "종목코드": "",
+      "회사명": "한국투자증권",
+      "시장구분": "기타법인",
+      "업종": "661",
+      "업종명": "금융 지원 서비스업",
+      "결산월": "12",
+      "결산기준일": "2025-03-31",
+      "보고서종류": "1분기보고서",
+      "통화": "KRW",
+      "재무데이터": [
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_GainFromFinancialInstruments",
+          "항목명": "금융자산(부채)평가및처분이익",
+          "당기 1분기말": 3075046897702,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_LossFromFinancialInstruments",
+          "항목명": "금융자산(부채)평가및처분손실",
+          "당기 1분기말": 2957394392053,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_NonOperatingExpense",
+          "항목명": "영업외비용",
+          "당기 1분기말": 35407786160,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_NonOperatingIncome",
+          "항목명": "영업외수익",
+          "당기 1분기말": 105799901564,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherOperatingExpense",
+          "항목명": "기타영업비용",
+          "당기 1분기말": 9131136589,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherOperatingIncome",
+          "항목명": "기타영업수익",
+          "당기 1분기말": 36696300697,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00160144_ComprehensiveIncomeOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "총포괄손익",
+          "당기 1분기말": 461966800359,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00160144_ProfitLossOfStatementOfComprehensiveIncomeAbstract",
+          "항목명": "당기순이익의 귀속",
+          "당기 1분기말": 448212786466,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분순이익(손실)",
+          "당기 1분기말": 616793748,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+          "항목명": "지배기업주주지분순이익",
+          "당기 1분기말": 447595992718,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
+          "항목명": "신용손실충당금 전입액",
+          "당기 1분기말": 915901324,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncome",
+          "항목명": "총포괄손익의 귀속",
+          "당기 1분기말": 461966800359,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests",
+          "항목명": "비지배지분총포괄이익(손실)",
+          "당기 1분기말": 380034945,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent",
+          "항목명": "지배기업주주지분총포괄손익",
+          "당기 1분기말": 461586765414,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_FeeAndCommissionExpense",
+          "항목명": "수수료비용",
+          "당기 1분기말": 52564059043,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_FeeAndCommissionIncome",
+          "항목명": "수수료수익",
+          "당기 1분기말": 361208562762,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeGain",
+          "항목명": "외환거래이익",
+          "당기 1분기말": 726680460594,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ForeignExchangeLoss",
+          "항목명": "외환거래손실",
+          "당기 1분기말": 662957983631,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
+          "항목명": "법인세비용",
+          "당기 1분기말": 141017018455,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestExpense",
+          "항목명": "이자비용",
+          "당기 1분기말": 464020057273,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OperatingExpense",
+          "항목명": "영업비용",
+          "당기 1분기말": 4454214701393,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncome",
+          "항목명": "기타포괄손익",
+          "당기 1분기말": 13754013893,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
+          "항목명": "기타포괄손익-공정가치로 측정하는 채무상품-공정가치 변동",
+          "당기 1분기말": 1294232065,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "entity00160144_One11OfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract",
+          "항목명": "기타포괄손익-공정가치로 측정하는 채무상품-신용위험 변동",
+          "당기 1분기말": 135842921,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
+          "항목명": "외환차이",
+          "당기 1분기말": -17930708206,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax",
+          "항목명": "지분법자본변동",
+          "당기 1분기말": 6482492905,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability",
+          "항목명": "당기손익-공정가치측정지정금융부채의 신용위험변동",
+          "당기 1분기말": 93929442,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
+          "항목명": "기타포괄손익-공정가치로 측정하는 지분상품-공정가치 변동",
+          "당기 1분기말": 24041949847,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
+          "항목명": "확정급여부채 재측정요소",
+          "당기 1분기말": -363725081,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLoss",
+          "항목명": "당기순이익(손실)",
+          "당기 1분기말": 448212786466,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossBeforeTax",
+          "항목명": "법인세차감전순이익",
+          "당기 1분기말": 589229804921,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
+          "항목명": "영업이익(손실)",
+          "당기 1분기말": 518837689517,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_Revenue",
+          "항목명": "영업수익",
+          "당기 1분기말": 4973052390910,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_RevenueFromDividends",
+          "항목명": "배당금수익",
+          "당기 1분기말": 48386513528,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_RevenueFromInterest",
+          "항목명": "이자수익",
+          "당기 1분기말": 701173412430,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
+          "항목명": "당기손익-공정가치측정금융자산 관련 이자수익",
+          "당기 1분기말": 434585692283,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
+          "항목명": "상각후원가측정 및 기타포괄손익-공정가치측정금융자산 관련 이자수익",
+          "당기 1분기말": 266587720147,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets",
+          "항목명": "신용손실충당금 환입액",
+          "당기 1분기말": 23860243197,
+          "전기말": null,
+          "전전기말": null
+        },
+        {
+          "재무제표종류": "포괄손익계산서, 증권 - 연결",
+          "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
+          "항목명": "판매비와관리비",
+          "당기 1분기말": 307231171480,
           "전기말": null,
           "전전기말": null
         }

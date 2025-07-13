@@ -1,417 +1,417 @@
-Àç¹«Á¦Ç¥Á¾·ù	Á¾¸ñÄÚµå	È¸»ç¸í	½ÃÀå±¸ºÐ	¾÷Á¾	¾÷Á¾¸í	°á»ê¿ù	°á»ê±âÁØÀÏ	º¸°í¼­Á¾·ù	ÅëÈ­	Ç×¸ñÄÚµå	Ç×¸ñ¸í	´ç±â 1ºÐ±â¸»	Àü±â¸»	ÀüÀü±â¸»	
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ(¼Õ½Ç)	32,185,251,853		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromDerivativesHeldForHedging	      ÆÄ»ý»óÇ°°ü·Ã¼ÕÀÍ	446,712,238		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡±ÝÀ¶ÀÚ»ê °ü·Ã¼ÕÀÍ	24,206,184,796		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡±ÝÀ¶ÀÚ»ê °ü·Ã¼ÕÀÍ	22,494,490,381		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	-1,235,844,459		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity01030132_GainOnDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract	      ´ëÃâÃ¤±Ç¸Å°¢¼ÕÀÍ	-2,963,929,637		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½Ç¿¡ ´ëÇÑ ¼Õ»óÂ÷¼Õ	-63,333,189,992		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ÃÑÆ÷°ý¼ÕÀÍ	47,072,956,983		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         º¸ÅëÁÖ±âº»ÁÖ´çÀÌÀÍ(¼Õ½Ç)	734		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_DilutedEarningsLossPerShare	         Èñ¼®ÁÖ´çÀÌÀÍ(¼Õ½Ç)	734		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·áÀÌÀÍ	12,990,392,441		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	-12,001,899,161		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	24,992,291,602		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë(¼öÀÍ)	-19,072,315,904		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚÀÌÀÍ	253,509,782,368		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	-299,556,904,374		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	553,066,686,742		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity01030132_OtherInterestIncomeOfRevenueFromInterest	            ±âÅ¸ÀÇ ÀÌÀÚ¼öÀÍ	3,473,628,651		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            À¯È¿ÀÌÀÚÀ²¹ý¿¡ µû¸¥ ÀÌÀÚ¼öÀÍ	549,593,058,091		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	               »ó°¢ÈÄ¿ø°¡±ÝÀ¶ÀÚ»ê ÀÌÀÚ¼öÀÍ	529,822,920,553		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	               ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡±ÝÀ¶ÀÚ»ê ÀÌÀÚ¼öÀÍ	19,770,137,538		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ	-18,952,294,870		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity01030132_ReversalOfImpairmentLossForDebtSecuritiesAtFvociOfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            ±âÅ¸Æ÷°ý¼ÕÀÍÀÎ½ÄÃ¤¹«Áõ±Ç´ë¼Õ»ó°¢ºñ(È¯ÀÔ)	-65,142,437		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ ÃøÁ¤ Ã¤¹«»óÇ° Æò°¡¼ÕÀÍ	-7,906,630,056		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÁöºÐ»óÇ°Æò°¡¼ÕÀÍ	-539,600,350		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            È®Á¤±Þ¿©Á¦µµÀÇÀçÃøÁ¤¿ä¼Ò	-10,440,922,027		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ÕÀÍ	-32,923,308,977		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ºÐ±â¼øÀÌÀÍ(¼Õ½Ç)	66,025,251,853		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼Â÷°¨Àü¼øÀÌÀÍ	85,097,567,757		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ(¼Õ½Ç)	86,333,412,216		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192520]	°æ³²ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÀÏ¹Ý°ü¸®ºñ	-128,093,721,402		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ(¼Õ½Ç)	51,619,463,499		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	11,096,383,792		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	8,767,104,941		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	-1,540,642,958		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±Ý ÀüÀÔ¾×	-38,626,680,543		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ÃÑÆ÷°ý¼ÕÀÍ	65,451,746,937		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         ±âº»ÁÖ´çÀÌÀÍ	1,251		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_DilutedEarningsLossPerShare	         Èñ¼®ÁÖ´çÀÌÀÍ	1,251		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·áÀÌÀÍ	4,895,697,612		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	16,913,778,458		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	21,809,476,070		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë	19,843,359,570		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚÀÌÀÍ	200,276,525,390		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	158,777,292,800		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	359,053,818,190		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            À¯È¿ÀÌÀÚÀ²Àû¿ëÀÌÀÚ¼öÀÍ	359,053,818,190		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ	1,245,352,922		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ ÃøÁ¤ Ã¤¹«Áõ±Ç Æò°¡¼ÕÀÍ	1,187,373,572		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ ÃøÁ¤ ÁöºÐ»óÇ° Æò°¡¼ÕÀÍ	566,440,345		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            È®Á¤±Þ¿©Á¦µµÀÇÀçÃøÁ¤¿ä¼Ò	-508,460,995		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ÕÀÍ	-6,094,409,901		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ´ç±â¼øÀÌÀÍ	64,206,394,015		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼Â÷°¨Àü¼øÀÌÀÍ	84,049,753,585		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ	85,590,396,543		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromDividends	      ¹è´ç¼öÀÍ	711,879,705		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[192530]	±¤ÁÖÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÀÏ¹Ý°ü¸®ºñ	-95,436,104,453		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ	898,615,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ ±ÝÀ¶»óÇ° ¼ø¼ÕÀÍ	169,368,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	-68,408,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00386937_OperatingIncomeBeforeProvisionForCreditLossesOfStatementOfComprehensiveIncomeAbstract	      ½Å¿ë¼Õ½ÇÃæ´ç±Ý ¹Ý¿µÀü ¿µ¾÷ÀÌÀÍ	1,592,660,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±Ý ÀüÀÔ¾×	237,031,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ºÐ±âÃÑÆ÷°ýÀÌÀÍ	985,055,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·áÀÌÀÍ	275,328,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	99,235,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	374,563,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë	326,408,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚÀÌÀÍ	2,418,227,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	2,775,228,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	5,193,455,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ ±ÝÀ¶»óÇ° ÀÌÀÚ¼öÀÍ	86,042,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            »ó°¢ÈÄ¿ø°¡ÃøÁ¤ ¹× ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ ±ÝÀ¶»óÇ° ÀÌÀÚ¼öÀÍ	5,107,413,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ¹ýÀÎ¼¼ºñ¿ëÂ÷°¨ÈÄ ºÐ±â±âÅ¸Æ÷°ý¼ÕÀÍ	24,242,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            Çö±ÝÈå¸§À§ÇèÈ¸ÇÇ¼ö´ÜÀÇ ¼ÕÀÍ	-14,287,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            ¿ÜÈ¯Â÷ÀÌ	1,861,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ Ã¤¹«»óÇ° °ü·Ã¼ÕÀÍ	5,945,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ ÃøÁ¤ ÁöºÐ»óÇ° °ü·Ã¼ÕÀÍ	36,003,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            ¼øÈ®Á¤±Þ¿©ºÎÃ¤ ÀçÃøÁ¤¿ä¼Ò	-5,280,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ÕÀÍ	-304,683,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ºÐ±â¼øÀÌÀÍ	960,813,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼ºñ¿ëÂ÷°¨Àü¼øÀÌÀÍ	1,287,221,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ	1,355,629,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[060000]	±¹¹ÎÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÀÏ¹Ý°ü¸®ºñ	965,580,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ(¼Õ½Ç)	52,654,061,227		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	1,064,955,721		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingExpense	         ¿µ¾÷¿Üºñ¿ë	-1,618,191,422		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingIncome	         ¿µ¾÷¿Ü¼öÀÍ	2,683,147,143		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00124106_NetGainOnInvestmentFinancialAssetsOfStatementOfComprehensiveIncomeAbstract	      ÅõÀÚ±ÝÀ¶ÀÚ»ê¼ø¼ÕÀÍ	56,038,957,245		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	         »ó°¢ÈÄ¿ø°¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	0		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	34,168,136,626		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	21,870,820,619		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±Ý ÀüÀÔ¾×	-132,947,756,133		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00124106_GainOnSaleOfLoansOfAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         ´ëÃâÃ¤±Ç¸Å°¢¼ÕÀÍ	5,543,358,887		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00124106_TransferOfProvisionOfAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         Ãæ´ç±Ý ÀüÀÔ¾× µî	-138,491,115,020		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ÃÑÆ÷°ý¼ÕÀÍ	53,793,831,577		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         º¸ÅëÁÖ±âº»ÁÖ´çÀÌÀÍ(¼Õ½Ç)	404		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_DilutedEarningsLossPerShare	         º¸ÅëÁÖÈñ¼®ÁÖ´çÀÌÀÍ(¼Õ½Ç)	404		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·áÀÌÀÍ	10,234,326,299		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	-21,268,567,726		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	31,502,894,025		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë(¼öÀÍ)	-24,737,583,601		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚ¼ÕÀÍ	378,842,754,132		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	-458,901,660,910		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	837,744,415,042		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00124106_udf_IS_2024219161233688OfRevenueFromInterest	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡±ÝÀ¶ÀÚ»ê ¹× »ó°¢ÈÄ¿ø°¡±ÝÀ¶ÀÚ»ê ÀÌÀÚ¼öÀÍ	836,095,307,946		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ´ç±â¼ÕÀÍÀÎ½Ä±ÝÀ¶ÀÚ»êÀ¸·ÎºÎÅÍÀÇ ÀÌÀÚ¼öÀÍ	1,649,107,096		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ	-27,855,229,650		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00124106_udf_IS_202391135219762OfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡Ã¤¹«Áõ±Ç ´ë¼Õ»ó°¢ºñ	-200,613,507		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            ÇØ¿Ü»ç¾÷È¯»ê¼ÕÀÍ	-516,323,045		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡Ã¤¹«Áõ±Ç Æò°¡¼ÕÀÍ	-8,142,917,434		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            ÇØ¿Ü¿µ¾÷¼øÅõÀÚÀ§ÇèÈ¸ÇÇÆò°¡¼ÕÀÍ	436,621,500		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÁöºÐÁõ±Ç °ü·Ã¼ÕÀÍ	1,000,472,530		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            È®Á¤±Þ¿©Á¦µµÀÇÀçÃøÁ¤¿ä¼Ò	-20,432,469,694		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ÕÀÍ	-206,846,592,436		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainFromDerivatives	         ÆÄ»ý»óÇ°°ü·Ã¼ø¼ÕÀÍ	1,880,432,993		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_OtherOperatingExpense	         ±âÅ¸¿µ¾÷ºñ¿ë	-53,166,501,576		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_OtherOperatingIncome	         ±âÅ¸¿µ¾÷¼öÀÍ	5,097,552,581		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationRecognisedInProfitOrLoss	         ¿ÜÈ¯°Å·¡¼ø¼ÕÀÍ	8,290,176,274		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_GeneralAndAdministrativeExpense	         ÀÏ¹Ý°ü¸®ºñ	-168,948,252,708		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ´ç±â¼øÀÌÀÍ(¼Õ½Ç)	81,649,061,227		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼Â÷°¨Àü¼øÀÌÀÍ	106,386,644,828		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005280]	ºÎ»êÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ(¼Õ½Ç)	105,321,689,107		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ	892,439,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤À¯°¡Áõ±ÇÃ³ºÐ¼ÕÀÍ	40,772,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	212,829,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	18,500,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00149293_udf_IS_2023814175218893OfStatementOfComprehensiveIncomeAbstract	      ¿ÜÈ¯°Å·¡¼ÕÀÍ	-46,258,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00149293_udf_IS_2023814175253816OfStatementOfComprehensiveIncomeAbstract	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ÁöÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	-864,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±ÝÀüÀÔ	108,196,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ÃÑÆ÷°ý¼ÕÀÍ	1,065,037,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         ±âº»ÁÖ´çÀÌÀÍ	574		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_DilutedEarningsLossPerShare	         Èñ¼®ÁÖ´çÀÌÀÍ	574		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·á¼ÕÀÍ	275,183,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	66,665,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	341,848,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	      »ó°¢ÈÄ¿ø°¡ÃøÁ¤À¯°¡Áõ±ÇÃ³ºÐ¼ÕÀÍ	-27,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë	288,380,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚ¼ÕÀÍ	1,935,821,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	2,807,532,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	4,743,353,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°ÀÌÀÚ¼öÀÍ	168,265,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ ¹× »ó°¢ÈÄ¿ø°¡ÃøÁ¤ ±ÝÀ¶»óÇ°ÀÌÀÚ¼öÀÍ	4,575,088,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ	133,471,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            ÇØ¿Ü»ç¾÷È¯»ê¼ÕÀÍ	-193,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤À¯°¡Áõ±ÇÆò°¡¼ÕÀÍ	71,101,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤À¯°¡Áõ±ÇÆò°¡¼ÕÀÍ	62,563,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ÕÀÍ	-354,099,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ´ç±â¼øÀÌÀÍ	931,566,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼Â÷°¨Àü¼øÀÌÀÍ	1,219,946,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ	1,201,446,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromDividends	      ¹è´ç¼öÀÍ	34,408,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000010]	½ÅÇÑÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÀÏ¹Ý°ü¸®ºñ	788,123,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ(¼Õ½Ç)	99,378,306,820		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	13,217,252,846		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	12,242,870,259		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	-2,365,149,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±Ý ¼øÀüÀÔ¾×	50,417,773,438		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ¿¬°áºÐ±âÃÑÆ÷°ý¼ÕÀÍ	134,728,853,357		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         º¸ÅëÁÖ±âº»ÁÖ´çÀÌÀÍ(¼Õ½Ç)	888		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·á¼ÕÀÍ	21,663,168,255		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	14,559,430,726		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	36,222,598,981		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë(¼öÀÍ)	34,283,418,476		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚ¼ÕÀÍ	354,717,545,691		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	404,607,745,982		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	759,325,291,673		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00109019_InterestIncomeFromFinancialInstrumentsAtFairValueThroughOfRevenueFromInterest	            ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ ±ÝÀ¶»óÇ° ÀÌÀÚ¼öÀÍ	0		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00109019_udf_IS_20231026174213323OfRevenueFromInterest	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ ¹×  »ó°¢ÈÄ¿ø°¡ÃøÁ¤ ±ÝÀ¶»óÇ° ÀÌÀÚ¼öÀÍ	759,325,291,673		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_NetForeignExchangeGain	      ¿ÜÈ¯°Å·¡¼ø¼ÕÀÍ	11,109,992,681		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ºÐ±â±âÅ¸Æ÷°ý¼ÕÀÍ	5,576,546,537		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00109019_udf_IS_2023102619131346OfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ ±ÝÀ¶ÀÚ»êÀÇ ±â´ë½Å¿ë¼Õ½Ç	-4,573,218		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            ÇØ¿Ü»ç¾÷È¯»ê¼ÕÀÍ	-348,952,653		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ Ã¤¹«»óÇ° Æò°¡¼ÕÀÍ	5,910,458,040		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            ÇØ¿Ü»ç¾÷Àå¼øÅõÀÚ À§ÇèÈ¸ÇÇÆò°¡¼ÕÀÍ	186,476,891		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ÁöºÐ»óÇ°Æò°¡¼ÕÀÍ	-166,862,523		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            È®Á¤±Þ¿©Á¦µµÀÇÀçÃøÁ¤¿ä¼Ò	0		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ø¼ÕÀÍ	-40,124,013,493		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ¿¬°áºÐ±â¼øÀÌÀÍ(¼Õ½Ç)	129,152,306,820		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼Â÷°¨Àü¼øÀÌÀÍ	163,435,725,296		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ(¼Õ½Ç)	165,800,874,296		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[005270]	¾ÆÀÌ¿¥¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÀÏ¹Ý°ü¸®ºñ	156,608,168,505		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdditionReversalOfCreditLossFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±ÝÀüÀÔ¾×	-209,692,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ	555,694,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	      »ó°¢ÈÄ¿ø°¡ÃøÁ¤±ÝÀ¶ÀÚ»ê°ü·Ã¼ÕÀÍ	-11,093,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	         »ó°¢ÈÄ¿ø°¡ÃøÁ¤´ëÃâÃ¤±Ç¹×±âÅ¸±ÝÀ¶ÀÚ»ê¸Å¸Å¼ÕÀÍ	-11,093,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»ê°ü·Ã¼ÕÀÍ	33,256,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	195,662,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	17,308,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00254045_udf_IS_20243410485310OfNonOperatingProfitLoss	         ±âÅ¸¿µ¾÷¿Ü¼ÕÀÍ	17,360,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	         °ü°è±â¾÷ÅõÀÚÀÚ»êÆò°¡¼ÕÀÍ	-52,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ÃÑÆ÷°ý¼ÕÀÍ	556,741,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShareFromContinuingOperations	         ±âº» ¹× Èñ¼®ÁÖ´çÀÌÀÍ	763		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·áÀÌÀÍ	228,418,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	41,597,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	270,015,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë	164,540,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚÀÌÀÍ	1,697,311,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	2,576,942,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	4,274,253,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	            »ó°¢ÈÄ¿ø°¡ÃøÁ¤±ÝÀ¶ÀÚ»êÀÌÀÚ¼öÀÍ	3,910,313,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»êÀÌÀÚ¼öÀÍ	27,899,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»êÀÌÀÚ¼öÀÍ	336,041,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ	-25,846,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            ÇØ¿Ü»ç¾÷È¯»ê¼ÕÀÍ	603,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤Ã¤¹«Áõ±ÇÆò°¡¼ÕÀÍ	51,913,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            ÇØ¿Ü»ç¾÷Àå¼øÅõÀÚÀ§ÇèÈ¸ÇÇÆò°¡¼ÕÀÍ	237,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ÁöÁ¤±ÝÀ¶ºÎÃ¤½Å¿ëÀ§Çèº¯µ¿¼ÕÀÍ	26,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ÁöºÐÁõ±ÇÆò°¡¼ÕÀÍ	29,432,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            È®Á¤±Þ¿©Á¦µµÀÇ ÀçÃøÁ¤¿ä¼Ò	-108,057,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ÕÀÍ	-300,690,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ºÐ±â¼øÀÌÀÍ	582,587,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼ºñ¿ëÂ÷°¨Àü¼øÀÌÀÍ	747,127,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ	729,819,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromDividends	      ¹è´ç¼öÀÍ	111,656,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000030]	¿ì¸®ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÀÏ¹Ý°ü¸®ºñ	1,015,009,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ(¼Õ½Ç)	46,198,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	7,878,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	9,404,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	93,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±Ý ÀüÀÔ¾×	43,997,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ÃÑÆ÷°ý¼ÕÀÍ	43,886,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         º¸ÅëÁÖ±âº»ÁÖ´çÀÌÀÍ(¼Õ½Ç)	414		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_DilutedEarningsLossPerShare	         º¸ÅëÁÖÈñ¼®ÁÖ´çÀÌÀÍ(¼Õ½Ç)	414		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·á¼ÕÀÍ	-256,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	10,771,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	10,515,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë	12,316,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚ¼ÕÀÍ	159,379,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	133,363,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	292,742,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡·Î ÃøÁ¤ÇÏ´Â ±ÝÀ¶ÀÚ»êÀÇ ÀÌÀÚ¼öÀÍ			
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            À¯È¿ÀÌÀÚÀ²Àû¿ëÀÌÀÚ¼öÀÍ	292,742,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ	2,427,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»ê°ü·Ã¼ÕÀÍ	2,878,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ÁöºÐ»óÇ°Æò°¡¼ÕÀÍ	-114,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            È®Á¤±Þ¿©Á¦µµÀÇÀçÃøÁ¤¿ä¼Ò	-337,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ÕÀÍ	-14,618,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ´ç±â¼øÀÌÀÍ(¼Õ½Ç)	41,459,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼Â÷°¨Àü¼øÀÌÀÍ	53,775,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ(¼Õ½Ç)	53,682,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±Ý È¯ÀÔ¾×	108,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006350]	ÀüºÏÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÆÇ¸Åºñ¿Í°ü¸®ºñ	64,216,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ(¼Õ½Ç)	-199,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»êÃ³ºÐ¼ÕÀÍ	1,654,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ÕÀÍ	62,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	1,965,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±ÝÀüÀÔ	-11,664,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ÃÑÆ÷°ý¼ÕÀÍ	3,751,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         ±âº»ÁÖ´ç¼øÀÌÀÍ	45		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_DilutedEarningsLossPerShare	         Èñ¼®ÁÖ´ç¼øÀÌÀÍ	45		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·á¼ÕÀÍ	3,077,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	-2,010,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	5,087,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	      »ó°¢ÈÄ¿ø°¡ÃøÁ¤±ÝÀ¶ÀÚ»êÃ³ºÐ¼ÕÀÍ	302,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë(¼öÀÍ)	328,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚ¼ÕÀÍ	38,499,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	-45,047,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	83,546,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_NetForeignExchangeGain	      ¿ÜÈ¯°Å·¡¼ÕÀÍ	331,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ	847,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤Ã¤¹«Áõ±ÇÆò°¡¼ÕÀÍ	729,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ÁöºÐÁõ±ÇÆò°¡¼ÕÀÍ	118,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            È®Á¤±Þ¿©Á¦µµÀÇÀçÃøÁ¤¿ä¼Ò	0		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ÕÀÍ	-5,143,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ºÐ±â¼øÀÌÀÍ(¼Õ½Ç)	2,904,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼ºñ¿ëÂ÷°¨Àü¼øÀÌÀÍ	3,232,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷¼ÕÀÍ	1,267,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromDividends	      ¹è´ç¼öÀÍ	0		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[006220]	Á¦ÁÖÀºÇà	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÀÏ¹Ý°ü¸®ºñ	-25,851,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ	122,679,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      4. ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»ê°ü·ÃÀÌÀÍ	12,220,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      3. ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·ÃÀÌÀÍ	77,670,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      4. ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»ê°ü·Ã¼Õ½Ç	484,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      3. ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼Õ½Ç	23,813,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingExpense	      VI. ¿µ¾÷¿Üºñ¿ë	1,935,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingIncome	      V. ¿µ¾÷¿Ü¼öÀÍ	1,359,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_OtherOperatingExpense	      6. ±âÅ¸ÀÇ¿µ¾÷ºñ¿ë	42,109,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_OtherOperatingIncome	      5. ±âÅ¸ÀÇ¿µ¾÷¼öÀÍ	14,847,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ¥². ±ÝÀ¶ÀÚ»ê½Å¿ë¼Õ½ÇÃæ´ç±ÝÀüÀÔ¾×	60,924,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      XI. ÃÑÆ÷°ýÀÌÀÍ	141,280,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         1. ±âº»ÁÖ´çÀÌÀÍ	288		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_DilutedEarningsLossPerShare	         2. Èñ¼®ÁÖ´çÀÌÀÍ	288		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	      2. ¼ö¼ö·áºñ¿ë	70,901,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	      2. ¼ö¼ö·á¼öÀÍ	77,644,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VIII. ¹ýÀÎ¼¼ºñ¿ë	45,047,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	      1. ÀÌÀÚºñ¿ë	278,748,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OperatingExpense	      II. ¿µ¾÷ºñ¿ë	540,599,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      X. ±âÅ¸Æ÷°ý¼ÕÀÍ	3,864,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            1. ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»êÆò°¡¼ÕÀÍ	6,785,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            2. °ü°è±â¾÷ ±âÅ¸Æ÷°ý¼ÕÀÍ¿¡ ´ëÇÑ ÁöºÐ	-2,929,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            1. ¼øÈ®Á¤±Þ¿©ÀÚ»êÀÇ ÀçÃøÁ¤¿ä¼Ò	0		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax	            2. °ü°è±â¾÷ ±âÅ¸Æ÷°ý¼ÕÀÍ¿¡ ´ëÇÑ ÁöºÐ	8,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      IX. ºÐ±â¼øÀÌÀÍ	137,416,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      VII. ¹ýÀÎ¼¼ºñ¿ëÂ÷°¨Àü¼øÀÌÀÍ	182,463,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      IV. ¿µ¾÷ÀÌÀÍ	183,039,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_Revenue	      I. ¿µ¾÷¼öÀÍ	784,562,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	      1. ÀÌÀÚ¼öÀÍ	602,181,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[323410]	Ä«Ä«¿À¹ðÅ©	À¯°¡Áõ±Ç½ÃÀå»óÀå¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      5. ÆÇ¸Åºñ¿Í°ü¸®ºñ	124,544,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µ ÈÄ Á¶Á¤ÀÌÀÍ	10,551,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»ê°ü·ÃÀÌÀÍ	20,109,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	26,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½Ç¿¡ ´ëÇÑ ¼Õ»óÂ÷¼Õ	-53,933,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ´ç±âÃÑÆ÷°ýÀÌÀÍ	19,425,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         ±âº»ÁÖ´çÀÌÀÍ	43		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·á¼ÕÀÍ	-438,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	-15,559,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	15,121,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼¼öÀÍ(ºñ¿ë)	457,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚ¼ÕÀÍ	108,467,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	-167,403,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	275,870,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ	3,367,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»êÆò°¡¼ÕÀÍ	3,382,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            È®Á¤±Þ¿©Á¦µµÀÇ ÀçÃøÁ¤¿ä¼Ò	-15,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ÕÀÍ	-6,010,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ´ç±â¼øÀÌÀÍ	16,058,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼ºñ¿ëÂ÷°¨Àü¼øÀÌÀÍ	15,601,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ	15,575,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[null]	ÄÉÀÌ¹ðÅ©	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÀÏ¹Ý°ü¸®ºñ	-52,620,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ	973,417,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromDerivativesHeldForHedging	      ¼øÇìÁö¸ñÀûÆÄ»ý»óÇ°¼ÕÀÍ	32,408,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	      ¼ø»ó°¢ÈÄ¿ø°¡ÃøÁ¤±ÝÀ¶ÀÚ»êÀÌÀÍ	0		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ¼ø±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»êÀÌÀÍ	70,337,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ¼ø´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°ÀÌÀÍ	359,094,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿ÜÀÌÀÍ(¼Õ½Ç)	20,769,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingExpense	         ¿µ¾÷¿Üºñ¿ë	14,514,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingIncome	         ¿µ¾÷¿Ü¼öÀÍ	35,283,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_OtherOperatingExpense	      ±âÅ¸¿µ¾÷ºñ¿ë	2,082,573,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_OtherOperatingIncome	      ±âÅ¸¿µ¾÷¼öÀÍ	1,769,366,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±ÝÀüÀÔ¾×	117,491,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ºÐ±âÃÑÆ÷°ýÀÌÀÍ	1,034,775,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         ±âº»ÁÖ´çÀÌÀÍ	902		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_DilutedEarningsLossPerShare	         Èñ¼®ÁÖ´çÀÌÀÍ	902		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·áÀÌÀÍ	199,878,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	61,850,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	261,728,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë	312,801,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚÀÌÀÍ	1,817,837,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	2,656,612,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	4,474,449,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°ÀÌÀÚ¼öÀÍ	62,598,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ ¹× »ó°¢ÈÄ¿ø°¡ÃøÁ¤±ÝÀ¶»óÇ°ÀÌÀÚ¼öÀÍ	4,411,851,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ	67,715,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            ÇØ¿Ü»ç¾÷ÀåÈ¯»ê¼ÕÀÍ	-12,955,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤Ã¤¹«Áõ±ÇÆò°¡¼ÕÀÍ	68,606,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            ÇØ¿Ü»ç¾÷Àå¼øÅõÀÚÀ§ÇèÈ¸ÇÇÆò°¡¼ÕÀÍ	-1,200,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ÁöºÐÁõ±ÇÆò°¡¼ÕÀÍ	13,937,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            È®Á¤±Þ¿©Á¦µµÀÇ ÀçÃøÁ¤¿ä¼Ò	-673,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ºÐ±â¼øÀÌÀÍ	967,060,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼ºñ¿ëÂ÷°¨Àü¼øÀÌÀÍ	1,279,861,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ	1,259,092,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[004940]	ÇÏ³ªÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÀÏ¹Ý°ü¸®ºñ	789,764,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ	88,150,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustmentsForGainsLossesOnChangeInFairValueOfFinancialAssetsAtFairValueThroughProfitOrLossDesignatedAsUponInitialRecognition	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ÁöÁ¤±ÝÀ¶»óÇ° °ü·Ã¼ø¼ÕÀÍ	52,276,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶»óÇ°°ü·Ã¼ø¼ÕÀÍ	-113,263,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingProfitLoss	      ¿µ¾÷¿Ü¼ÕÀÍ	6,311,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingExpense	         ¿µ¾÷¿Üºñ¿ë	171,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingIncome	         ¿µ¾÷¿Ü¼öÀÍ	6,482,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00148504_udf_IS_2024320204140975OfStatementOfComprehensiveIncomeAbstract	      °øÁ¤°¡Ä¡À§ÇèÈ¸ÇÇ´ë»ó °ü·Ã¼ø¼ÕÀÍ	512,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00148504_udf_IS_202432020423594OfStatementOfComprehensiveIncomeAbstract	      ±ÝÀ¶»óÇ° °ü·Ã±âÅ¸¼ø¼ÕÀÍ	-383,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00148504_udf_IS_2024320204527125OfStatementOfComprehensiveIncomeAbstract	      ±âÅ¸Ãæ´ç±Ý ¹× Ãæ´çºÎÃ¤ ¼øÀüÀÔ¾×	-455,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±Ý ¼øÀüÀÔ¾×	31,184,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ÃÑÆ÷°ý¼ÕÀÍ	110,477,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         º¸ÅëÁÖ±âº»ÁÖ´çÀÌÀÍ(¼Õ½Ç)	416		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·á¼ÕÀÍ	75,450,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	28,711,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	104,161,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	      »ó°¢ÈÄ¿ø°¡ ÃøÁ¤ ±ÝÀ¶ÀÚ»ê Á¦°Å ¼ÕÀÍ	732,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_GainsLossesOnHedgingInstrument	      À§ÇèÈ¸ÇÇÆÄ»ý»óÇ° °ü·Ã¼ø¼ÕÀÍ	-398,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë	30,984,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚ¼ÕÀÍ	304,419,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	325,311,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	629,730,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ ÃøÁ¤ ±ÝÀ¶»óÇ° ÀÌÀÚ¼öÀÍ	20,992,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            »ó°¢ÈÄ¿ø°¡ÃøÁ¤ ¹× ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ ÃøÁ¤ ±ÝÀ¶»óÇ° ÀÌÀÚ¼öÀÍ	608,738,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_NetForeignExchangeGain	      È¯À²º¯µ¿¼ÕÀÍ	198,899,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ±âÅ¸Æ÷°ý¼ÕÀÍ	-2,976,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»ê°ü·Ã¼ÕÀÍ	-2,874,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ÁöÁ¤±ÝÀ¶ºÎÃ¤ÀÇ ÀÚ±â½Å¿ëÀ§ÇèÁ¶Á¤	-102,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherOperatingIncomeExpense	      ±âÅ¸¿µ¾÷¼ÕÀÍ	-22,844,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ´ç±â¼øÀÌÀÍ(¼Õ½Ç)	113,453,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼Â÷°¨Àü¼øÀÌÀÍ	144,437,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ(¼Õ½Ç)	138,126,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[000110]	ÇÑ±¹½ºÅÄ´ÙµåÂ÷Å¸µåÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÆÇ¸Åºñ¿Í°ü¸®ºñ	221,083,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ´ë¼ÕÁØºñ±Ý ¹Ý¿µÈÄ Á¶Á¤ÀÌÀÍ	101,726,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromDerivativesHeldForHedging	      ÆÄ»ý»óÇ°°ü·Ã¼ø¼ÕÀÍ	-103,020,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstruments	      ±ÝÀ¶»óÇ°°ü·Ã±âÅ¸¼ø¼ÕÀÍ	3,986,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	         »ó°¢ÈÄ¿ø°¡ÃøÁ¤±ÝÀ¶ÀÚ»ê°ü·Ã¼ø¼ÕÀÍ	164,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         ±âÅ¸±ÝÀ¶»óÇ°°ü·Ã±âÅ¸¼ø¼ÕÀÍ	3,822,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ ±ÝÀ¶»óÇ°°ü·Ã¼ø¼ÕÀÍ	138,397,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingExpense	      ±âÅ¸ºñ¿ë	-1,253,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_NonOperatingIncome	      ±âÅ¸¼öÀÍ	1,625,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_OperatingIncomeLoss	      ¼ø¿µ¾÷ÀÌÀÍ	261,182,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_OtherOperatingExpense	      ±âÅ¸¿µ¾÷ºñ¿ë	-11,811,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	dart_OtherOperatingIncome	      ±âÅ¸¿µ¾÷¼öÀÍ	8,706,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	entity00161444_NiBeforeCreditCostOfStatementOfComprehensiveIncomeAbstract	      ½Å¿ë¼Õ½Ç¹Ý¿µÀü¼ø¿µ¾÷ÀÌÀÍ	266,914,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ½Å¿ë¼Õ½ÇÃæ´ç±ÝÀüÀÔ¾×	-5,732,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ComprehensiveIncome	      ºÐ±âÃÑÆ÷°ýÀÌÀÍ	77,889,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_BasicEarningsLossPerShare	         ±âº»¹×Èñ¼®ÁÖ´çÀÌÀÍ	259		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_EmployeeBenefitsExpense	      Á¾¾÷¿ø±Þ¿©	-65,588,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ¼ø¼ö¼ö·á¼ÕÀÍ	9,121,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionExpense	         ¼ö¼ö·áºñ¿ë	-20,836,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_FeeAndCommissionIncome	         ¼ö¼ö·á¼öÀÍ	29,957,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ¹ýÀÎ¼¼ºñ¿ë	-24,778,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestRevenueExpense	      ¼øÀÌÀÚ¼ÕÀÍ	140,797,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_InterestExpense	         ÀÌÀÚºñ¿ë	-110,905,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_RevenueFromInterest	         ÀÌÀÚ¼öÀÍ	251,702,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_NetForeignExchangeGain	      ¿ÜÈ¯°Å·¡¼ÕÀÍ	80,738,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncome	      ¹ýÀÎ¼¼ºñ¿ëÂ÷°¨ÈÄ ±âÅ¸Æ÷°ý¼ÕÀÍ	-4,515,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ±âÅ¸Æ÷°ý¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤±ÝÀ¶ÀÚ»êÆò°¡¼ÕÀÍ	12,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            ´ç±â¼ÕÀÍ-°øÁ¤°¡Ä¡ÃøÁ¤ Ç×¸ñÁöÁ¤ ±ÝÀ¶ºÎÃ¤ ½Å¿ëÀ§Çèº¯µ¿È¿°ú	-123,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            È®Á¤±Þ¿©Á¦µµÀÇ ÀçÃøÁ¤¿ä¼Ò	-4,404,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLoss	      ºÐ±â¼øÀÌÀÍ	82,404,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossBeforeTax	      ¹ýÀÎ¼¼ºñ¿ëÂ÷°¨Àü¼øÀÌÀÍ	107,182,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ¿µ¾÷ÀÌÀÍ	106,810,000,000		
- Æ÷°ý¼ÕÀÍ°è»ê¼­, ÀºÇà - º°µµ	[016830]	ÇÑ±¹¾¾Æ¼ÀºÇà	±âÅ¸¹ýÀÎ	641	ÀºÇà ¹× ÀúÃà±â°ü	12	2025-03-31	1ºÐ±âº¸°í¼­	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ÀÏ¹Ý°ü¸®ºñ	-88,784,000,000		
+ìž¬ë¬´ì œí‘œì¢…ë¥˜	ì¢…ëª©ì½”ë“œ	íšŒì‚¬ëª…	ì‹œìž¥êµ¬ë¶„	ì—…ì¢…	ì—…ì¢…ëª…	ê²°ì‚°ì›”	ê²°ì‚°ê¸°ì¤€ì¼	ë³´ê³ ì„œì¢…ë¥˜	í†µí™”	í•­ëª©ì½”ë“œ	í•­ëª©ëª…	ë‹¹ê¸° 1ë¶„ê¸°ë§	ì „ê¸°ë§	ì „ì „ê¸°ë§	
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ(ì†ì‹¤)	32,185,251,853		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromDerivativesHeldForHedging	      íŒŒìƒìƒí’ˆê´€ë ¨ì†ìµ	446,712,238		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ê¸ˆìœµìžì‚° ê´€ë ¨ì†ìµ	24,206,184,796		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ê¸ˆìœµìžì‚° ê´€ë ¨ì†ìµ	22,494,490,381		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	-1,235,844,459		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity01030132_GainOnDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract	      ëŒ€ì¶œì±„ê¶Œë§¤ê°ì†ìµ	-2,963,929,637		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì— ëŒ€í•œ ì†ìƒì°¨ì†	-63,333,189,992		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ì´í¬ê´„ì†ìµ	47,072,956,983		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ë³´í†µì£¼ê¸°ë³¸ì£¼ë‹¹ì´ìµ(ì†ì‹¤)	734		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_DilutedEarningsLossPerShare	         í¬ì„ì£¼ë‹¹ì´ìµ(ì†ì‹¤)	734		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì´ìµ	12,990,392,441		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	-12,001,899,161		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	24,992,291,602		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©(ìˆ˜ìµ)	-19,072,315,904		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì´ìµ	253,509,782,368		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	-299,556,904,374		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	553,066,686,742		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity01030132_OtherInterestIncomeOfRevenueFromInterest	            ê¸°íƒ€ì˜ ì´ìžìˆ˜ìµ	3,473,628,651		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            ìœ íš¨ì´ìžìœ¨ë²•ì— ë”°ë¥¸ ì´ìžìˆ˜ìµ	549,593,058,091		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	               ìƒê°í›„ì›ê°€ê¸ˆìœµìžì‚° ì´ìžìˆ˜ìµ	529,822,920,553		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	               ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ê¸ˆìœµìžì‚° ì´ìžìˆ˜ìµ	19,770,137,538		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ	-18,952,294,870		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity01030132_ReversalOfImpairmentLossForDebtSecuritiesAtFvociOfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            ê¸°íƒ€í¬ê´„ì†ìµì¸ì‹ì±„ë¬´ì¦ê¶ŒëŒ€ì†ìƒê°ë¹„(í™˜ìž…)	-65,142,437		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ ì¸¡ì • ì±„ë¬´ìƒí’ˆ í‰ê°€ì†ìµ	-7,906,630,056		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì§€ë¶„ìƒí’ˆí‰ê°€ì†ìµ	-539,600,350		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            í™•ì •ê¸‰ì—¬ì œë„ì˜ìž¬ì¸¡ì •ìš”ì†Œ	-10,440,922,027		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ì†ìµ	-32,923,308,977		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë¶„ê¸°ìˆœì´ìµ(ì†ì‹¤)	66,025,251,853		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ì°¨ê°ì „ìˆœì´ìµ	85,097,567,757		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ(ì†ì‹¤)	86,333,412,216		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192520]	ê²½ë‚¨ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ì¼ë°˜ê´€ë¦¬ë¹„	-128,093,721,402		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ(ì†ì‹¤)	51,619,463,499		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	11,096,383,792		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	8,767,104,941		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	-1,540,642,958		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆ ì „ìž…ì•¡	-38,626,680,543		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ì´í¬ê´„ì†ìµ	65,451,746,937		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ê¸°ë³¸ì£¼ë‹¹ì´ìµ	1,251		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_DilutedEarningsLossPerShare	         í¬ì„ì£¼ë‹¹ì´ìµ	1,251		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì´ìµ	4,895,697,612		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	16,913,778,458		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	21,809,476,070		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©	19,843,359,570		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì´ìµ	200,276,525,390		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	158,777,292,800		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	359,053,818,190		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            ìœ íš¨ì´ìžìœ¨ì ìš©ì´ìžìˆ˜ìµ	359,053,818,190		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ	1,245,352,922		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ ì¸¡ì • ì±„ë¬´ì¦ê¶Œ í‰ê°€ì†ìµ	1,187,373,572		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ ì¸¡ì • ì§€ë¶„ìƒí’ˆ í‰ê°€ì†ìµ	566,440,345		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            í™•ì •ê¸‰ì—¬ì œë„ì˜ìž¬ì¸¡ì •ìš”ì†Œ	-508,460,995		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ì†ìµ	-6,094,409,901		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë‹¹ê¸°ìˆœì´ìµ	64,206,394,015		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ì°¨ê°ì „ìˆœì´ìµ	84,049,753,585		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ	85,590,396,543		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromDividends	      ë°°ë‹¹ìˆ˜ìµ	711,879,705		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[192530]	ê´‘ì£¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ì¼ë°˜ê´€ë¦¬ë¹„	-95,436,104,453		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ	898,615,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ê¸ˆìœµìƒí’ˆ ìˆœì†ìµ	169,368,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	-68,408,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00386937_OperatingIncomeBeforeProvisionForCreditLossesOfStatementOfComprehensiveIncomeAbstract	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆ ë°˜ì˜ì „ ì˜ì—…ì´ìµ	1,592,660,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆ ì „ìž…ì•¡	237,031,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ë¶„ê¸°ì´í¬ê´„ì´ìµ	985,055,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì´ìµ	275,328,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	99,235,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	374,563,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©	326,408,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì´ìµ	2,418,227,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	2,775,228,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	5,193,455,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ê¸ˆìœµìƒí’ˆ ì´ìžìˆ˜ìµ	86,042,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            ìƒê°í›„ì›ê°€ì¸¡ì • ë° ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ê¸ˆìœµìƒí’ˆ ì´ìžìˆ˜ìµ	5,107,413,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ë²•ì¸ì„¸ë¹„ìš©ì°¨ê°í›„ ë¶„ê¸°ê¸°íƒ€í¬ê´„ì†ìµ	24,242,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges	            í˜„ê¸ˆíë¦„ìœ„í—˜íšŒí”¼ìˆ˜ë‹¨ì˜ ì†ìµ	-14,287,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            ì™¸í™˜ì°¨ì´	1,861,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ì±„ë¬´ìƒí’ˆ ê´€ë ¨ì†ìµ	5,945,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ ì¸¡ì • ì§€ë¶„ìƒí’ˆ ê´€ë ¨ì†ìµ	36,003,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            ìˆœí™•ì •ê¸‰ì—¬ë¶€ì±„ ìž¬ì¸¡ì •ìš”ì†Œ	-5,280,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ì†ìµ	-304,683,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë¶„ê¸°ìˆœì´ìµ	960,813,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ë¹„ìš©ì°¨ê°ì „ìˆœì´ìµ	1,287,221,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ	1,355,629,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[060000]	êµ­ë¯¼ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ì¼ë°˜ê´€ë¦¬ë¹„	965,580,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ(ì†ì‹¤)	52,654,061,227		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	1,064,955,721		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingExpense	         ì˜ì—…ì™¸ë¹„ìš©	-1,618,191,422		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingIncome	         ì˜ì—…ì™¸ìˆ˜ìµ	2,683,147,143		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00124106_NetGainOnInvestmentFinancialAssetsOfStatementOfComprehensiveIncomeAbstract	      íˆ¬ìžê¸ˆìœµìžì‚°ìˆœì†ìµ	56,038,957,245		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	         ìƒê°í›„ì›ê°€ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	0		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	34,168,136,626		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	         ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	21,870,820,619		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆ ì „ìž…ì•¡	-132,947,756,133		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00124106_GainOnSaleOfLoansOfAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         ëŒ€ì¶œì±„ê¶Œë§¤ê°ì†ìµ	5,543,358,887		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00124106_TransferOfProvisionOfAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	         ì¶©ë‹¹ê¸ˆ ì „ìž…ì•¡ ë“±	-138,491,115,020		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ì´í¬ê´„ì†ìµ	53,793,831,577		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ë³´í†µì£¼ê¸°ë³¸ì£¼ë‹¹ì´ìµ(ì†ì‹¤)	404		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_DilutedEarningsLossPerShare	         ë³´í†µì£¼í¬ì„ì£¼ë‹¹ì´ìµ(ì†ì‹¤)	404		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì´ìµ	10,234,326,299		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	-21,268,567,726		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	31,502,894,025		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©(ìˆ˜ìµ)	-24,737,583,601		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì†ìµ	378,842,754,132		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	-458,901,660,910		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	837,744,415,042		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00124106_udf_IS_2024219161233688OfRevenueFromInterest	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ê¸ˆìœµìžì‚° ë° ìƒê°í›„ì›ê°€ê¸ˆìœµìžì‚° ì´ìžìˆ˜ìµ	836,095,307,946		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ë‹¹ê¸°ì†ìµì¸ì‹ê¸ˆìœµìžì‚°ìœ¼ë¡œë¶€í„°ì˜ ì´ìžìˆ˜ìµ	1,649,107,096		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ	-27,855,229,650		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00124106_udf_IS_202391135219762OfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì±„ë¬´ì¦ê¶Œ ëŒ€ì†ìƒê°ë¹„	-200,613,507		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            í•´ì™¸ì‚¬ì—…í™˜ì‚°ì†ìµ	-516,323,045		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì±„ë¬´ì¦ê¶Œ í‰ê°€ì†ìµ	-8,142,917,434		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            í•´ì™¸ì˜ì—…ìˆœíˆ¬ìžìœ„í—˜íšŒí”¼í‰ê°€ì†ìµ	436,621,500		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì§€ë¶„ì¦ê¶Œ ê´€ë ¨ì†ìµ	1,000,472,530		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            í™•ì •ê¸‰ì—¬ì œë„ì˜ìž¬ì¸¡ì •ìš”ì†Œ	-20,432,469,694		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ì†ìµ	-206,846,592,436		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainFromDerivatives	         íŒŒìƒìƒí’ˆê´€ë ¨ìˆœì†ìµ	1,880,432,993		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_OtherOperatingExpense	         ê¸°íƒ€ì˜ì—…ë¹„ìš©	-53,166,501,576		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_OtherOperatingIncome	         ê¸°íƒ€ì˜ì—…ìˆ˜ìµ	5,097,552,581		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationRecognisedInProfitOrLoss	         ì™¸í™˜ê±°ëž˜ìˆœì†ìµ	8,290,176,274		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_GeneralAndAdministrativeExpense	         ì¼ë°˜ê´€ë¦¬ë¹„	-168,948,252,708		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë‹¹ê¸°ìˆœì´ìµ(ì†ì‹¤)	81,649,061,227		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ì°¨ê°ì „ìˆœì´ìµ	106,386,644,828		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005280]	ë¶€ì‚°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ(ì†ì‹¤)	105,321,689,107		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ	892,439,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ìœ ê°€ì¦ê¶Œì²˜ë¶„ì†ìµ	40,772,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	212,829,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	18,500,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00149293_udf_IS_2023814175218893OfStatementOfComprehensiveIncomeAbstract	      ì™¸í™˜ê±°ëž˜ì†ìµ	-46,258,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00149293_udf_IS_2023814175253816OfStatementOfComprehensiveIncomeAbstract	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì§€ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	-864,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆì „ìž…	108,196,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ì´í¬ê´„ì†ìµ	1,065,037,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ê¸°ë³¸ì£¼ë‹¹ì´ìµ	574		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_DilutedEarningsLossPerShare	         í¬ì„ì£¼ë‹¹ì´ìµ	574		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì†ìµ	275,183,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	66,665,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	341,848,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	      ìƒê°í›„ì›ê°€ì¸¡ì •ìœ ê°€ì¦ê¶Œì²˜ë¶„ì†ìµ	-27,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©	288,380,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì†ìµ	1,935,821,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	2,807,532,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	4,743,353,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆì´ìžìˆ˜ìµ	168,265,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ë° ìƒê°í›„ì›ê°€ì¸¡ì • ê¸ˆìœµìƒí’ˆì´ìžìˆ˜ìµ	4,575,088,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ	133,471,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            í•´ì™¸ì‚¬ì—…í™˜ì‚°ì†ìµ	-193,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ìœ ê°€ì¦ê¶Œí‰ê°€ì†ìµ	71,101,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ìœ ê°€ì¦ê¶Œí‰ê°€ì†ìµ	62,563,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ì†ìµ	-354,099,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë‹¹ê¸°ìˆœì´ìµ	931,566,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ì°¨ê°ì „ìˆœì´ìµ	1,219,946,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ	1,201,446,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromDividends	      ë°°ë‹¹ìˆ˜ìµ	34,408,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000010]	ì‹ í•œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ì¼ë°˜ê´€ë¦¬ë¹„	788,123,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ(ì†ì‹¤)	99,378,306,820		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	13,217,252,846		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	12,242,870,259		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	-2,365,149,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆ ìˆœì „ìž…ì•¡	50,417,773,438		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ì—°ê²°ë¶„ê¸°ì´í¬ê´„ì†ìµ	134,728,853,357		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ë³´í†µì£¼ê¸°ë³¸ì£¼ë‹¹ì´ìµ(ì†ì‹¤)	888		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì†ìµ	21,663,168,255		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	14,559,430,726		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	36,222,598,981		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©(ìˆ˜ìµ)	34,283,418,476		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì†ìµ	354,717,545,691		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	404,607,745,982		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	759,325,291,673		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00109019_InterestIncomeFromFinancialInstrumentsAtFairValueThroughOfRevenueFromInterest	            ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ê¸ˆìœµìƒí’ˆ ì´ìžìˆ˜ìµ	0		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00109019_udf_IS_20231026174213323OfRevenueFromInterest	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ë°  ìƒê°í›„ì›ê°€ì¸¡ì • ê¸ˆìœµìƒí’ˆ ì´ìžìˆ˜ìµ	759,325,291,673		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_NetForeignExchangeGain	      ì™¸í™˜ê±°ëž˜ìˆœì†ìµ	11,109,992,681		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ë¶„ê¸°ê¸°íƒ€í¬ê´„ì†ìµ	5,576,546,537		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00109019_udf_IS_2023102619131346OfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ê¸ˆìœµìžì‚°ì˜ ê¸°ëŒ€ì‹ ìš©ì†ì‹¤	-4,573,218		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            í•´ì™¸ì‚¬ì—…í™˜ì‚°ì†ìµ	-348,952,653		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ì±„ë¬´ìƒí’ˆ í‰ê°€ì†ìµ	5,910,458,040		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            í•´ì™¸ì‚¬ì—…ìž¥ìˆœíˆ¬ìž ìœ„í—˜íšŒí”¼í‰ê°€ì†ìµ	186,476,891		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì§€ë¶„ìƒí’ˆí‰ê°€ì†ìµ	-166,862,523		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            í™•ì •ê¸‰ì—¬ì œë„ì˜ìž¬ì¸¡ì •ìš”ì†Œ	0		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ìˆœì†ìµ	-40,124,013,493		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ì—°ê²°ë¶„ê¸°ìˆœì´ìµ(ì†ì‹¤)	129,152,306,820		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ì°¨ê°ì „ìˆœì´ìµ	163,435,725,296		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ(ì†ì‹¤)	165,800,874,296		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[005270]	ì•„ì´ì— ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ì¼ë°˜ê´€ë¦¬ë¹„	156,608,168,505		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdditionReversalOfCreditLossFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆì „ìž…ì•¡	-209,692,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ	555,694,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	      ìƒê°í›„ì›ê°€ì¸¡ì •ê¸ˆìœµìžì‚°ê´€ë ¨ì†ìµ	-11,093,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	         ìƒê°í›„ì›ê°€ì¸¡ì •ëŒ€ì¶œì±„ê¶Œë°ê¸°íƒ€ê¸ˆìœµìžì‚°ë§¤ë§¤ì†ìµ	-11,093,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°ê´€ë ¨ì†ìµ	33,256,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	195,662,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	17,308,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00254045_udf_IS_20243410485310OfNonOperatingProfitLoss	         ê¸°íƒ€ì˜ì—…ì™¸ì†ìµ	17,360,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod	         ê´€ê³„ê¸°ì—…íˆ¬ìžìžì‚°í‰ê°€ì†ìµ	-52,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ì´í¬ê´„ì†ìµ	556,741,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShareFromContinuingOperations	         ê¸°ë³¸ ë° í¬ì„ì£¼ë‹¹ì´ìµ	763		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì´ìµ	228,418,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	41,597,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	270,015,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©	164,540,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì´ìµ	1,697,311,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	2,576,942,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	4,274,253,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost	            ìƒê°í›„ì›ê°€ì¸¡ì •ê¸ˆìœµìžì‚°ì´ìžìˆ˜ìµ	3,910,313,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°ì´ìžìˆ˜ìµ	27,899,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°ì´ìžìˆ˜ìµ	336,041,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ	-25,846,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            í•´ì™¸ì‚¬ì—…í™˜ì‚°ì†ìµ	603,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì±„ë¬´ì¦ê¶Œí‰ê°€ì†ìµ	51,913,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            í•´ì™¸ì‚¬ì—…ìž¥ìˆœíˆ¬ìžìœ„í—˜íšŒí”¼í‰ê°€ì†ìµ	237,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì§€ì •ê¸ˆìœµë¶€ì±„ì‹ ìš©ìœ„í—˜ë³€ë™ì†ìµ	26,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì§€ë¶„ì¦ê¶Œí‰ê°€ì†ìµ	29,432,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            í™•ì •ê¸‰ì—¬ì œë„ì˜ ìž¬ì¸¡ì •ìš”ì†Œ	-108,057,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ì†ìµ	-300,690,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë¶„ê¸°ìˆœì´ìµ	582,587,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ë¹„ìš©ì°¨ê°ì „ìˆœì´ìµ	747,127,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ	729,819,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromDividends	      ë°°ë‹¹ìˆ˜ìµ	111,656,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000030]	ìš°ë¦¬ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ì¼ë°˜ê´€ë¦¬ë¹„	1,015,009,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ(ì†ì‹¤)	46,198,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	7,878,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	9,404,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	93,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆ ì „ìž…ì•¡	43,997,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ì´í¬ê´„ì†ìµ	43,886,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ë³´í†µì£¼ê¸°ë³¸ì£¼ë‹¹ì´ìµ(ì†ì‹¤)	414		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_DilutedEarningsLossPerShare	         ë³´í†µì£¼í¬ì„ì£¼ë‹¹ì´ìµ(ì†ì‹¤)	414		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì†ìµ	-256,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	10,771,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	10,515,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©	12,316,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì†ìµ	159,379,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	133,363,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	292,742,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ë¡œ ì¸¡ì •í•˜ëŠ” ê¸ˆìœµìžì‚°ì˜ ì´ìžìˆ˜ìµ			
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            ìœ íš¨ì´ìžìœ¨ì ìš©ì´ìžìˆ˜ìµ	292,742,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ	2,427,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°ê´€ë ¨ì†ìµ	2,878,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì§€ë¶„ìƒí’ˆí‰ê°€ì†ìµ	-114,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            í™•ì •ê¸‰ì—¬ì œë„ì˜ìž¬ì¸¡ì •ìš”ì†Œ	-337,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ì†ìµ	-14,618,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë‹¹ê¸°ìˆœì´ìµ(ì†ì‹¤)	41,459,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ì°¨ê°ì „ìˆœì´ìµ	53,775,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ(ì†ì‹¤)	53,682,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆ í™˜ìž…ì•¡	108,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006350]	ì „ë¶ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      íŒë§¤ë¹„ì™€ê´€ë¦¬ë¹„	64,216,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ(ì†ì‹¤)	-199,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°ì²˜ë¶„ì†ìµ	1,654,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ìµ	62,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	1,965,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆì „ìž…	-11,664,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ì´í¬ê´„ì†ìµ	3,751,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ê¸°ë³¸ì£¼ë‹¹ìˆœì´ìµ	45		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_DilutedEarningsLossPerShare	         í¬ì„ì£¼ë‹¹ìˆœì´ìµ	45		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì†ìµ	3,077,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	-2,010,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	5,087,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	      ìƒê°í›„ì›ê°€ì¸¡ì •ê¸ˆìœµìžì‚°ì²˜ë¶„ì†ìµ	302,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©(ìˆ˜ìµ)	328,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì†ìµ	38,499,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	-45,047,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	83,546,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_NetForeignExchangeGain	      ì™¸í™˜ê±°ëž˜ì†ìµ	331,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ	847,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì±„ë¬´ì¦ê¶Œí‰ê°€ì†ìµ	729,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì§€ë¶„ì¦ê¶Œí‰ê°€ì†ìµ	118,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            í™•ì •ê¸‰ì—¬ì œë„ì˜ìž¬ì¸¡ì •ìš”ì†Œ	0		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ì†ìµ	-5,143,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë¶„ê¸°ìˆœì´ìµ(ì†ì‹¤)	2,904,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ë¹„ìš©ì°¨ê°ì „ìˆœì´ìµ	3,232,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì†ìµ	1,267,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromDividends	      ë°°ë‹¹ìˆ˜ìµ	0		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[006220]	ì œì£¼ì€í–‰	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ì¼ë°˜ê´€ë¦¬ë¹„	-25,851,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ	122,679,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      4. ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°ê´€ë ¨ì´ìµ	12,220,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      3. ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì´ìµ	77,670,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      4. ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°ê´€ë ¨ì†ì‹¤	484,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      3. ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ì†ì‹¤	23,813,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingExpense	      VI. ì˜ì—…ì™¸ë¹„ìš©	1,935,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingIncome	      V. ì˜ì—…ì™¸ìˆ˜ìµ	1,359,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_OtherOperatingExpense	      6. ê¸°íƒ€ì˜ì˜ì—…ë¹„ìš©	42,109,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_OtherOperatingIncome	      5. ê¸°íƒ€ì˜ì˜ì—…ìˆ˜ìµ	14,847,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      â…¢. ê¸ˆìœµìžì‚°ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆì „ìž…ì•¡	60,924,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      XI. ì´í¬ê´„ì´ìµ	141,280,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         1. ê¸°ë³¸ì£¼ë‹¹ì´ìµ	288		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_DilutedEarningsLossPerShare	         2. í¬ì„ì£¼ë‹¹ì´ìµ	288		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	      2. ìˆ˜ìˆ˜ë£Œë¹„ìš©	70,901,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	      2. ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	77,644,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      VIII. ë²•ì¸ì„¸ë¹„ìš©	45,047,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	      1. ì´ìžë¹„ìš©	278,748,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OperatingExpense	      II. ì˜ì—…ë¹„ìš©	540,599,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      X. ê¸°íƒ€í¬ê´„ì†ìµ	3,864,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            1. ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°í‰ê°€ì†ìµ	6,785,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax	            2. ê´€ê³„ê¸°ì—… ê¸°íƒ€í¬ê´„ì†ìµì— ëŒ€í•œ ì§€ë¶„	-2,929,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            1. ìˆœí™•ì •ê¸‰ì—¬ìžì‚°ì˜ ìž¬ì¸¡ì •ìš”ì†Œ	0		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax	            2. ê´€ê³„ê¸°ì—… ê¸°íƒ€í¬ê´„ì†ìµì— ëŒ€í•œ ì§€ë¶„	8,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      IX. ë¶„ê¸°ìˆœì´ìµ	137,416,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      VII. ë²•ì¸ì„¸ë¹„ìš©ì°¨ê°ì „ìˆœì´ìµ	182,463,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      IV. ì˜ì—…ì´ìµ	183,039,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_Revenue	      I. ì˜ì—…ìˆ˜ìµ	784,562,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	      1. ì´ìžìˆ˜ìµ	602,181,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[323410]	ì¹´ì¹´ì˜¤ë±…í¬	ìœ ê°€ì¦ê¶Œì‹œìž¥ìƒìž¥ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      5. íŒë§¤ë¹„ì™€ê´€ë¦¬ë¹„	124,544,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜ í›„ ì¡°ì •ì´ìµ	10,551,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°ê´€ë ¨ì´ìµ	20,109,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	26,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì— ëŒ€í•œ ì†ìƒì°¨ì†	-53,933,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ë‹¹ê¸°ì´í¬ê´„ì´ìµ	19,425,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ê¸°ë³¸ì£¼ë‹¹ì´ìµ	43		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì†ìµ	-438,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	-15,559,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	15,121,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ìˆ˜ìµ(ë¹„ìš©)	457,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì†ìµ	108,467,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	-167,403,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	275,870,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ	3,367,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°í‰ê°€ì†ìµ	3,382,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            í™•ì •ê¸‰ì—¬ì œë„ì˜ ìž¬ì¸¡ì •ìš”ì†Œ	-15,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ì†ìµ	-6,010,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë‹¹ê¸°ìˆœì´ìµ	16,058,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ë¹„ìš©ì°¨ê°ì „ìˆœì´ìµ	15,601,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ	15,575,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[null]	ì¼€ì´ë±…í¬	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ì¼ë°˜ê´€ë¦¬ë¹„	-52,620,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ	973,417,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromDerivativesHeldForHedging	      ìˆœí—¤ì§€ëª©ì íŒŒìƒìƒí’ˆì†ìµ	32,408,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	      ìˆœìƒê°í›„ì›ê°€ì¸¡ì •ê¸ˆìœµìžì‚°ì´ìµ	0		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	      ìˆœê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°ì´ìµ	70,337,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ìˆœë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆì´ìµ	359,094,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì´ìµ(ì†ì‹¤)	20,769,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingExpense	         ì˜ì—…ì™¸ë¹„ìš©	14,514,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingIncome	         ì˜ì—…ì™¸ìˆ˜ìµ	35,283,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_OtherOperatingExpense	      ê¸°íƒ€ì˜ì—…ë¹„ìš©	2,082,573,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_OtherOperatingIncome	      ê¸°íƒ€ì˜ì—…ìˆ˜ìµ	1,769,366,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆì „ìž…ì•¡	117,491,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ë¶„ê¸°ì´í¬ê´„ì´ìµ	1,034,775,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ê¸°ë³¸ì£¼ë‹¹ì´ìµ	902		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_DilutedEarningsLossPerShare	         í¬ì„ì£¼ë‹¹ì´ìµ	902		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì´ìµ	199,878,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	61,850,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	261,728,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©	312,801,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì´ìµ	1,817,837,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	2,656,612,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	4,474,449,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆì´ìžìˆ˜ìµ	62,598,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ë° ìƒê°í›„ì›ê°€ì¸¡ì •ê¸ˆìœµìƒí’ˆì´ìžìˆ˜ìµ	4,411,851,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ	67,715,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation	            í•´ì™¸ì‚¬ì—…ìž¥í™˜ì‚°ì†ìµ	-12,955,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì±„ë¬´ì¦ê¶Œí‰ê°€ì†ìµ	68,606,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations	            í•´ì™¸ì‚¬ì—…ìž¥ìˆœíˆ¬ìžìœ„í—˜íšŒí”¼í‰ê°€ì†ìµ	-1,200,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì§€ë¶„ì¦ê¶Œí‰ê°€ì†ìµ	13,937,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            í™•ì •ê¸‰ì—¬ì œë„ì˜ ìž¬ì¸¡ì •ìš”ì†Œ	-673,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë¶„ê¸°ìˆœì´ìµ	967,060,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ë¹„ìš©ì°¨ê°ì „ìˆœì´ìµ	1,279,861,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ	1,259,092,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[004940]	í•˜ë‚˜ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ì¼ë°˜ê´€ë¦¬ë¹„	789,764,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ	88,150,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustmentsForGainsLossesOnChangeInFairValueOfFinancialAssetsAtFairValueThroughProfitOrLossDesignatedAsUponInitialRecognition	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì§€ì •ê¸ˆìœµìƒí’ˆ ê´€ë ¨ìˆœì†ìµ	52,276,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìƒí’ˆê´€ë ¨ìˆœì†ìµ	-113,263,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingProfitLoss	      ì˜ì—…ì™¸ì†ìµ	6,311,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingExpense	         ì˜ì—…ì™¸ë¹„ìš©	171,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingIncome	         ì˜ì—…ì™¸ìˆ˜ìµ	6,482,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00148504_udf_IS_2024320204140975OfStatementOfComprehensiveIncomeAbstract	      ê³µì •ê°€ì¹˜ìœ„í—˜íšŒí”¼ëŒ€ìƒ ê´€ë ¨ìˆœì†ìµ	512,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00148504_udf_IS_202432020423594OfStatementOfComprehensiveIncomeAbstract	      ê¸ˆìœµìƒí’ˆ ê´€ë ¨ê¸°íƒ€ìˆœì†ìµ	-383,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00148504_udf_IS_2024320204527125OfStatementOfComprehensiveIncomeAbstract	      ê¸°íƒ€ì¶©ë‹¹ê¸ˆ ë° ì¶©ë‹¹ë¶€ì±„ ìˆœì „ìž…ì•¡	-455,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆ ìˆœì „ìž…ì•¡	31,184,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ì´í¬ê´„ì†ìµ	110,477,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ë³´í†µì£¼ê¸°ë³¸ì£¼ë‹¹ì´ìµ(ì†ì‹¤)	416		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì†ìµ	75,450,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	28,711,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	104,161,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	      ìƒê°í›„ì›ê°€ ì¸¡ì • ê¸ˆìœµìžì‚° ì œê±° ì†ìµ	732,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_GainsLossesOnHedgingInstrument	      ìœ„í—˜íšŒí”¼íŒŒìƒìƒí’ˆ ê´€ë ¨ìˆœì†ìµ	-398,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©	30,984,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì†ìµ	304,419,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	325,311,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	629,730,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss	            ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ ì¸¡ì • ê¸ˆìœµìƒí’ˆ ì´ìžìˆ˜ìµ	20,992,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod	            ìƒê°í›„ì›ê°€ì¸¡ì • ë° ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ ì¸¡ì • ê¸ˆìœµìƒí’ˆ ì´ìžìˆ˜ìµ	608,738,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_NetForeignExchangeGain	      í™˜ìœ¨ë³€ë™ì†ìµ	198,899,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ê¸°íƒ€í¬ê´„ì†ìµ	-2,976,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°ê´€ë ¨ì†ìµ	-2,874,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ì§€ì •ê¸ˆìœµë¶€ì±„ì˜ ìžê¸°ì‹ ìš©ìœ„í—˜ì¡°ì •	-102,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherOperatingIncomeExpense	      ê¸°íƒ€ì˜ì—…ì†ìµ	-22,844,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë‹¹ê¸°ìˆœì´ìµ(ì†ì‹¤)	113,453,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ì°¨ê°ì „ìˆœì´ìµ	144,437,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ(ì†ì‹¤)	138,126,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[000110]	í•œêµ­ìŠ¤íƒ ë‹¤ë“œì°¨íƒ€ë“œì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      íŒë§¤ë¹„ì™€ê´€ë¦¬ë¹„	221,083,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss	      ëŒ€ì†ì¤€ë¹„ê¸ˆ ë°˜ì˜í›„ ì¡°ì •ì´ìµ	101,726,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromDerivativesHeldForHedging	      íŒŒìƒìƒí’ˆê´€ë ¨ìˆœì†ìµ	-103,020,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstruments	      ê¸ˆìœµìƒí’ˆê´€ë ¨ê¸°íƒ€ìˆœì†ìµ	3,986,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtAmortisedCost	         ìƒê°í›„ì›ê°€ì¸¡ì •ê¸ˆìœµìžì‚°ê´€ë ¨ìˆœì†ìµ	164,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	         ê¸°íƒ€ê¸ˆìœµìƒí’ˆê´€ë ¨ê¸°íƒ€ìˆœì†ìµ	3,822,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	      ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • ê¸ˆìœµìƒí’ˆê´€ë ¨ìˆœì†ìµ	138,397,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingExpense	      ê¸°íƒ€ë¹„ìš©	-1,253,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_NonOperatingIncome	      ê¸°íƒ€ìˆ˜ìµ	1,625,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_OperatingIncomeLoss	      ìˆœì˜ì—…ì´ìµ	261,182,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_OtherOperatingExpense	      ê¸°íƒ€ì˜ì—…ë¹„ìš©	-11,811,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	dart_OtherOperatingIncome	      ê¸°íƒ€ì˜ì—…ìˆ˜ìµ	8,706,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	entity00161444_NiBeforeCreditCostOfStatementOfComprehensiveIncomeAbstract	      ì‹ ìš©ì†ì‹¤ë°˜ì˜ì „ìˆœì˜ì—…ì´ìµ	266,914,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	      ì‹ ìš©ì†ì‹¤ì¶©ë‹¹ê¸ˆì „ìž…ì•¡	-5,732,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ComprehensiveIncome	      ë¶„ê¸°ì´í¬ê´„ì´ìµ	77,889,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_BasicEarningsLossPerShare	         ê¸°ë³¸ë°í¬ì„ì£¼ë‹¹ì´ìµ	259		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_EmployeeBenefitsExpense	      ì¢…ì—…ì›ê¸‰ì—¬	-65,588,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncomeExpense	      ìˆœìˆ˜ìˆ˜ë£Œì†ìµ	9,121,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionExpense	         ìˆ˜ìˆ˜ë£Œë¹„ìš©	-20,836,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_FeeAndCommissionIncome	         ìˆ˜ìˆ˜ë£Œìˆ˜ìµ	29,957,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_IncomeTaxExpenseContinuingOperations	      ë²•ì¸ì„¸ë¹„ìš©	-24,778,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestRevenueExpense	      ìˆœì´ìžì†ìµ	140,797,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_InterestExpense	         ì´ìžë¹„ìš©	-110,905,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_RevenueFromInterest	         ì´ìžìˆ˜ìµ	251,702,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_NetForeignExchangeGain	      ì™¸í™˜ê±°ëž˜ì†ìµ	80,738,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncome	      ë²•ì¸ì„¸ë¹„ìš©ì°¨ê°í›„ ê¸°íƒ€í¬ê´„ì†ìµ	-4,515,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome	            ê¸°íƒ€í¬ê´„ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì •ê¸ˆìœµìžì‚°í‰ê°€ì†ìµ	12,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability	            ë‹¹ê¸°ì†ìµ-ê³µì •ê°€ì¹˜ì¸¡ì • í•­ëª©ì§€ì • ê¸ˆìœµë¶€ì±„ ì‹ ìš©ìœ„í—˜ë³€ë™íš¨ê³¼	-123,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans	            í™•ì •ê¸‰ì—¬ì œë„ì˜ ìž¬ì¸¡ì •ìš”ì†Œ	-4,404,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLoss	      ë¶„ê¸°ìˆœì´ìµ	82,404,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossBeforeTax	      ë²•ì¸ì„¸ë¹„ìš©ì°¨ê°ì „ìˆœì´ìµ	107,182,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_ProfitLossFromOperatingActivities	      ì˜ì—…ì´ìµ	106,810,000,000		
+ í¬ê´„ì†ìµê³„ì‚°ì„œ, ì€í–‰ - ë³„ë„	[016830]	í•œêµ­ì”¨í‹°ì€í–‰	ê¸°íƒ€ë²•ì¸	641	ì€í–‰ ë° ì €ì¶•ê¸°ê´€	12	2025-03-31	1ë¶„ê¸°ë³´ê³ ì„œ	KRW	ifrs-full_SellingGeneralAndAdministrativeExpense	      ì¼ë°˜ê´€ë¦¬ë¹„	-88,784,000,000		

@@ -1,5 +1,7 @@
+import Decimal from 'decimal.js'
+
 // 재무데이터 타입 정의
-interface FinancialItem {
+export interface FinancialItem {
   재무제표종류: string
   항목코드: string
   항목명: string
@@ -8,7 +10,7 @@ interface FinancialItem {
   전전기말: number | null
 }
 
-interface CompanyBasicInfo {
+export interface CompanyBasicInfo {
   종목코드: string
   시장구분: string
   업종: string
@@ -20,7 +22,7 @@ interface CompanyBasicInfo {
 }
 
 // 기존 방대한 DB 구조 (백워드 호환성)
-interface LegacyCompanyData {
+export interface LegacyCompanyData {
   basicInfo: CompanyBasicInfo
   financialStatements: {
     재무상태표: FinancialItem[]
@@ -32,13 +34,13 @@ interface LegacyCompanyData {
 }
 
 // 최적화된 DB 구조 (새로운 구조)
-interface OptimizedCompanyData {
+export interface OptimizedCompanyData {
   basicInfo: CompanyBasicInfo
   financialData: ExtractedFinancialData
 }
 
 // 통합 타입 (둘 다 지원)
-type CompanyData = LegacyCompanyData | OptimizedCompanyData
+export type CompanyData = LegacyCompanyData | OptimizedCompanyData
 
 // 분석 결과 타입
 interface FinancialRatios {
@@ -262,56 +264,87 @@ function calculateFinancialRatios(
   // 수익성 비율
   if (data.매출액 && data.매출액 > 0) {
     if (data.영업이익) {
-      ratios.수익성.영업이익률 = (data.영업이익 / data.매출액) * 100
+      ratios.수익성.영업이익률 = new Decimal(data.영업이익)
+        .dividedBy(new Decimal(data.매출액))
+        .times(100)
+        .toNumber()
     }
     if (data.당기순이익) {
-      ratios.수익성.순이익률 = (data.당기순이익 / data.매출액) * 100
+      ratios.수익성.순이익률 = new Decimal(data.당기순이익)
+        .dividedBy(new Decimal(data.매출액))
+        .times(100)
+        .toNumber()
     }
   }
 
   if (data.자산총계 && data.자산총계 > 0) {
     if (data.당기순이익) {
-      ratios.수익성.ROA = (data.당기순이익 / data.자산총계) * 100
+      ratios.수익성.ROA = new Decimal(data.당기순이익)
+        .dividedBy(new Decimal(data.자산총계))
+        .times(100)
+        .toNumber()
     }
   }
 
   if (data.자본총계 && data.자본총계 > 0) {
     if (data.당기순이익) {
-      ratios.수익성.ROE = (data.당기순이익 / data.자본총계) * 100
+      ratios.수익성.ROE = new Decimal(data.당기순이익)
+        .dividedBy(new Decimal(data.자본총계))
+        .times(100)
+        .toNumber()
     }
   }
 
   // 안정성 비율
   if (data.자본총계 && data.자본총계 > 0 && data.부채총계) {
-    ratios.안정성.부채비율 = (data.부채총계 / data.자본총계) * 100
+    ratios.안정성.부채비율 = new Decimal(data.부채총계)
+      .dividedBy(new Decimal(data.자본총계))
+      .times(100)
+      .toNumber()
   }
 
   if (data.유동부채 && data.유동부채 > 0 && data.유동자산) {
-    ratios.안정성.유동비율 = (data.유동자산 / data.유동부채) * 100
+    ratios.안정성.유동비율 = new Decimal(data.유동자산)
+      .dividedBy(new Decimal(data.유동부채))
+      .times(100)
+      .toNumber()
   }
 
   if (data.자산총계 && data.자산총계 > 0 && data.자본총계) {
-    ratios.안정성.자기자본비율 = (data.자본총계 / data.자산총계) * 100
+    ratios.안정성.자기자본비율 = new Decimal(data.자본총계)
+      .dividedBy(new Decimal(data.자산총계))
+      .times(100)
+      .toNumber()
   }
 
   // 성장성 비율
   if (data.전년매출액 && data.전년매출액 > 0 && data.매출액) {
-    ratios.성장성.매출액증가율 =
-      ((data.매출액 - data.전년매출액) / data.전년매출액) * 100
+    ratios.성장성.매출액증가율 = new Decimal(data.매출액)
+      .minus(new Decimal(data.전년매출액))
+      .dividedBy(new Decimal(data.전년매출액))
+      .times(100)
+      .toNumber()
   }
 
   if (data.전년영업이익 && data.전년영업이익 > 0 && data.영업이익) {
-    ratios.성장성.영업이익증가율 =
-      ((data.영업이익 - data.전년영업이익) / data.전년영업이익) * 100
+    ratios.성장성.영업이익증가율 = new Decimal(data.영업이익)
+      .minus(new Decimal(data.전년영업이익))
+      .dividedBy(new Decimal(data.전년영업이익))
+      .times(100)
+      .toNumber()
   }
 
   // 활동성 비율
   if (data.자산총계 && data.자산총계 > 0 && data.매출액) {
-    ratios.활동성.총자산회전율 = data.매출액 / data.자산총계
+    ratios.활동성.총자산회전율 = new Decimal(data.매출액)
+      .dividedBy(new Decimal(data.자산총계))
+      .toNumber()
   }
 
   if (data.재고자산 && data.재고자산 > 0 && data.매출액) {
-    ratios.활동성.재고자산회전율 = data.매출액 / data.재고자산
+    ratios.활동성.재고자산회전율 = new Decimal(data.매출액)
+      .dividedBy(new Decimal(data.재고자산))
+      .toNumber()
   }
 
   return ratios
@@ -335,19 +368,21 @@ function calculateScore(
 ): number {
   if (value === null) return 0
 
+  const decimalValue = new Decimal(value)
+
   if (isReverse) {
     // 낮을수록 좋은 지표 (부채비율 등)
-    if (value <= thresholds.excellent) return 100
-    if (value <= thresholds.good) return 80
-    if (value <= thresholds.average) return 60
-    if (value <= thresholds.poor) return 40
+    if (decimalValue.lessThanOrEqualTo(thresholds.excellent)) return 100
+    if (decimalValue.lessThanOrEqualTo(thresholds.good)) return 80
+    if (decimalValue.lessThanOrEqualTo(thresholds.average)) return 60
+    if (decimalValue.lessThanOrEqualTo(thresholds.poor)) return 40
     return 20
   } else {
     // 높을수록 좋은 지표
-    if (value >= thresholds.excellent) return 100
-    if (value >= thresholds.good) return 80
-    if (value >= thresholds.average) return 60
-    if (value >= thresholds.poor) return 40
+    if (decimalValue.greaterThanOrEqualTo(thresholds.excellent)) return 100
+    if (decimalValue.greaterThanOrEqualTo(thresholds.good)) return 80
+    if (decimalValue.greaterThanOrEqualTo(thresholds.average)) return 60
+    if (decimalValue.greaterThanOrEqualTo(thresholds.poor)) return 40
     return 20
   }
 }

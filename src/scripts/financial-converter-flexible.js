@@ -1,5 +1,6 @@
 const fs = require('fs')
 const iconv = require('iconv-lite')
+const Decimal = require('decimal.js')
 
 /**
  * 한국어 재무제표 데이터 변환기 (유연한 버전)
@@ -13,9 +14,14 @@ function cleanNumericValue(value) {
 
   // 숫자만 추출 (쉼표 제거 및 공백 제거)
   const cleaned = value.replace(/[^0-9.-]/g, '').trim()
-  const num = parseFloat(cleaned)
 
-  return isNaN(num) ? null : num
+  try {
+    // Decimal을 사용하여 정밀한 숫자 변환
+    const decimal = new Decimal(cleaned)
+    return decimal.toNumber()
+  } catch (error) {
+    return null
+  }
 }
 
 function readFileWithKoreanEncoding(filePath) {

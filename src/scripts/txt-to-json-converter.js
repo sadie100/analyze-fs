@@ -11,11 +11,11 @@ function cleanNumericValue(value) {
     return null
   }
 
-  // 숫자만 추출 (쉼표 제거 및 공백 제거)
-  const cleaned = value.replace(/[^0-9.-]/g, '').trim()
-
   try {
-    // Decimal을 사용하여 정밀한 숫자 변환
+    // 쉼표 제거 및 공백 제거
+    const cleaned = value.replace(/,/g, '').trim()
+
+    // 숫자로 변환 (Decimal 사용)
     const decimal = new Decimal(cleaned)
     return decimal.toNumber()
   } catch (error) {
@@ -34,6 +34,39 @@ function cleanValue(value) {
   return value.trim().replace(/\s+/g, ' ')
 }
 
+function getStandardizedHeaders(headers, filePath) {
+  // 재무제표 종류 확인
+  const isBalanceSheet = filePath.includes('재무상태표')
+  const isIncomeStatement = filePath.includes('손익계산서')
+  const isCashFlow = filePath.includes('현금흐름표')
+  const isEquityChange = filePath.includes('자본변동표')
+
+  // 기본 헤더는 그대로 유지
+  const standardHeaders = headers.slice()
+
+  // 재무제표 종류별로 다른 헤더 매핑
+  if (isBalanceSheet) {
+    // 재무상태표는 기존 헤더 유지
+    return standardHeaders
+  } else if (isIncomeStatement) {
+    // 손익계산서는 3개월/누적 데이터 모두 포함
+    return standardHeaders
+  } else if (isCashFlow) {
+    // 현금흐름표는 당기/전기 데이터만 사용
+    const cashFlowMapping = {
+      당기1분기: '당기 1분기말',
+      전기1분기: '전기말',
+      전기: '전전기말',
+    }
+    return standardHeaders.map((header) => cashFlowMapping[header] || header)
+  } else if (isEquityChange) {
+    // 자본변동표는 최소 헤더만 사용
+    return standardHeaders
+  }
+
+  return standardHeaders
+}
+
 function readFileWithKoreanEncoding(filePath) {
   console.log(`📁 파일 읽는 중: ${filePath}`)
   try {
@@ -47,7 +80,7 @@ function readFileWithKoreanEncoding(filePath) {
   }
 }
 
-function parseFinancialData(content) {
+function parseFinancialData(content, filePath) {
   const lines = content
     .split('\n')
     .map((line) => line.trim())
@@ -58,7 +91,8 @@ function parseFinancialData(content) {
   }
 
   // 헤더 파싱 및 정리
-  const headers = lines[0].split('\t').map((h) => cleanValue(h))
+  const originalHeaders = lines[0].split('\t').map((h) => cleanValue(h))
+  const headers = getStandardizedHeaders(originalHeaders, filePath)
 
   console.log('📋 헤더 개수:', headers.length)
   console.log('📋 헤더:', headers)
@@ -113,9 +147,33 @@ function parseFinancialData(content) {
         통화: row.통화 || '',
         항목코드: row.항목코드 || '',
         항목명: row.항목명 || '',
-        '당기 1분기말': cleanNumericValue(row['당기 1분기말']),
-        전기말: cleanNumericValue(row['전기말']),
-        전전기말: cleanNumericValue(row['전전기말']),
+      }
+
+      // 재무제표 종류별로 다른 필드 추가
+      if (filePath.includes('손익계산서')) {
+        financialData['당기 1분기 3개월'] = cleanNumericValue(
+          row['당기 1분기 3개월']
+        )
+        financialData['당기 1분기 누적'] = cleanNumericValue(
+          row['당기 1분기 누적']
+        )
+        financialData['전기 1분기 3개월'] = cleanNumericValue(
+          row['전기 1분기 3개월']
+        )
+        financialData['전기 1분기 누적'] = cleanNumericValue(
+          row['전기 1분기 누적']
+        )
+        financialData['전기'] = cleanNumericValue(row['전기'])
+        financialData['전전기'] = cleanNumericValue(row['전전기'])
+      } else if (filePath.includes('현금흐름표')) {
+        financialData['당기 1분기말'] = cleanNumericValue(row['당기1분기'])
+        financialData['전기말'] = cleanNumericValue(row['전기1분기'])
+        financialData['전전기말'] = cleanNumericValue(row['전기'])
+      } else {
+        // 재무상태표와 자본변동표
+        financialData['당기 1분기말'] = cleanNumericValue(row['당기 1분기말'])
+        financialData['전기말'] = cleanNumericValue(row['전기말'])
+        financialData['전전기말'] = cleanNumericValue(row['전전기말'])
       }
 
       results.push(financialData)
@@ -166,9 +224,12 @@ function groupByCompany(data) {
       재무제표종류: item.재무제표종류,
       항목코드: item.항목코드,
       항목명: item.항목명,
-      '당기 1분기말': item['당기 1분기말'],
-      전기말: item.전기말,
-      전전기말: item.전전기말,
+      '당기 1분기 3개월': item['당기 1분기 3개월'],
+      '당기 1분기 누적': item['당기 1분기 누적'],
+      '전기 1분기 3개월': item['전기 1분기 3개월'],
+      '전기 1분기 누적': item['전기 1분기 누적'],
+      전기: item['전기'],
+      전전기: item['전전기'],
     }
 
     groupedMap.get(key).재무데이터.push(financialItem)
@@ -216,7 +277,7 @@ function main() {
 
     // 데이터 파싱
     console.log('📊 데이터 파싱 중...')
-    const data = parseFinancialData(content)
+    const data = parseFinancialData(content, inputFile)
 
     if (data.length === 0) {
       console.log('⚠️ 파싱된 데이터가 없습니다.')

@@ -56,22 +56,44 @@ function extractEssentialFinancialData(company) {
 
   if (company.재무데이터 && Array.isArray(company.재무데이터)) {
     company.재무데이터.forEach((item) => {
-      const currentValue = item['당기 1분기말']
-      const previousValue = item['전기말']
+      // 손익계산서의 경우 누적 데이터 우선 사용
+      const isIncomeStatement =
+        item.재무제표종류.includes('손익계산서') ||
+        item.재무제표종류.includes('포괄손익계산서')
+      let currentValue = null
+      let previousValue = null
+
+      if (isIncomeStatement) {
+        // 손익계산서는 누적 데이터 우선 사용
+        currentValue =
+          item['당기 1분기 누적'] !== null
+            ? item['당기 1분기 누적']
+            : item['당기 1분기 3개월']
+        previousValue =
+          item['전기 1분기 누적'] !== null
+            ? item['전기 1분기 누적']
+            : item['전기 1분기 3개월']
+      } else {
+        // 다른 재무제표는 기존 필드 사용
+        currentValue = item['당기 1분기말']
+        previousValue = item['전기말']
+      }
 
       Object.entries(ITEM_MAPPING).forEach(([key, searchTerms]) => {
         searchTerms.forEach((term) => {
-          if (item.항목명.includes(term) && currentValue !== null) {
-            if (result[key] === null) {
+          if (item.항목명.includes(term)) {
+            if (result[key] === null && currentValue !== null) {
               result[key] = currentValue
 
-              // 전년 동기 데이터도 저장
-              if (key === '매출액' && previousValue !== null) {
-                result.전년매출액 = previousValue
-              } else if (key === '영업이익' && previousValue !== null) {
-                result.전년영업이익 = previousValue
-              } else if (key === '당기순이익' && previousValue !== null) {
-                result.전년당기순이익 = previousValue
+              // 전년 동기 데이터도 저장 (손익계산서 항목만)
+              if (isIncomeStatement) {
+                if (key === '매출액' && previousValue !== null) {
+                  result.전년매출액 = previousValue
+                } else if (key === '영업이익' && previousValue !== null) {
+                  result.전년영업이익 = previousValue
+                } else if (key === '당기순이익' && previousValue !== null) {
+                  result.전년당기순이익 = previousValue
+                }
               }
             }
           }
@@ -226,7 +248,13 @@ async function buildFinancialDatabase() {
   sortedCompanies.forEach(([name, extractedCount, financialData]) => {
     const nonNullItems = Object.entries(financialData)
       .filter(([, value]) => value !== null)
-      .map(([key, value]) => `${key}: ${value.toLocaleString()}`)
+      .map(([key, value]) => {
+        try {
+          return `${key}: ${value.toLocaleString()}`
+        } catch {
+          return `${key}: ${value}`
+        }
+      })
       .slice(0, 5) // 첫 5개만 표시
 
     console.log(

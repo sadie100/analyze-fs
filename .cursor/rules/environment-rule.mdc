@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+프로젝트 패키지 매니저로는 pnpm을 사용한다.

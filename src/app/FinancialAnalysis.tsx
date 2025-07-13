@@ -592,7 +592,7 @@ const FinancialAnalysis = ({
               </h4>
               <div className="space-y-2 text-sm">
                 <div className="flex justify-between">
-                  <span>매출액</span>
+                  <span>매출액 (누적)</span>
                   <span className="font-mono">
                     {data.extractedData.매출액 !== null
                       ? data.extractedData.매출액.toLocaleString()
@@ -600,7 +600,7 @@ const FinancialAnalysis = ({
                   </span>
                 </div>
                 <div className="flex justify-between">
-                  <span>영업이익</span>
+                  <span>영업이익 (누적)</span>
                   <span className="font-mono">
                     {data.extractedData.영업이익 !== null
                       ? data.extractedData.영업이익.toLocaleString()
@@ -608,7 +608,7 @@ const FinancialAnalysis = ({
                   </span>
                 </div>
                 <div className="flex justify-between">
-                  <span>당기순이익</span>
+                  <span>당기순이익 (누적)</span>
                   <span className="font-mono">
                     {data.extractedData.당기순이익 !== null
                       ? data.extractedData.당기순이익.toLocaleString()
@@ -618,7 +618,7 @@ const FinancialAnalysis = ({
                 {data.extractedData.전년매출액 !== null && (
                   <div className="pt-2 border-t">
                     <div className="flex justify-between text-gray-600">
-                      <span>전년 매출액</span>
+                      <span>전년 매출액 (누적)</span>
                       <span className="font-mono">
                         {data.extractedData.전년매출액.toLocaleString()}
                       </span>

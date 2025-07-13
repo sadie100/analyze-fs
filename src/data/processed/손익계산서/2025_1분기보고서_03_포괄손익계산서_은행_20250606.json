@@ -15,249 +15,342 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익(손실)",
-          "당기 1분기말": 32185251853,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromDerivativesHeldForHedging",
           "항목명": "파생상품관련손익",
-          "당기 1분기말": 446712238,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치금융자산 관련손익",
-          "당기 1분기말": 24206184796,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치금융자산 관련손익",
-          "당기 1분기말": 22494490381,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": -1235844459,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity01030132_GainOnDisposalOfLoansOfStatementOfComprehensiveIncomeAbstract",
           "항목명": "대출채권매각손익",
-          "당기 1분기말": -2963929637,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실에 대한 손상차손",
-          "당기 1분기말": -63333189992,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "총포괄손익",
-          "당기 1분기말": 47072956983,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "보통주기본주당이익(손실)",
-          "당기 1분기말": 734,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_DilutedEarningsLossPerShare",
           "항목명": "희석주당이익(손실)",
-          "당기 1분기말": 734,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료이익",
-          "당기 1분기말": 12990392441,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": -12001899161,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 24992291602,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용(수익)",
-          "당기 1분기말": -19072315904,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자이익",
-          "당기 1분기말": 253509782368,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": -299556904374,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 553066686742,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity01030132_OtherInterestIncomeOfRevenueFromInterest",
           "항목명": "기타의 이자수익",
-          "당기 1분기말": 3473628651,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
           "항목명": "유효이자율법에 따른 이자수익",
-          "당기 1분기말": 549593058091,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost",
           "항목명": "상각후원가금융자산 이자수익",
-          "당기 1분기말": 529822920553,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치금융자산 이자수익",
-          "당기 1분기말": 19770137538,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "기타포괄손익",
-          "당기 1분기말": -18952294870,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity01030132_ReversalOfImpairmentLossForDebtSecuritiesAtFvociOfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract",
           "항목명": "기타포괄손익인식채무증권대손상각비(환입)",
-          "당기 1분기말": -65142437,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치 측정 채무상품 평가손익",
-          "당기 1분기말": -7906630056,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
           "항목명": "기타포괄손익-공정가치지분상품평가손익",
-          "당기 1분기말": -539600350,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "확정급여제도의재측정요소",
-          "당기 1분기말": -10440922027,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업손익",
-          "당기 1분기말": -32923308977,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "분기순이익(손실)",
-          "당기 1분기말": 66025251853,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세차감전순이익",
-          "당기 1분기말": 85097567757,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익(손실)",
-          "당기 1분기말": 86333412216,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": -128093721402,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -276,209 +369,287 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익(손실)",
-          "당기 1분기말": 51619463499,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 11096383792,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 8767104941,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": -1540642958,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금 전입액",
-          "당기 1분기말": -38626680543,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "총포괄손익",
-          "당기 1분기말": 65451746937,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "기본주당이익",
-          "당기 1분기말": 1251,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_DilutedEarningsLossPerShare",
           "항목명": "희석주당이익",
-          "당기 1분기말": 1251,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료이익",
-          "당기 1분기말": 4895697612,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": 16913778458,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 21809476070,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용",
-          "당기 1분기말": 19843359570,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자이익",
-          "당기 1분기말": 200276525390,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": 158777292800,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 359053818190,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
           "항목명": "유효이자율적용이자수익",
-          "당기 1분기말": 359053818190,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "기타포괄손익",
-          "당기 1분기말": 1245352922,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치 측정 채무증권 평가손익",
-          "당기 1분기말": 1187373572,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
           "항목명": "기타포괄손익-공정가치 측정 지분상품 평가손익",
-          "당기 1분기말": 566440345,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "확정급여제도의재측정요소",
-          "당기 1분기말": -508460995,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업손익",
-          "당기 1분기말": -6094409901,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "당기순이익",
-          "당기 1분기말": 64206394015,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세차감전순이익",
-          "당기 1분기말": 84049753585,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익",
-          "당기 1분기말": 85590396543,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromDividends",
           "항목명": "배당수익",
-          "당기 1분기말": 711879705,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": -95436104453,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -497,209 +668,287 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익",
-          "당기 1분기말": 898615000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정 금융상품 순손익",
-          "당기 1분기말": 169368000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": -68408000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00386937_OperatingIncomeBeforeProvisionForCreditLossesOfStatementOfComprehensiveIncomeAbstract",
           "항목명": "신용손실충당금 반영전 영업이익",
-          "당기 1분기말": 1592660000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금 전입액",
-          "당기 1분기말": 237031000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "분기총포괄이익",
-          "당기 1분기말": 985055000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료이익",
-          "당기 1분기말": 275328000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": 99235000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 374563000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용",
-          "당기 1분기말": 326408000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자이익",
-          "당기 1분기말": 2418227000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": 2775228000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 5193455000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정 금융상품 이자수익",
-          "당기 1분기말": 86042000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
           "항목명": "상각후원가측정 및 기타포괄손익-공정가치측정 금융상품 이자수익",
-          "당기 1분기말": 5107413000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "법인세비용차감후 분기기타포괄손익",
-          "당기 1분기말": 24242000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges",
           "항목명": "현금흐름위험회피수단의 손익",
-          "당기 1분기말": -14287000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
           "항목명": "외환차이",
-          "당기 1분기말": 1861000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정 채무상품 관련손익",
-          "당기 1분기말": 5945000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
           "항목명": "기타포괄손익-공정가치 측정 지분상품 관련손익",
-          "당기 1분기말": 36003000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "순확정급여부채 재측정요소",
-          "당기 1분기말": -5280000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업손익",
-          "당기 1분기말": -304683000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "분기순이익",
-          "당기 1분기말": 960813000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 1287221000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익",
-          "당기 1분기말": 1355629000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": 965580000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -718,313 +967,430 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익(손실)",
-          "당기 1분기말": 52654061227,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": 1064955721,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingExpense",
           "항목명": "영업외비용",
-          "당기 1분기말": -1618191422,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingIncome",
           "항목명": "영업외수익",
-          "당기 1분기말": 2683147143,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00124106_NetGainOnInvestmentFinancialAssetsOfStatementOfComprehensiveIncomeAbstract",
           "항목명": "투자금융자산순손익",
-          "당기 1분기말": 56038957245,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtAmortisedCost",
           "항목명": "상각후원가측정금융상품관련손익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 34168136626,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 21870820619,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금 전입액",
-          "당기 1분기말": -132947756133,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00124106_GainOnSaleOfLoansOfAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "대출채권매각손익",
-          "당기 1분기말": 5543358887,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00124106_TransferOfProvisionOfAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "충당금 전입액 등",
-          "당기 1분기말": -138491115020,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "총포괄손익",
-          "당기 1분기말": 53793831577,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "보통주기본주당이익(손실)",
-          "당기 1분기말": 404,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_DilutedEarningsLossPerShare",
           "항목명": "보통주희석주당이익(손실)",
-          "당기 1분기말": 404,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료이익",
-          "당기 1분기말": 10234326299,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": -21268567726,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 31502894025,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용(수익)",
-          "당기 1분기말": -24737583601,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자손익",
-          "당기 1분기말": 378842754132,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": -458901660910,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 837744415042,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00124106_udf_IS_2024219161233688OfRevenueFromInterest",
           "항목명": "기타포괄손익-공정가치금융자산 및 상각후원가금융자산 이자수익",
-          "당기 1분기말": 836095307946,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익인식금융자산으로부터의 이자수익",
-          "당기 1분기말": 1649107096,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "기타포괄손익",
-          "당기 1분기말": -27855229650,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00124106_udf_IS_202391135219762OfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract",
           "항목명": "기타포괄손익-공정가치채무증권 대손상각비",
-          "당기 1분기말": -200613507,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
           "항목명": "해외사업환산손익",
-          "당기 1분기말": -516323045,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치채무증권 평가손익",
-          "당기 1분기말": -8142917434,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations",
           "항목명": "해외영업순투자위험회피평가손익",
-          "당기 1분기말": 436621500,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
           "항목명": "기타포괄손익-공정가치지분증권 관련손익",
-          "당기 1분기말": 1000472530,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "확정급여제도의재측정요소",
-          "당기 1분기말": -20432469694,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업손익",
-          "당기 1분기말": -206846592436,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainFromDerivatives",
           "항목명": "파생상품관련순손익",
-          "당기 1분기말": 1880432993,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_OtherOperatingExpense",
           "항목명": "기타영업비용",
-          "당기 1분기말": -53166501576,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_OtherOperatingIncome",
           "항목명": "기타영업수익",
-          "당기 1분기말": 5097552581,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationRecognisedInProfitOrLoss",
           "항목명": "외환거래순손익",
-          "당기 1분기말": 8290176274,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_GeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": -168948252708,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "당기순이익(손실)",
-          "당기 1분기말": 81649061227,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세차감전순이익",
-          "당기 1분기말": 106386644828,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익(손실)",
-          "당기 1분기말": 105321689107,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -1043,241 +1409,331 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익",
-          "당기 1분기말": 892439000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정유가증권처분손익",
-          "당기 1분기말": 40772000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 212829000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": 18500000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00149293_udf_IS_2023814175218893OfStatementOfComprehensiveIncomeAbstract",
           "항목명": "외환거래손익",
-          "당기 1분기말": -46258000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00149293_udf_IS_2023814175253816OfStatementOfComprehensiveIncomeAbstract",
           "항목명": "당기손익-공정가치측정지정금융상품관련손익",
-          "당기 1분기말": -864000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금전입",
-          "당기 1분기말": 108196000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "총포괄손익",
-          "당기 1분기말": 1065037000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "기본주당이익",
-          "당기 1분기말": 574,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_DilutedEarningsLossPerShare",
           "항목명": "희석주당이익",
-          "당기 1분기말": 574,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료손익",
-          "당기 1분기말": 275183000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": 66665000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 341848000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost",
           "항목명": "상각후원가측정유가증권처분손익",
-          "당기 1분기말": -27000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용",
-          "당기 1분기말": 288380000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자손익",
-          "당기 1분기말": 1935821000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": 2807532000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 4743353000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융상품이자수익",
-          "당기 1분기말": 168265000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
           "항목명": "기타포괄손익-공정가치측정 및 상각후원가측정 금융상품이자수익",
-          "당기 1분기말": 4575088000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "기타포괄손익",
-          "당기 1분기말": 133471000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
           "항목명": "해외사업환산손익",
-          "당기 1분기말": -193000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정유가증권평가손익",
-          "당기 1분기말": 71101000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
           "항목명": "기타포괄손익-공정가치측정유가증권평가손익",
-          "당기 1분기말": 62563000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업손익",
-          "당기 1분기말": -354099000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "당기순이익",
-          "당기 1분기말": 931566000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세차감전순이익",
-          "당기 1분기말": 1219946000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익",
-          "당기 1분기말": 1201446000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromDividends",
           "항목명": "배당수익",
-          "당기 1분기말": 34408000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": 788123000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -1296,233 +1752,320 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익(손실)",
-          "당기 1분기말": 99378306820,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 13217252846,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 12242870259,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": -2365149000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금 순전입액",
-          "당기 1분기말": 50417773438,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "연결분기총포괄손익",
-          "당기 1분기말": 134728853357,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "보통주기본주당이익(손실)",
-          "당기 1분기말": 888,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료손익",
-          "당기 1분기말": 21663168255,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": 14559430726,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 36222598981,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용(수익)",
-          "당기 1분기말": 34283418476,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자손익",
-          "당기 1분기말": 354717545691,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": 404607745982,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 759325291673,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00109019_InterestIncomeFromFinancialInstrumentsAtFairValueThroughOfRevenueFromInterest",
           "항목명": "당기손익-공정가치측정 금융상품 이자수익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00109019_udf_IS_20231026174213323OfRevenueFromInterest",
           "항목명": "기타포괄손익-공정가치측정 및 상각후원가측정 금융상품 이자수익",
-          "당기 1분기말": 759325291673,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_NetForeignExchangeGain",
           "항목명": "외환거래순손익",
-          "당기 1분기말": 11109992681,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "분기기타포괄손익",
-          "당기 1분기말": 5576546537,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00109019_udf_IS_2023102619131346OfComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract",
           "항목명": "기타포괄손익-공정가치측정 금융자산의 기대신용손실",
-          "당기 1분기말": -4573218,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
           "항목명": "해외사업환산손익",
-          "당기 1분기말": -348952653,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정 채무상품 평가손익",
-          "당기 1분기말": 5910458040,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations",
           "항목명": "해외사업장순투자 위험회피평가손익",
-          "당기 1분기말": 186476891,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
           "항목명": "기타포괄손익-공정가치측정지분상품평가손익",
-          "당기 1분기말": -166862523,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "확정급여제도의재측정요소",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업순손익",
-          "당기 1분기말": -40124013493,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "연결분기순이익(손실)",
-          "당기 1분기말": 129152306820,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세차감전순이익",
-          "당기 1분기말": 163435725296,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익(손실)",
-          "당기 1분기말": 165800874296,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": 156608168505,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -1541,273 +2084,375 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdditionReversalOfCreditLossFinancialAssets",
           "항목명": "신용손실충당금전입액",
-          "당기 1분기말": -209692000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익",
-          "당기 1분기말": 555694000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtAmortisedCost",
           "항목명": "상각후원가측정금융자산관련손익",
-          "당기 1분기말": -11093000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost",
           "항목명": "상각후원가측정대출채권및기타금융자산매매손익",
-          "당기 1분기말": -11093000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융자산관련손익",
-          "당기 1분기말": 33256000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 195662000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": 17308000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00254045_udf_IS_20243410485310OfNonOperatingProfitLoss",
           "항목명": "기타영업외손익",
-          "당기 1분기말": 17360000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod",
           "항목명": "관계기업투자자산평가손익",
-          "당기 1분기말": -52000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "총포괄손익",
-          "당기 1분기말": 556741000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShareFromContinuingOperations",
           "항목명": "기본 및 희석주당이익",
-          "당기 1분기말": 763,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료이익",
-          "당기 1분기말": 228418000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": 41597000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 270015000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용",
-          "당기 1분기말": 164540000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자이익",
-          "당기 1분기말": 1697311000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": 2576942000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 4274253000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost",
           "항목명": "상각후원가측정금융자산이자수익",
-          "당기 1분기말": 3910313000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융자산이자수익",
-          "당기 1분기말": 27899000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융자산이자수익",
-          "당기 1분기말": 336041000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "기타포괄손익",
-          "당기 1분기말": -25846000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
           "항목명": "해외사업환산손익",
-          "당기 1분기말": 603000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정채무증권평가손익",
-          "당기 1분기말": 51913000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations",
           "항목명": "해외사업장순투자위험회피평가손익",
-          "당기 1분기말": 237000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability",
           "항목명": "당기손익-공정가치측정지정금융부채신용위험변동손익",
-          "당기 1분기말": 26000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
           "항목명": "기타포괄손익-공정가치측정지분증권평가손익",
-          "당기 1분기말": 29432000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "확정급여제도의 재측정요소",
-          "당기 1분기말": -108057000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업손익",
-          "당기 1분기말": -300690000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "분기순이익",
-          "당기 1분기말": 582587000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 747127000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익",
-          "당기 1분기말": 729819000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromDividends",
           "항목명": "배당수익",
-          "당기 1분기말": 111656000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": 1015009000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -1826,217 +2471,298 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익(손실)",
-          "당기 1분기말": 46198000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 7878000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 9404000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": 93000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금 전입액",
-          "당기 1분기말": 43997000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "총포괄손익",
-          "당기 1분기말": 43886000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "보통주기본주당이익(손실)",
-          "당기 1분기말": 414,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_DilutedEarningsLossPerShare",
           "항목명": "보통주희석주당이익(손실)",
-          "당기 1분기말": 414,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료손익",
-          "당기 1분기말": -256000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": 10771000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 10515000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용",
-          "당기 1분기말": 12316000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자손익",
-          "당기 1분기말": 159379000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": 133363000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 292742000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치로 측정하는 금융자산의 이자수익",
-          "당기 1분기말": null,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
           "항목명": "유효이자율적용이자수익",
-          "당기 1분기말": 292742000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "기타포괄손익",
-          "당기 1분기말": 2427000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융자산관련손익",
-          "당기 1분기말": 2878000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
           "항목명": "기타포괄손익-공정가치측정지분상품평가손익",
-          "당기 1분기말": -114000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "확정급여제도의재측정요소",
-          "당기 1분기말": -337000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업손익",
-          "당기 1분기말": -14618000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "당기순이익(손실)",
-          "당기 1분기말": 41459000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세차감전순이익",
-          "당기 1분기말": 53775000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익(손실)",
-          "당기 1분기말": 53682000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금 환입액",
-          "당기 1분기말": 108000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "판매비와관리비",
-          "당기 1분기말": 64216000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -2055,217 +2781,298 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익(손실)",
-          "당기 1분기말": -199000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융자산처분손익",
-          "당기 1분기말": 1654000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융상품관련손익",
-          "당기 1분기말": 62000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": 1965000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금전입",
-          "당기 1분기말": -11664000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "총포괄손익",
-          "당기 1분기말": 3751000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "기본주당순이익",
-          "당기 1분기말": 45,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_DilutedEarningsLossPerShare",
           "항목명": "희석주당순이익",
-          "당기 1분기말": 45,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료손익",
-          "당기 1분기말": 3077000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": -2010000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 5087000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost",
           "항목명": "상각후원가측정금융자산처분손익",
-          "당기 1분기말": 302000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용(수익)",
-          "당기 1분기말": 328000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자손익",
-          "당기 1분기말": 38499000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": -45047000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 83546000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_NetForeignExchangeGain",
           "항목명": "외환거래손익",
-          "당기 1분기말": 331000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "기타포괄손익",
-          "당기 1분기말": 847000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정채무증권평가손익",
-          "당기 1분기말": 729000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
           "항목명": "기타포괄손익-공정가치측정지분증권평가손익",
-          "당기 1분기말": 118000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "확정급여제도의재측정요소",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업손익",
-          "당기 1분기말": -5143000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "분기순이익(손실)",
-          "당기 1분기말": 2904000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 3232000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업손익",
-          "당기 1분기말": 1267000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromDividends",
           "항목명": "배당수익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": -25851000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -2284,233 +3091,320 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익",
-          "당기 1분기말": 122679000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "4. 기타포괄손익-공정가치측정금융자산관련이익",
-          "당기 1분기말": 12220000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "3. 당기손익-공정가치측정금융상품관련이익",
-          "당기 1분기말": 77670000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "4. 기타포괄손익-공정가치측정금융자산관련손실",
-          "당기 1분기말": 484000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "3. 당기손익-공정가치측정금융상품관련손실",
-          "당기 1분기말": 23813000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingExpense",
           "항목명": "VI. 영업외비용",
-          "당기 1분기말": 1935000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingIncome",
           "항목명": "V. 영업외수익",
-          "당기 1분기말": 1359000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_OtherOperatingExpense",
           "항목명": "6. 기타의영업비용",
-          "당기 1분기말": 42109000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_OtherOperatingIncome",
           "항목명": "5. 기타의영업수익",
-          "당기 1분기말": 14847000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "Ⅲ. 금융자산신용손실충당금전입액",
-          "당기 1분기말": 60924000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "XI. 총포괄이익",
-          "당기 1분기말": 141280000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "1. 기본주당이익",
-          "당기 1분기말": 288,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_DilutedEarningsLossPerShare",
           "항목명": "2. 희석주당이익",
-          "당기 1분기말": 288,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "2. 수수료비용",
-          "당기 1분기말": 70901000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "2. 수수료수익",
-          "당기 1분기말": 77644000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "VIII. 법인세비용",
-          "당기 1분기말": 45047000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "1. 이자비용",
-          "당기 1분기말": 278748000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OperatingExpense",
           "항목명": "II. 영업비용",
-          "당기 1분기말": 540599000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "X. 기타포괄손익",
-          "당기 1분기말": 3864000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "1. 기타포괄손익-공정가치측정금융자산평가손익",
-          "당기 1분기말": 6785000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax",
           "항목명": "2. 관계기업 기타포괄손익에 대한 지분",
-          "당기 1분기말": -2929000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "1. 순확정급여자산의 재측정요소",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax",
           "항목명": "2. 관계기업 기타포괄손익에 대한 지분",
-          "당기 1분기말": 8000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "IX. 분기순이익",
-          "당기 1분기말": 137416000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "VII. 법인세비용차감전순이익",
-          "당기 1분기말": 182463000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "IV. 영업이익",
-          "당기 1분기말": 183039000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_Revenue",
           "항목명": "I. 영업수익",
-          "당기 1분기말": 784562000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "1. 이자수익",
-          "당기 1분기말": 602181000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "5. 판매비와관리비",
-          "당기 1분기말": 124544000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -2529,169 +3423,232 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영 후 조정이익",
-          "당기 1분기말": 10551000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융자산관련이익",
-          "당기 1분기말": 20109000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": 26000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실에 대한 손상차손",
-          "당기 1분기말": -53933000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "당기총포괄이익",
-          "당기 1분기말": 19425000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "기본주당이익",
-          "당기 1분기말": 43,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료손익",
-          "당기 1분기말": -438000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": -15559000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 15121000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세수익(비용)",
-          "당기 1분기말": 457000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자손익",
-          "당기 1분기말": 108467000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": -167403000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 275870000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "기타포괄손익",
-          "당기 1분기말": 3367000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융자산평가손익",
-          "당기 1분기말": 3382000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "확정급여제도의 재측정요소",
-          "당기 1분기말": -15000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업손익",
-          "당기 1분기말": -6010000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "당기순이익",
-          "당기 1분기말": 16058000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 15601000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익",
-          "당기 1분기말": 15575000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": -52620000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -2710,265 +3667,364 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익",
-          "당기 1분기말": 973417000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromDerivativesHeldForHedging",
           "항목명": "순헤지목적파생상품손익",
-          "당기 1분기말": 32408000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtAmortisedCost",
           "항목명": "순상각후원가측정금융자산이익",
-          "당기 1분기말": 0,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "순기타포괄손익-공정가치측정금융자산이익",
-          "당기 1분기말": 70337000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "순당기손익-공정가치측정금융상품이익",
-          "당기 1분기말": 359094000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외이익(손실)",
-          "당기 1분기말": 20769000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingExpense",
           "항목명": "영업외비용",
-          "당기 1분기말": 14514000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingIncome",
           "항목명": "영업외수익",
-          "당기 1분기말": 35283000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_OtherOperatingExpense",
           "항목명": "기타영업비용",
-          "당기 1분기말": 2082573000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_OtherOperatingIncome",
           "항목명": "기타영업수익",
-          "당기 1분기말": 1769366000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금전입액",
-          "당기 1분기말": 117491000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "분기총포괄이익",
-          "당기 1분기말": 1034775000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "기본주당이익",
-          "당기 1분기말": 902,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_DilutedEarningsLossPerShare",
           "항목명": "희석주당이익",
-          "당기 1분기말": 902,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료이익",
-          "당기 1분기말": 199878000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": 61850000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 261728000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용",
-          "당기 1분기말": 312801000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자이익",
-          "당기 1분기말": 1817837000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": 2656612000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 4474449000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융상품이자수익",
-          "당기 1분기말": 62598000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
           "항목명": "기타포괄손익-공정가치측정 및 상각후원가측정금융상품이자수익",
-          "당기 1분기말": 4411851000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "기타포괄손익",
-          "당기 1분기말": 67715000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation",
           "항목명": "해외사업장환산손익",
-          "당기 1분기말": -12955000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정채무증권평가손익",
-          "당기 1분기말": 68606000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations",
           "항목명": "해외사업장순투자위험회피평가손익",
-          "당기 1분기말": -1200000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments",
           "항목명": "기타포괄손익-공정가치측정지분증권평가손익",
-          "당기 1분기말": 13937000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "확정급여제도의 재측정요소",
-          "당기 1분기말": -673000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "분기순이익",
-          "당기 1분기말": 967060000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 1279861000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익",
-          "당기 1분기말": 1259092000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": 789764000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -2987,257 +4043,353 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익",
-          "당기 1분기말": 88150000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustmentsForGainsLossesOnChangeInFairValueOfFinancialAssetsAtFairValueThroughProfitOrLossDesignatedAsUponInitialRecognition",
           "항목명": "당기손익-공정가치측정지정금융상품 관련순손익",
-          "당기 1분기말": 52276000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정금융상품관련순손익",
-          "당기 1분기말": -113263000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingProfitLoss",
           "항목명": "영업외손익",
-          "당기 1분기말": 6311000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingExpense",
           "항목명": "영업외비용",
-          "당기 1분기말": 171000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingIncome",
           "항목명": "영업외수익",
-          "당기 1분기말": 6482000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00148504_udf_IS_2024320204140975OfStatementOfComprehensiveIncomeAbstract",
           "항목명": "공정가치위험회피대상 관련순손익",
-          "당기 1분기말": 512000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00148504_udf_IS_202432020423594OfStatementOfComprehensiveIncomeAbstract",
           "항목명": "금융상품 관련기타순손익",
-          "당기 1분기말": -383000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00148504_udf_IS_2024320204527125OfStatementOfComprehensiveIncomeAbstract",
           "항목명": "기타충당금 및 충당부채 순전입액",
-          "당기 1분기말": -455000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금 순전입액",
-          "당기 1분기말": 31184000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "총포괄손익",
-          "당기 1분기말": 110477000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "보통주기본주당이익(손실)",
-          "당기 1분기말": 416,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료손익",
-          "당기 1분기말": 75450000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": 28711000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 104161000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_GainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost",
           "항목명": "상각후원가 측정 금융자산 제거 손익",
-          "당기 1분기말": 732000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_GainsLossesOnHedgingInstrument",
           "항목명": "위험회피파생상품 관련순손익",
-          "당기 1분기말": -398000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용",
-          "당기 1분기말": 30984000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자손익",
-          "당기 1분기말": 304419000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": 325311000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 629730000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치 측정 금융상품 이자수익",
-          "당기 1분기말": 20992000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod",
           "항목명": "상각후원가측정 및 기타포괄손익-공정가치 측정 금융상품 이자수익",
-          "당기 1분기말": 608738000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_NetForeignExchangeGain",
           "항목명": "환율변동손익",
-          "당기 1분기말": 198899000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "기타포괄손익",
-          "당기 1분기말": -2976000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융자산관련손익",
-          "당기 1분기말": -2874000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability",
           "항목명": "당기손익-공정가치측정지정금융부채의 자기신용위험조정",
-          "당기 1분기말": -102000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherOperatingIncomeExpense",
           "항목명": "기타영업손익",
-          "당기 1분기말": -22844000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "당기순이익(손실)",
-          "당기 1분기말": 113453000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세차감전순이익",
-          "당기 1분기말": 144437000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익(손실)",
-          "당기 1분기말": 138126000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "판매비와관리비",
-          "당기 1분기말": 221083000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     },
@@ -3256,257 +4408,353 @@
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss",
           "항목명": "대손준비금 반영후 조정이익",
-          "당기 1분기말": 101726000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromDerivativesHeldForHedging",
           "항목명": "파생상품관련순손익",
-          "당기 1분기말": -103020000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstruments",
           "항목명": "금융상품관련기타순손익",
-          "당기 1분기말": 3986000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtAmortisedCost",
           "항목명": "상각후원가측정금융자산관련순손익",
-          "당기 1분기말": 164000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타금융상품관련기타순손익",
-          "당기 1분기말": 3822000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss",
           "항목명": "당기손익-공정가치측정 금융상품관련순손익",
-          "당기 1분기말": 138397000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingExpense",
           "항목명": "기타비용",
-          "당기 1분기말": -1253000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_NonOperatingIncome",
           "항목명": "기타수익",
-          "당기 1분기말": 1625000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_OperatingIncomeLoss",
           "항목명": "순영업이익",
-          "당기 1분기말": 261182000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_OtherOperatingExpense",
           "항목명": "기타영업비용",
-          "당기 1분기말": -11811000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "dart_OtherOperatingIncome",
           "항목명": "기타영업수익",
-          "당기 1분기말": 8706000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "entity00161444_NiBeforeCreditCostOfStatementOfComprehensiveIncomeAbstract",
           "항목명": "신용손실반영전순영업이익",
-          "당기 1분기말": 266914000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets",
           "항목명": "신용손실충당금전입액",
-          "당기 1분기말": -5732000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ComprehensiveIncome",
           "항목명": "분기총포괄이익",
-          "당기 1분기말": 77889000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_BasicEarningsLossPerShare",
           "항목명": "기본및희석주당이익",
-          "당기 1분기말": 259,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_EmployeeBenefitsExpense",
           "항목명": "종업원급여",
-          "당기 1분기말": -65588000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncomeExpense",
           "항목명": "순수수료손익",
-          "당기 1분기말": 9121000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionExpense",
           "항목명": "수수료비용",
-          "당기 1분기말": -20836000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_FeeAndCommissionIncome",
           "항목명": "수수료수익",
-          "당기 1분기말": 29957000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_IncomeTaxExpenseContinuingOperations",
           "항목명": "법인세비용",
-          "당기 1분기말": -24778000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestRevenueExpense",
           "항목명": "순이자손익",
-          "당기 1분기말": 140797000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_InterestExpense",
           "항목명": "이자비용",
-          "당기 1분기말": -110905000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_RevenueFromInterest",
           "항목명": "이자수익",
-          "당기 1분기말": 251702000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_NetForeignExchangeGain",
           "항목명": "외환거래손익",
-          "당기 1분기말": 80738000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncome",
           "항목명": "법인세비용차감후 기타포괄손익",
-          "당기 1분기말": -4515000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome",
           "항목명": "기타포괄손익-공정가치측정금융자산평가손익",
-          "당기 1분기말": 12000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability",
           "항목명": "당기손익-공정가치측정 항목지정 금융부채 신용위험변동효과",
-          "당기 1분기말": -123000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans",
           "항목명": "확정급여제도의 재측정요소",
-          "당기 1분기말": -4404000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLoss",
           "항목명": "분기순이익",
-          "당기 1분기말": 82404000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossBeforeTax",
           "항목명": "법인세비용차감전순이익",
-          "당기 1분기말": 107182000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_ProfitLossFromOperatingActivities",
           "항목명": "영업이익",
-          "당기 1분기말": 106810000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         },
         {
           "재무제표종류": "포괄손익계산서, 은행 - 별도",
           "항목코드": "ifrs-full_SellingGeneralAndAdministrativeExpense",
           "항목명": "일반관리비",
-          "당기 1분기말": -88784000000,
-          "전기말": null,
-          "전전기말": null
+          "당기 1분기 3개월": null,
+          "당기 1분기 누적": null,
+          "전기 1분기 3개월": null,
+          "전기 1분기 누적": null,
+          "전기": null,
+          "전전기": null
         }
       ]
     }

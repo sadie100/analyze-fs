@@ -147,9 +147,32 @@ const EVALUATION_THRESHOLDS = {
 function extractFinancialData(
   companyData: CompanyData
 ): ExtractedFinancialData {
-  // 최적화된 DB 구조인 경우 이미 추출된 데이터 반환
+  // 최적화된 DB 구조인 경우: 누락된 필드를 null 기본값으로 채워 반환
   if ('financialData' in companyData) {
-    return companyData.financialData
+    // 모든 키를 갖는 기본 객체 생성
+    const defaultData: ExtractedFinancialData = {
+      매출액: null,
+      영업이익: null,
+      당기순이익: null,
+      자산총계: null,
+      유동자산: null,
+      비유동자산: null,
+      부채총계: null,
+      유동부채: null,
+      비유동부채: null,
+      자본총계: null,
+      현금및현금성자산: null,
+      매출채권: null,
+      재고자산: null,
+      단기차입금: null,
+      장기차입금: null,
+      전년매출액: null,
+      전년영업이익: null,
+      전년당기순이익: null,
+    }
+
+    // 최적화 DB에서 제공되는 데이터와 병합하여 누락된 항목은 null 유지
+    return { ...defaultData, ...companyData.financialData }
   }
 
   // 기존 방대한 DB 구조인 경우 추출 로직 실행

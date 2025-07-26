@@ -645,6 +645,8 @@ export function analyzeCompany(
   }
 }
 
+export { calculateFinancialRatios, evaluateCompany, generateRecommendations }
+
 export type {
   AnalysisResult,
   FinancialRatios,

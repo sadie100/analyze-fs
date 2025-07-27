@@ -209,7 +209,10 @@ async function buildFinancialDatabase() {
             Object.entries(extractedData).forEach(([key, value]) => {
               if (
                 value !== null &&
-                companyDatabase[companyName].financialData[key] === null
+                (companyDatabase[companyName].financialData[key] === null ||
+                  companyDatabase[companyName].financialData[key] === 0 ||
+                  Math.abs(value) >
+                    Math.abs(companyDatabase[companyName].financialData[key]))
               ) {
                 companyDatabase[companyName].financialData[key] = value
               }

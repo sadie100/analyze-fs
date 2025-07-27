@@ -207,7 +207,27 @@ function extractFinancialData(
 
   // 항목명 매핑 테이블
   const itemMapping: Record<string, string[]> = {
-    매출액: ['매출액', '매출', '수익(매출액)', '영업수익'],
+    매출액: [
+      '매출액',
+      '매출',
+      '수익(매출액)',
+      '영업수익',
+      // 다양한 수익(매출액) 패턴들 추가
+      '건설계약으로 인한 수익(매출액)',
+      '기타수익(매출액)',
+      '재화의 판매로 인한 수익(매출액)',
+      '용역의 제공으로 인한 수익(매출액)',
+      '상품의 판매로 인한 수익(매출액)',
+      'I. 매출액',
+      'Ⅰ. 매출액',
+      'Ⅰ.매출액',
+      '총매출액',
+      '순매출액',
+      '제품매출액',
+      '상품매출액',
+      '용역매출액',
+      '공사매출액',
+    ],
     영업이익: ['영업이익', '영업이익(손실)'],
     당기순이익: ['당기순이익', '당기순이익(손실)', '분기순이익'],
     자산총계: ['자산총계'],
@@ -226,8 +246,19 @@ function extractFinancialData(
 
   // 데이터 매핑
   allData.forEach((item) => {
-    const currentValue = item['당기 1분기말']
-    const previousValue = item['전기말']
+    // 손익계산서 항목인지 확인
+    const isIncomeStatement =
+      item.재무제표종류.includes('손익계산서') ||
+      item.재무제표종류.includes('포괄손익계산서')
+
+    // 손익계산서는 누적 데이터, 재무상태표는 시점 데이터 사용
+    const currentValue = isIncomeStatement
+      ? item['당기 1분기 누적'] ?? item['당기 1분기 3개월']
+      : item['당기 1분기말']
+
+    const previousValue = isIncomeStatement
+      ? item['전기 1분기 누적'] ?? item['전기 1분기 3개월']
+      : item['전기말']
 
     Object.entries(itemMapping).forEach(([key, searchTerms]) => {
       searchTerms.forEach((term) => {
@@ -236,13 +267,15 @@ function extractFinancialData(
           if (result[resultKey] === null) {
             ;(result[resultKey] as number) = currentValue
 
-            // 전년 동기 데이터도 저장
-            if (key === '매출액' && previousValue !== null) {
-              result.전년매출액 = previousValue
-            } else if (key === '영업이익' && previousValue !== null) {
-              result.전년영업이익 = previousValue
-            } else if (key === '당기순이익' && previousValue !== null) {
-              result.전년당기순이익 = previousValue
+            // 전년 동기 데이터도 저장 (손익계산서 항목만)
+            if (isIncomeStatement && previousValue !== null) {
+              if (key === '매출액') {
+                result.전년매출액 = previousValue
+              } else if (key === '영업이익') {
+                result.전년영업이익 = previousValue
+              } else if (key === '당기순이익') {
+                result.전년당기순이익 = previousValue
+              }
             }
           }
         }

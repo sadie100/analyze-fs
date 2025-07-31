@@ -183,10 +183,14 @@ function parseFinancialData(content, filePath) {
         financialData['전기'] = cleanNumericValue(row['전기'])
         financialData['전전기'] = cleanNumericValue(row['전전기'])
       } else if (filePath.includes('현금흐름표')) {
-        financialData['당기1분기'] = cleanNumericValue(row['당기1분기'])
-        financialData['전기1분기'] = cleanNumericValue(row['전기1분기'])
-        financialData['전기'] = cleanNumericValue(row['전기'])
-        financialData['전전기'] = cleanNumericValue(row['전전기'])
+        // 현금흐름표는 헤더를 동적으로 처리
+        // 헤더 12개 이후의 모든 컬럼을 숫자 필드로 처리
+        Object.keys(row).forEach((key, index) => {
+          if (index >= 12) {
+            // 헤더 12개 이후의 모든 컬럼
+            financialData[key] = cleanNumericValue(row[key])
+          }
+        })
       } else if (filePath.includes('자본변동표')) {
         // 자본변동표는 모든 추가 컬럼을 숫자로 처리
         Object.keys(row).forEach((key, index) => {
@@ -262,9 +266,28 @@ function groupByCompany(data) {
       '당기 1분기말': item['당기 1분기말'],
       전기말: item['전기말'],
       전전기말: item['전전기말'],
-      // 현금흐름표 필드
-      당기1분기: item['당기1분기'],
-      전기1분기: item['전기1분기'],
+    }
+
+    // 현금흐름표의 경우 모든 숫자 필드를 동적으로 추가
+    if (item.재무제표종류 && item.재무제표종류.includes('현금흐름표')) {
+      Object.keys(item).forEach((key) => {
+        if (
+          key !== '재무제표종류' &&
+          key !== '종목코드' &&
+          key !== '회사명' &&
+          key !== '시장구분' &&
+          key !== '업종' &&
+          key !== '업종명' &&
+          key !== '결산월' &&
+          key !== '결산기준일' &&
+          key !== '보고서종류' &&
+          key !== '통화' &&
+          key !== '항목코드' &&
+          key !== '항목명'
+        ) {
+          financialItem[key] = item[key]
+        }
+      })
     }
 
     // 자본변동표의 경우 모든 추가 컬럼을 포함

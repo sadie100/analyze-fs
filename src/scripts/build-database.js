@@ -14,32 +14,13 @@ const ITEM_MAPPING = {
     '매출',
     '수익(매출액)',
     '영업수익',
-    // 다양한 수익(매출액) 패턴들 추가
-    '건설계약으로 인한 수익(매출액)',
-    '기타수익(매출액)',
-    '재화의 판매로 인한 수익(매출액)',
-    '용역의 제공으로 인한 수익(매출액)',
-    '상품의 판매로 인한 수익(매출액)',
-    '로열티수익(매출액)',
-    '배당수익(매출액)',
-    '영업수익(매출액)',
-    '정부보조금수익(매출액)',
-    '공사부담금수익(매출액)',
-    '이자수익(매출액)',
     'I. 매출액',
     'Ⅰ. 매출액',
     'Ⅰ.매출액',
     '총매출액',
     '순매출액',
-    '제품매출액',
-    '상품매출액',
-    '용역매출액',
-    '공사매출액',
-    '게임매출액',
-    '국내매출액',
-    '수출매출액',
   ],
-  영업이익: ['영업이익', '영업이익(손실)'],
+  영업이익: ['영업이익', '영업이익(손실)', '영업손익', '영업손익(손실)'],
   당기순이익: ['당기순이익', '당기순이익(손실)', '분기순이익'],
   자산총계: ['자산총계'],
   유동자산: ['유동자산'],
@@ -110,7 +91,7 @@ function extractEssentialFinancialData(company) {
 
       Object.entries(ITEM_MAPPING).forEach(([key, searchTerms]) => {
         searchTerms.forEach((term) => {
-          if (item.항목명.includes(term)) {
+          if (item.항목명 === term) {
             if (result[key] === null && currentValue !== null) {
               result[key] = currentValue
 
@@ -229,21 +210,36 @@ async function buildFinancialDatabase() {
                   전년영업이익: null,
                   전년당기순이익: null,
                 },
+                _priority: {},
               }
               fileCompanyCount++
             }
 
             // 필수 재무 항목만 추출하여 병합
             const extractedData = extractEssentialFinancialData(company)
+            const filePriority = fileInfo.name.includes('_연결_') ? 1 : 2 // 1: 연결, 2: 개별
+
+            if (!companyDatabase[companyName]._priority) {
+              companyDatabase[companyName]._priority = {}
+            }
+
             Object.entries(extractedData).forEach(([key, value]) => {
+              if (value === null) return
+
+              const prevPriority =
+                companyDatabase[companyName]._priority[key] ?? 99
+              const prevValue = companyDatabase[companyName].financialData[key]
+
+              // 연결 재무제표를 우선, 동일 우선순위이면 절대값이 큰 값 사용
               if (
-                value !== null &&
-                (companyDatabase[companyName].financialData[key] === null ||
-                  companyDatabase[companyName].financialData[key] === 0 ||
-                  Math.abs(value) >
-                    Math.abs(companyDatabase[companyName].financialData[key]))
+                filePriority < prevPriority ||
+                (filePriority === prevPriority &&
+                  (prevValue === null ||
+                    prevValue === 0 ||
+                    Math.abs(value) > Math.abs(prevValue)))
               ) {
                 companyDatabase[companyName].financialData[key] = value
+                companyDatabase[companyName]._priority[key] = filePriority
               }
             })
           }
@@ -296,14 +292,22 @@ async function buildFinancialDatabase() {
     )
   })
 
+  // _priority 메타 제거 및 정리
+  const cleanedCompanies = {}
+  Object.entries(companyDatabase).forEach(([name, data]) => {
+    const rest = { ...data }
+    delete rest._priority
+    cleanedCompanies[name] = rest
+  })
+
   // 검색 인덱스 생성
   const searchIndex = {
-    companyNames: Object.keys(companyDatabase),
+    companyNames: Object.keys(cleanedCompanies),
     industryMap: {},
     marketMap: {},
   }
 
-  Object.entries(companyDatabase).forEach(([name, data]) => {
+  Object.entries(cleanedCompanies).forEach(([name, data]) => {
     // 업종별 분류
     const industry = data.basicInfo.업종명
     if (industry) {
@@ -344,7 +348,7 @@ async function buildFinancialDatabase() {
         optimizedFor: 'financial-analysis-18-items',
         extractedItems: Object.keys(ITEM_MAPPING).length + 3, // 15개 + 3개 전년 데이터
       },
-      companies: companyDatabase,
+      companies: cleanedCompanies,
       searchIndex,
     }
 

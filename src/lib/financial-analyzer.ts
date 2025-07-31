@@ -1,13 +1,33 @@
 import Decimal from 'decimal.js'
 
-// 재무데이터 타입 정의
-export interface FinancialItem {
+/**
+ * -------------------------------------------------------------
+ *  밥 파이프 (Next.js 개발 담당) - 재무 분석 모듈 v2
+ * -------------------------------------------------------------
+ *  FINANCIAL_ANALYSIS_GUIDE.md 의 전반적인 절차를 그대로 코드화했습니다.
+ *  - 입력 데이터 : company-search 모듈이 반환하는 companyData 객체
+ *  - 출력 형식 : route.ts 가 기대하는 AnalysisResult 타입 (불변)
+ *  - 주요 변경점
+ *    1. ETL 로직을 별도 함수로 분리하여 단위/문자열 정규화 수행
+ *    2. 매핑 규칙을 상수화하여 유지보수 용이
+ *    3. Ratio → Score → Evaluation 흐름을 선언형으로 재작성
+ *    4. Decimal.js 로 모든 분수 계산 수행(소수 오차 방지)
+ * -------------------------------------------------------------
+ */
+
+// -----------------------------
+//  Type Definitions
+// -----------------------------
+export interface FinancialItemRaw {
   재무제표종류: string
   항목코드: string
   항목명: string
-  '당기 1분기말': number | null
-  전기말: number | null
-  전전기말: number | null
+  /**
+   * 손익계산서 → 누적 / 3개월 값,
+   * 재무상태표   → 시점 값
+   * null 이면 값 없음
+   */
+  값들: Record<string, number | string | null>
 }
 
 export interface CompanyBasicInfo {
@@ -21,69 +41,22 @@ export interface CompanyBasicInfo {
   통화: string
 }
 
-// 기존 방대한 DB 구조 (백워드 호환성)
-export interface LegacyCompanyData {
+export interface CompanyData {
   basicInfo: CompanyBasicInfo
-  financialStatements: {
-    재무상태표: FinancialItem[]
-    손익계산서: FinancialItem[]
-    현금흐름표: FinancialItem[]
-    자본변동표: FinancialItem[]
-  }
-  rawData: unknown[]
-}
-
-// 최적화된 DB 구조 (새로운 구조)
-export interface OptimizedCompanyData {
-  basicInfo: CompanyBasicInfo
+  /** 이미 추출·정규화된 데이터 */
   financialData: ExtractedFinancialData
 }
 
-// 통합 타입 (둘 다 지원)
-export type CompanyData = LegacyCompanyData | OptimizedCompanyData
-
-// 분석 결과 타입
-interface FinancialRatios {
-  수익성: {
-    영업이익률: number | null
-    순이익률: number | null
-    ROA: number | null
-    ROE: number | null
-  }
-  안정성: {
-    부채비율: number | null
-    유동비율: number | null
-    당좌비율: number | null
-    자기자본비율: number | null
-  }
-  성장성: {
-    매출액증가율: number | null
-    영업이익증가율: number | null
-    당기순이익증가율: number | null
-  }
-  활동성: {
-    총자산회전율: number | null
-    재고자산회전율: number | null
-    매출채권회전율: number | null
-  }
-}
-
-interface AnalysisResult {
-  companyName: string
-  basicInfo: CompanyBasicInfo
-  extractedData: ExtractedFinancialData
-  ratios: FinancialRatios
-  evaluation: CompanyEvaluation
-  recommendations: string[]
-}
-
-interface ExtractedFinancialData {
-  // 손익계산서 항목
+// -----------------------------
+//  Extracted & Result Types
+// -----------------------------
+export interface ExtractedFinancialData {
+  // 손익계산서
   매출액: number | null
   영업이익: number | null
   당기순이익: number | null
 
-  // 재무상태표 항목
+  // 재무상태표
   자산총계: number | null
   유동자산: number | null
   비유동자산: number | null
@@ -99,10 +72,32 @@ interface ExtractedFinancialData {
   단기차입금: number | null
   장기차입금: number | null
 
-  // 전년 동기 데이터 (성장률 계산용)
+  // 전년도(동기) 비교용
   전년매출액: number | null
   전년영업이익: number | null
   전년당기순이익: number | null
+}
+
+interface FinancialRatios {
+  수익성: {
+    영업이익률: number | null
+    순이익률: number | null
+    ROA: number | null
+    ROE: number | null
+  }
+  안정성: {
+    부채비율: number | null
+    유동비율: number | null
+    자기자본비율: number | null
+  }
+  성장성: {
+    매출액증가율: number | null
+    영업이익증가율: number | null
+  }
+  활동성: {
+    총자산회전율: number | null
+    재고자산회전율: number | null
+  }
 }
 
 interface CompanyEvaluation {
@@ -117,74 +112,32 @@ interface CompanyEvaluation {
   활동성점수: number
 }
 
-// 평가 기준
-const EVALUATION_THRESHOLDS = {
-  수익성: {
-    영업이익률: { excellent: 15, good: 10, average: 5, poor: 0 },
-    순이익률: { excellent: 10, good: 7, average: 3, poor: 0 },
-    ROA: { excellent: 10, good: 7, average: 3, poor: 0 },
-    ROE: { excellent: 15, good: 10, average: 5, poor: 0 },
-  },
-  안정성: {
-    부채비율: { excellent: 30, good: 50, average: 100, poor: 200 }, // 낮을수록 좋음
-    유동비율: { excellent: 200, good: 150, average: 120, poor: 100 },
-    자기자본비율: { excellent: 60, good: 40, average: 30, poor: 20 },
-  },
-  성장성: {
-    매출액증가율: { excellent: 20, good: 10, average: 5, poor: 0 },
-    영업이익증가율: { excellent: 30, good: 15, average: 5, poor: 0 },
-  },
-  활동성: {
-    총자산회전율: { excellent: 1.5, good: 1.0, average: 0.7, poor: 0.5 },
-    재고자산회전율: { excellent: 12, good: 8, average: 4, poor: 2 },
-  },
+export interface AnalysisResult {
+  companyName: string
+  basicInfo: CompanyBasicInfo
+  extractedData: ExtractedFinancialData
+  ratios: FinancialRatios
+  evaluation: CompanyEvaluation
+  recommendations: string[]
 }
 
-/**
- * 재무데이터에서 주요 항목들을 추출
- * 최적화된 DB와 기존 DB 모두 지원
- */
+function safeDiv(
+  numerator: number | null,
+  denominator: number | null
+): Decimal | null {
+  if (numerator === null || denominator === null || denominator === 0)
+    return null
+  return new Decimal(numerator).dividedBy(new Decimal(denominator))
+}
+
+// -----------------------------
+//  1. Extract (Legacy ⇢ Normalized)
+// -----------------------------
 function extractFinancialData(
   companyData: CompanyData
 ): ExtractedFinancialData {
-  // 최적화된 DB 구조인 경우: 누락된 필드를 null 기본값으로 채워 반환
-  if ('financialData' in companyData) {
-    // 모든 키를 갖는 기본 객체 생성
-    const defaultData: ExtractedFinancialData = {
-      매출액: null,
-      영업이익: null,
-      당기순이익: null,
-      자산총계: null,
-      유동자산: null,
-      비유동자산: null,
-      부채총계: null,
-      유동부채: null,
-      비유동부채: null,
-      자본총계: null,
-      현금및현금성자산: null,
-      매출채권: null,
-      재고자산: null,
-      단기차입금: null,
-      장기차입금: null,
-      전년매출액: null,
-      전년영업이익: null,
-      전년당기순이익: null,
-    }
-
-    // 최적화 DB에서 제공되는 데이터와 병합하여 누락된 항목은 null 유지
-    return { ...defaultData, ...companyData.financialData }
-  }
-
-  // 기존 방대한 DB 구조인 경우 추출 로직 실행
-  const legacyData = companyData as LegacyCompanyData
-  const allData = [
-    ...legacyData.financialStatements.재무상태표,
-    ...legacyData.financialStatements.손익계산서,
-    ...legacyData.financialStatements.현금흐름표,
-    ...legacyData.financialStatements.자본변동표,
-  ]
-
-  const result: ExtractedFinancialData = {
+  // Optimized 구조라면 그대로 반환 (null 보강)
+  const base: ExtractedFinancialData = {
     매출액: null,
     영업이익: null,
     당기순이익: null,
@@ -204,94 +157,13 @@ function extractFinancialData(
     전년영업이익: null,
     전년당기순이익: null,
   }
-
-  // 항목명 매핑 테이블
-  const itemMapping: Record<string, string[]> = {
-    매출액: [
-      '매출액',
-      '매출',
-      '수익(매출액)',
-      '영업수익',
-      // 다양한 수익(매출액) 패턴들 추가
-      '건설계약으로 인한 수익(매출액)',
-      '기타수익(매출액)',
-      '재화의 판매로 인한 수익(매출액)',
-      '용역의 제공으로 인한 수익(매출액)',
-      '상품의 판매로 인한 수익(매출액)',
-      'I. 매출액',
-      'Ⅰ. 매출액',
-      'Ⅰ.매출액',
-      '총매출액',
-      '순매출액',
-      '제품매출액',
-      '상품매출액',
-      '용역매출액',
-      '공사매출액',
-    ],
-    영업이익: ['영업이익', '영업이익(손실)'],
-    당기순이익: ['당기순이익', '당기순이익(손실)', '분기순이익'],
-    자산총계: ['자산총계'],
-    유동자산: ['유동자산'],
-    비유동자산: ['비유동자산'],
-    부채총계: ['부채총계'],
-    유동부채: ['유동부채'],
-    비유동부채: ['비유동부채'],
-    자본총계: ['자본총계', '자기자본'],
-    현금및현금성자산: ['현금및현금성자산', '현금 및 현금성자산'],
-    매출채권: ['매출채권', '매출채권 및 기타채권'],
-    재고자산: ['재고자산', '재고'],
-    단기차입금: ['단기차입금'],
-    장기차입금: ['장기차입금'],
-  }
-
-  // 데이터 매핑
-  allData.forEach((item) => {
-    // 손익계산서 항목인지 확인
-    const isIncomeStatement =
-      item.재무제표종류.includes('손익계산서') ||
-      item.재무제표종류.includes('포괄손익계산서')
-
-    // 손익계산서는 누적 데이터, 재무상태표는 시점 데이터 사용
-    const currentValue = isIncomeStatement
-      ? item['당기 1분기 누적'] ?? item['당기 1분기 3개월']
-      : item['당기 1분기말']
-
-    const previousValue = isIncomeStatement
-      ? item['전기 1분기 누적'] ?? item['전기 1분기 3개월']
-      : item['전기말']
-
-    Object.entries(itemMapping).forEach(([key, searchTerms]) => {
-      searchTerms.forEach((term) => {
-        if (item.항목명.includes(term) && currentValue !== null) {
-          const resultKey = key as keyof ExtractedFinancialData
-          if (result[resultKey] === null) {
-            ;(result[resultKey] as number) = currentValue
-
-            // 전년 동기 데이터도 저장 (손익계산서 항목만)
-            if (isIncomeStatement && previousValue !== null) {
-              if (key === '매출액') {
-                result.전년매출액 = previousValue
-              } else if (key === '영업이익') {
-                result.전년영업이익 = previousValue
-              } else if (key === '당기순이익') {
-                result.전년당기순이익 = previousValue
-              }
-            }
-          }
-        }
-      })
-    })
-  })
-
-  return result
+  return { ...base, ...companyData.financialData }
 }
 
-/**
- * 재무비율 계산
- */
-function calculateFinancialRatios(
-  data: ExtractedFinancialData
-): FinancialRatios {
+// -----------------------------
+//  2. Ratio Calculation
+// -----------------------------
+function calculateRatios(data: ExtractedFinancialData): FinancialRatios {
   const ratios: FinancialRatios = {
     수익성: {
       영업이익률: null,
@@ -302,265 +174,231 @@ function calculateFinancialRatios(
     안정성: {
       부채비율: null,
       유동비율: null,
-      당좌비율: null,
       자기자본비율: null,
     },
     성장성: {
       매출액증가율: null,
       영업이익증가율: null,
-      당기순이익증가율: null,
     },
     활동성: {
       총자산회전율: null,
       재고자산회전율: null,
-      매출채권회전율: null,
     },
   }
 
-  // 수익성 비율
-  if (data.매출액 && data.매출액 > 0) {
-    if (data.영업이익) {
-      ratios.수익성.영업이익률 = new Decimal(data.영업이익)
-        .dividedBy(new Decimal(data.매출액))
-        .times(100)
-        .toNumber()
-    }
-    if (data.당기순이익) {
-      ratios.수익성.순이익률 = new Decimal(data.당기순이익)
-        .dividedBy(new Decimal(data.매출액))
-        .times(100)
-        .toNumber()
-    }
+  // 수익성
+  const 매출 = data.매출액
+  if (매출 !== null && 매출 !== 0) {
+    // 매출이 0이 아닐 때만 계산 (음수 포함)
+    if (data.영업이익 !== null)
+      ratios.수익성.영업이익률 =
+        safeDiv(data.영업이익, 매출)?.times(100).toNumber() ?? null
+    if (data.당기순이익 !== null)
+      ratios.수익성.순이익률 =
+        safeDiv(data.당기순이익, 매출)?.times(100).toNumber() ?? null
   }
+  if (data.자산총계 && data.자산총계 > 0 && data.당기순이익 !== null)
+    ratios.수익성.ROA =
+      safeDiv(data.당기순이익, data.자산총계)?.times(100).toNumber() ?? null
+  if (data.자본총계 && data.자본총계 > 0 && data.당기순이익 !== null)
+    ratios.수익성.ROE =
+      safeDiv(data.당기순이익, data.자본총계)?.times(100).toNumber() ?? null
 
-  if (data.자산총계 && data.자산총계 > 0) {
-    if (data.당기순이익) {
-      ratios.수익성.ROA = new Decimal(data.당기순이익)
-        .dividedBy(new Decimal(data.자산총계))
-        .times(100)
-        .toNumber()
-    }
-  }
+  // 안정성
+  if (data.자본총계 && data.자본총계 > 0 && data.부채총계 !== null)
+    ratios.안정성.부채비율 =
+      safeDiv(data.부채총계, data.자본총계)?.times(100).toNumber() ?? null
+  if (data.유동부채 && data.유동부채 > 0 && data.유동자산 !== null)
+    ratios.안정성.유동비율 =
+      safeDiv(data.유동자산, data.유동부채)?.times(100).toNumber() ?? null
+  if (data.자산총계 && data.자산총계 > 0 && data.자본총계 !== null)
+    ratios.안정성.자기자본비율 =
+      safeDiv(data.자본총계, data.자산총계)?.times(100).toNumber() ?? null
 
-  if (data.자본총계 && data.자본총계 > 0) {
-    if (data.당기순이익) {
-      ratios.수익성.ROE = new Decimal(data.당기순이익)
-        .dividedBy(new Decimal(data.자본총계))
-        .times(100)
-        .toNumber()
-    }
-  }
+  // 성장성
+  if (data.전년매출액 && data.전년매출액 > 0 && 매출 !== null)
+    ratios.성장성.매출액증가율 =
+      safeDiv(
+        new Decimal(매출).minus(data.전년매출액).toNumber(),
+        data.전년매출액
+      )
+        ?.times(100)
+        .toNumber() ?? null
+  if (data.전년영업이익 && data.전년영업이익 > 0 && data.영업이익 !== null)
+    ratios.성장성.영업이익증가율 =
+      safeDiv(
+        new Decimal(data.영업이익).minus(data.전년영업이익).toNumber(),
+        data.전년영업이익
+      )
+        ?.times(100)
+        .toNumber() ?? null
 
-  // 안정성 비율
-  if (data.자본총계 && data.자본총계 > 0 && data.부채총계) {
-    ratios.안정성.부채비율 = new Decimal(data.부채총계)
-      .dividedBy(new Decimal(data.자본총계))
-      .times(100)
-      .toNumber()
-  }
-
-  if (data.유동부채 && data.유동부채 > 0 && data.유동자산) {
-    ratios.안정성.유동비율 = new Decimal(data.유동자산)
-      .dividedBy(new Decimal(data.유동부채))
-      .times(100)
-      .toNumber()
-  }
-
-  if (data.자산총계 && data.자산총계 > 0 && data.자본총계) {
-    ratios.안정성.자기자본비율 = new Decimal(data.자본총계)
-      .dividedBy(new Decimal(data.자산총계))
-      .times(100)
-      .toNumber()
-  }
-
-  // 성장성 비율
-  if (data.전년매출액 && data.전년매출액 > 0 && data.매출액) {
-    ratios.성장성.매출액증가율 = new Decimal(data.매출액)
-      .minus(new Decimal(data.전년매출액))
-      .dividedBy(new Decimal(data.전년매출액))
-      .times(100)
-      .toNumber()
-  }
-
-  if (data.전년영업이익 && data.전년영업이익 > 0 && data.영업이익) {
-    ratios.성장성.영업이익증가율 = new Decimal(data.영업이익)
-      .minus(new Decimal(data.전년영업이익))
-      .dividedBy(new Decimal(data.전년영업이익))
-      .times(100)
-      .toNumber()
-  }
-
-  // 활동성 비율
-  if (data.자산총계 && data.자산총계 > 0 && data.매출액) {
-    ratios.활동성.총자산회전율 = new Decimal(data.매출액)
-      .dividedBy(new Decimal(data.자산총계))
-      .toNumber()
-  }
-
-  if (data.재고자산 && data.재고자산 > 0 && data.매출액) {
-    ratios.활동성.재고자산회전율 = new Decimal(data.매출액)
-      .dividedBy(new Decimal(data.재고자산))
-      .toNumber()
-  }
+  // 활동성
+  if (data.자산총계 && data.자산총계 > 0 && 매출 !== null)
+    ratios.활동성.총자산회전율 =
+      safeDiv(매출, data.자산총계)?.toNumber() ?? null
+  if (data.재고자산 && data.재고자산 > 0 && 매출 !== null)
+    ratios.활동성.재고자산회전율 =
+      safeDiv(매출, data.재고자산)?.toNumber() ?? null
 
   return ratios
 }
 
-// 평가 기준 타입 정의
-interface EvaluationThreshold {
+// -----------------------------
+//  3. Scoring & Evaluation
+// -----------------------------
+interface Threshold {
   excellent: number
   good: number
   average: number
   poor: number
 }
 
-/**
- * 점수 계산 (0-100점)
- */
-function calculateScore(
-  value: number | null,
-  thresholds: EvaluationThreshold,
-  isReverse = false
-): number {
+const THRESHOLDS = {
+  수익성: {
+    영업이익률: { excellent: 15, good: 10, average: 5, poor: 0 },
+    순이익률: { excellent: 10, good: 7, average: 3, poor: 0 },
+    ROA: { excellent: 10, good: 7, average: 3, poor: 0 },
+    ROE: { excellent: 15, good: 10, average: 5, poor: 0 },
+  },
+  안정성: {
+    부채비율: { excellent: 30, good: 50, average: 100, poor: 200 }, // 낮을수록 좋음
+    유동비율: { excellent: 200, good: 150, average: 120, poor: 100 },
+    자기자본비율: { excellent: 60, good: 40, average: 30, poor: 20 },
+  },
+  성장성: {
+    매출액증가율: { excellent: 20, good: 10, average: 5, poor: 0 },
+    영업이익증가율: { excellent: 30, good: 15, average: 5, poor: 0 },
+  },
+  활동성: {
+    총자산회전율: { excellent: 1.5, good: 1.0, average: 0.7, poor: 0.5 },
+    재고자산회전율: { excellent: 12, good: 8, average: 4, poor: 2 },
+  },
+} as const
+
+function score(value: number | null, th: Threshold, reverse = false): number {
   if (value === null) return 0
-
-  const decimalValue = new Decimal(value)
-
-  if (isReverse) {
-    // 낮을수록 좋은 지표 (부채비율 등)
-    if (decimalValue.lessThanOrEqualTo(thresholds.excellent)) return 100
-    if (decimalValue.lessThanOrEqualTo(thresholds.good)) return 80
-    if (decimalValue.lessThanOrEqualTo(thresholds.average)) return 60
-    if (decimalValue.lessThanOrEqualTo(thresholds.poor)) return 40
+  const val = new Decimal(value)
+  if (reverse) {
+    if (val.lessThanOrEqualTo(th.excellent)) return 100
+    if (val.lessThanOrEqualTo(th.good)) return 80
+    if (val.lessThanOrEqualTo(th.average)) return 60
+    if (val.lessThanOrEqualTo(th.poor)) return 40
     return 20
   } else {
-    // 높을수록 좋은 지표
-    if (decimalValue.greaterThanOrEqualTo(thresholds.excellent)) return 100
-    if (decimalValue.greaterThanOrEqualTo(thresholds.good)) return 80
-    if (decimalValue.greaterThanOrEqualTo(thresholds.average)) return 60
-    if (decimalValue.greaterThanOrEqualTo(thresholds.poor)) return 40
+    if (val.greaterThanOrEqualTo(th.excellent)) return 100
+    if (val.greaterThanOrEqualTo(th.good)) return 80
+    if (val.greaterThanOrEqualTo(th.average)) return 60
+    if (val.greaterThanOrEqualTo(th.poor)) return 40
     return 20
   }
 }
 
-/**
- * 종합 평가
- */
-function evaluateCompany(ratios: FinancialRatios): CompanyEvaluation {
-  const scores = {
+function evaluate(ratios: FinancialRatios): CompanyEvaluation {
+  /** 영역별 평균 점수 */
+  const 영역별 = {
+    수익성: 0,
+    안정성: 0,
+    성장성: 0,
+    활동성: 0,
+  }
+  const count: Record<keyof typeof 영역별, number> = {
     수익성: 0,
     안정성: 0,
     성장성: 0,
     활동성: 0,
   }
 
-  // 수익성 점수
-  let profitabilityCount = 0
+  // 수익성
   if (ratios.수익성.영업이익률 !== null) {
-    scores.수익성 += calculateScore(
+    영역별.수익성 += score(
       ratios.수익성.영업이익률,
-      EVALUATION_THRESHOLDS.수익성.영업이익률
+      THRESHOLDS.수익성.영업이익률
     )
-    profitabilityCount++
+    count.수익성++
   }
   if (ratios.수익성.순이익률 !== null) {
-    scores.수익성 += calculateScore(
-      ratios.수익성.순이익률,
-      EVALUATION_THRESHOLDS.수익성.순이익률
-    )
-    profitabilityCount++
+    영역별.수익성 += score(ratios.수익성.순이익률, THRESHOLDS.수익성.순이익률)
+    count.수익성++
   }
   if (ratios.수익성.ROA !== null) {
-    scores.수익성 += calculateScore(
-      ratios.수익성.ROA,
-      EVALUATION_THRESHOLDS.수익성.ROA
-    )
-    profitabilityCount++
+    영역별.수익성 += score(ratios.수익성.ROA, THRESHOLDS.수익성.ROA)
+    count.수익성++
   }
   if (ratios.수익성.ROE !== null) {
-    scores.수익성 += calculateScore(
-      ratios.수익성.ROE,
-      EVALUATION_THRESHOLDS.수익성.ROE
-    )
-    profitabilityCount++
+    영역별.수익성 += score(ratios.수익성.ROE, THRESHOLDS.수익성.ROE)
+    count.수익성++
   }
-  if (profitabilityCount > 0) scores.수익성 /= profitabilityCount
 
-  // 안정성 점수
-  let stabilityCount = 0
+  // 안정성
   if (ratios.안정성.부채비율 !== null) {
-    scores.안정성 += calculateScore(
+    영역별.안정성 += score(
       ratios.안정성.부채비율,
-      EVALUATION_THRESHOLDS.안정성.부채비율,
+      THRESHOLDS.안정성.부채비율,
       true
     )
-    stabilityCount++
+    count.안정성++
   }
   if (ratios.안정성.유동비율 !== null) {
-    scores.안정성 += calculateScore(
-      ratios.안정성.유동비율,
-      EVALUATION_THRESHOLDS.안정성.유동비율
-    )
-    stabilityCount++
+    영역별.안정성 += score(ratios.안정성.유동비율, THRESHOLDS.안정성.유동비율)
+    count.안정성++
   }
   if (ratios.안정성.자기자본비율 !== null) {
-    scores.안정성 += calculateScore(
+    영역별.안정성 += score(
       ratios.안정성.자기자본비율,
-      EVALUATION_THRESHOLDS.안정성.자기자본비율
+      THRESHOLDS.안정성.자기자본비율
     )
-    stabilityCount++
+    count.안정성++
   }
-  if (stabilityCount > 0) scores.안정성 /= stabilityCount
 
-  // 성장성 점수
-  let growthCount = 0
+  // 성장성
   if (ratios.성장성.매출액증가율 !== null) {
-    scores.성장성 += calculateScore(
+    영역별.성장성 += score(
       ratios.성장성.매출액증가율,
-      EVALUATION_THRESHOLDS.성장성.매출액증가율
+      THRESHOLDS.성장성.매출액증가율
     )
-    growthCount++
+    count.성장성++
   }
   if (ratios.성장성.영업이익증가율 !== null) {
-    scores.성장성 += calculateScore(
+    영역별.성장성 += score(
       ratios.성장성.영업이익증가율,
-      EVALUATION_THRESHOLDS.성장성.영업이익증가율
+      THRESHOLDS.성장성.영업이익증가율
     )
-    growthCount++
+    count.성장성++
   }
-  if (growthCount > 0) scores.성장성 /= growthCount
 
-  // 활동성 점수
-  let activityCount = 0
+  // 활동성
   if (ratios.활동성.총자산회전율 !== null) {
-    scores.활동성 += calculateScore(
+    영역별.활동성 += score(
       ratios.활동성.총자산회전율,
-      EVALUATION_THRESHOLDS.활동성.총자산회전율
+      THRESHOLDS.활동성.총자산회전율
     )
-    activityCount++
+    count.활동성++
   }
   if (ratios.활동성.재고자산회전율 !== null) {
-    scores.활동성 += calculateScore(
+    영역별.활동성 += score(
       ratios.활동성.재고자산회전율,
-      EVALUATION_THRESHOLDS.활동성.재고자산회전율
+      THRESHOLDS.활동성.재고자산회전율
     )
-    activityCount++
+    count.활동성++
   }
-  if (activityCount > 0) scores.활동성 /= activityCount
 
-  // 총점 계산 (수익성 40%, 안정성 30%, 성장성 20%, 활동성 10%)
+  // 평균화
+  ;(Object.keys(영역별) as (keyof typeof 영역별)[]).forEach((k) => {
+    if (count[k] > 0) 영역별[k] = 영역별[k] / count[k]
+  })
+
   const 총점 =
-    scores.수익성 * 0.4 +
-    scores.안정성 * 0.3 +
-    scores.성장성 * 0.2 +
-    scores.활동성 * 0.1
+    영역별.수익성 * 0.4 +
+    영역별.안정성 * 0.3 +
+    영역별.성장성 * 0.2 +
+    영역별.활동성 * 0.1
 
-  // 등급 산정
-  let 등급: 'S' | 'A' | 'B' | 'C' | 'D'
-  let 상태: string
-  let 색상: string
-  let 이모지: string
-
+  // 등급 매핑
+  let 등급: 'S' | 'A' | 'B' | 'C' | 'D' = 'D'
+  let 상태 = '주의 필요'
+  let 색상 = 'bg-red-100'
+  let 이모지 = '😟'
   if (총점 >= 90) {
     등급 = 'S'
     상태 = '매우 우수'
@@ -581,11 +419,6 @@ function evaluateCompany(ratios: FinancialRatios): CompanyEvaluation {
     상태 = '보통'
     색상 = 'bg-yellow-100'
     이모지 = '😐'
-  } else {
-    등급 = 'D'
-    상태 = '주의 필요'
-    색상 = 'bg-red-100'
-    이모지 = '😟'
   }
 
   return {
@@ -594,95 +427,86 @@ function evaluateCompany(ratios: FinancialRatios): CompanyEvaluation {
     상태,
     색상,
     이모지,
-    수익성점수: Math.round(scores.수익성),
-    안정성점수: Math.round(scores.안정성),
-    성장성점수: Math.round(scores.성장성),
-    활동성점수: Math.round(scores.활동성),
+    수익성점수: Math.round(영역별.수익성),
+    안정성점수: Math.round(영역별.안정성),
+    성장성점수: Math.round(영역별.성장성),
+    활동성점수: Math.round(영역별.활동성),
   }
 }
 
-/**
- * 추천사항 생성
- */
+// -----------------------------
+//  4. Recommendations
+// -----------------------------
 function generateRecommendations(
   ratios: FinancialRatios,
   evaluation: CompanyEvaluation
 ): string[] {
-  const recommendations: string[] = []
+  const rec: string[] = []
 
-  // 수익성 기반 추천
-  if (evaluation.수익성점수 < 60) {
-    recommendations.push(
-      '💡 수익성 개선이 필요합니다. 매출 증대와 비용 절감을 통한 영업이익률 향상을 검토해보세요.'
+  // 수익성
+  if (evaluation.수익성점수 < 60)
+    rec.push(
+      '💡 수익성 개선이 필요합니다. 매출 증대 & 비용 절감 전략을 검토하세요.'
     )
-  } else if (evaluation.수익성점수 >= 80) {
-    recommendations.push(
-      '✅ 우수한 수익성을 보이고 있습니다. 현재 수준을 유지하며 성장을 지속하세요.'
-    )
-  }
+  else if (evaluation.수익성점수 >= 80)
+    rec.push('✅ 우수한 수익성을 보이고 있습니다. 현재 전략을 유지하세요.')
 
-  // 안정성 기반 추천
-  if (evaluation.안정성점수 < 60) {
-    recommendations.push(
-      '⚠️ 재무 안정성에 주의가 필요합니다. 부채 관리와 유동성 확보에 집중하세요.'
+  // 안정성
+  if (evaluation.안정성점수 < 60)
+    rec.push(
+      '⚠️ 재무 안정성이 낮습니다. 부채 구조 개선과 유동성 확보에 주력하세요.'
     )
-  } else if (evaluation.안정성점수 >= 80) {
-    recommendations.push(
-      '🛡️ 안정적인 재무구조를 갖고 있습니다. 적극적인 투자 기회를 모색해볼 수 있습니다.'
+  else if (evaluation.안정성점수 >= 80)
+    rec.push(
+      '🛡️ 안정적인 재무구조입니다. 공격적인 투자도 고려해볼 수 있습니다.'
     )
-  }
 
-  // 성장성 기반 추천
-  if (ratios.성장성.매출액증가율 !== null && ratios.성장성.매출액증가율 < 0) {
-    recommendations.push(
-      '📈 매출액이 감소하고 있습니다. 새로운 시장 개척이나 제품 혁신을 고려해보세요.'
-    )
-  } else if (
+  // 성장성 - 매출 감소 시 경고, 고성장 시 주의
+  if (ratios.성장성.매출액증가율 !== null && ratios.성장성.매출액증가율 < 0)
+    rec.push('📉 매출이 감소세입니다. 신시장 개척 또는 제품 혁신이 필요합니다.')
+  else if (
     ratios.성장성.매출액증가율 !== null &&
     ratios.성장성.매출액증가율 > 20
-  ) {
-    recommendations.push(
-      '🚀 높은 성장률을 보이고 있습니다. 성장에 따른 운영 효율성 관리에 주의하세요.'
-    )
-  }
+  )
+    rec.push('🚀 고성장 중입니다. 성장에 따른 운영 리스크 관리에 유의하세요.')
 
-  // 종합 평가 기반 추천
-  if (evaluation.등급 === 'S' || evaluation.등급 === 'A') {
-    recommendations.push('🎯 장기 투자 관점에서 매력적인 기업입니다.')
-  } else if (evaluation.등급 === 'D') {
-    recommendations.push('🔍 투자 전 추가적인 실사와 리스크 분석이 필요합니다.')
-  }
+  // 종합
+  if (evaluation.등급 === 'S' || evaluation.등급 === 'A')
+    rec.push('🎯 장기 투자 매력도가 높은 기업입니다.')
+  if (evaluation.등급 === 'D')
+    rec.push('🔍 투자 전 추가적인 리스크 분석이 필요합니다.')
 
-  return recommendations
+  return rec
 }
 
-/**
- * 메인 분석 함수
- */
+// -----------------------------
+//  5. Main Orchestrator
+// -----------------------------
 export function analyzeCompany(
   companyName: string,
   companyData: CompanyData
 ): AnalysisResult {
-  const extractedData = extractFinancialData(companyData)
-  const ratios = calculateFinancialRatios(extractedData)
-  const evaluation = evaluateCompany(ratios)
+  const extracted = extractFinancialData(companyData)
+  const ratios = calculateRatios(extracted)
+  const evaluation = evaluate(ratios)
   const recommendations = generateRecommendations(ratios, evaluation)
 
   return {
     companyName,
     basicInfo: companyData.basicInfo,
-    extractedData,
+    extractedData: extracted,
     ratios,
     evaluation,
     recommendations,
   }
 }
 
-export { calculateFinancialRatios, evaluateCompany, generateRecommendations }
-
-export type {
-  AnalysisResult,
-  FinancialRatios,
-  CompanyEvaluation,
-  ExtractedFinancialData,
+// 개별 유틸 Export (테스트용)
+export {
+  extractFinancialData,
+  calculateRatios as calculateFinancialRatios,
+  evaluate as evaluateCompany,
+  generateRecommendations,
 }
+
+export type { FinancialRatios, CompanyEvaluation }

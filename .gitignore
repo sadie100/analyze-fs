@@ -38,3 +38,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# db(너무 커서 제거함. build-database로 그때그때 돌릴것)
+*/financial-database.json

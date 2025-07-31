@@ -58,6 +58,53 @@ describe('financial-analyzer helpers', () => {
       expect(ratios.수익성.ROE).toBeCloseTo(expectedROE)
     })
 
+    it('should handle negative operating profit correctly', () => {
+      const negativeProfitData: ExtractedFinancialData = {
+        ...mockFinancialData,
+        영업이익: -50_000, // 영업손실
+      }
+      const negativeRatios = calculateFinancialRatios(negativeProfitData)
+
+      // 영업이익률 = (-50,000 / 1,000,000) * 100 = -5%
+      const expectedNegativeMargin = new Decimal(-50_000)
+        .dividedBy(new Decimal(1_000_000))
+        .times(100)
+        .toNumber()
+      expect(negativeRatios.수익성.영업이익률).toBeCloseTo(
+        expectedNegativeMargin
+      )
+    })
+
+    it('should handle zero revenue correctly', () => {
+      const zeroRevenueData: ExtractedFinancialData = {
+        ...mockFinancialData,
+        매출액: 0, // 매출액 0
+      }
+      const zeroRatios = calculateFinancialRatios(zeroRevenueData)
+
+      // 매출액이 0이면 영업이익률 계산 불가
+      expect(zeroRatios.수익성.영업이익률).toBeNull()
+      expect(zeroRatios.수익성.순이익률).toBeNull()
+    })
+
+    it('should handle negative revenue correctly', () => {
+      const negativeRevenueData: ExtractedFinancialData = {
+        ...mockFinancialData,
+        매출액: -100_000, // 음수 매출액 (드문 경우)
+        영업이익: 20_000,
+      }
+      const negativeRatios = calculateFinancialRatios(negativeRevenueData)
+
+      // 영업이익률 = (20,000 / -100,000) * 100 = -20%
+      const expectedNegativeRevenueMargin = new Decimal(20_000)
+        .dividedBy(new Decimal(-100_000))
+        .times(100)
+        .toNumber()
+      expect(negativeRatios.수익성.영업이익률).toBeCloseTo(
+        expectedNegativeRevenueMargin
+      )
+    })
+
     it('should correctly compute stability ratios', () => {
       // 부채비율 = (부채총계 / 자본총계) * 100 → 100
       const expectedDebtRatio = new Decimal(1_000_000)

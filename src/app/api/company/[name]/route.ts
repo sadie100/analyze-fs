@@ -10,7 +10,8 @@ export async function GET(
   { params }: { params: { name: string } }
 ) {
   try {
-    const companyName = decodeURIComponent(params.name)
+    const { name } = await params
+    const companyName = decodeURIComponent(name)
 
     // 정확한 회사명으로 검색
     let companyData = findCompanyByExactName(companyName)

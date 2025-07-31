@@ -7,7 +7,7 @@ export default async function Page({
 }: {
   searchParams: SearchParams
 }) {
-  const companyName = searchParams.company
+  const { company: companyName } = await searchParams
 
   return (
     <Suspense

@@ -52,13 +52,8 @@ function getStandardizedHeaders(headers, filePath) {
     // 손익계산서는 3개월/누적 데이터 모두 포함
     return standardHeaders
   } else if (isCashFlow) {
-    // 현금흐름표는 당기/전기 데이터만 사용
-    const cashFlowMapping = {
-      당기1분기: '당기 1분기말',
-      전기1분기: '전기말',
-      전기: '전전기말',
-    }
-    return standardHeaders.map((header) => cashFlowMapping[header] || header)
+    // 현금흐름표는 기존 헤더 유지 (매핑 제거)
+    return standardHeaders
   } else if (isEquityChange) {
     // 자본변동표는 최소 헤더만 사용
     return standardHeaders
@@ -116,16 +111,38 @@ function parseFinancialData(content, filePath) {
           values.push('')
         }
         fixedRows++
-      } else if (values.length > headers.length) {
-        values.splice(headers.length)
-        fixedRows++
       }
+      // 자본변동표의 경우 추가 컬럼들을 유지
+      // else if (values.length > headers.length) {
+      //   values.splice(headers.length)
+      //   fixedRows++
+      // }
 
       // 데이터 객체 생성
       const row = {}
       headers.forEach((header, index) => {
         row[header] = cleanValue(values[index] || '')
       })
+
+      // 자본변동표의 경우 추가 컬럼들도 포함
+      if (filePath.includes('자본변동표')) {
+        for (let i = headers.length; i < values.length; i++) {
+          row[`컬럼${i + 1}`] = cleanValue(values[i] || '')
+        }
+
+        // 자본변동표의 경우 헤더 행들을 필터링
+        // 항목코드가 비어있고 항목명이 비어있거나 특정 패턴을 가진 행들은 제외
+        if (
+          !row.항목코드 &&
+          (!row.항목명 ||
+            row.항목명.includes('[구성요소]') ||
+            row.항목명.includes('Member') ||
+            row.항목명.includes('자본 [구성요소]'))
+        ) {
+          skippedRows++
+          continue // 이 행은 건너뛰기
+        }
+      }
 
       // 데이터 유효성 검사 완화
       if (!row.회사명 && !row.항목명 && !row.종목코드) {
@@ -166,11 +183,20 @@ function parseFinancialData(content, filePath) {
         financialData['전기'] = cleanNumericValue(row['전기'])
         financialData['전전기'] = cleanNumericValue(row['전전기'])
       } else if (filePath.includes('현금흐름표')) {
-        financialData['당기 1분기말'] = cleanNumericValue(row['당기1분기'])
-        financialData['전기말'] = cleanNumericValue(row['전기1분기'])
-        financialData['전전기말'] = cleanNumericValue(row['전기'])
+        financialData['당기1분기'] = cleanNumericValue(row['당기1분기'])
+        financialData['전기1분기'] = cleanNumericValue(row['전기1분기'])
+        financialData['전기'] = cleanNumericValue(row['전기'])
+        financialData['전전기'] = cleanNumericValue(row['전전기'])
+      } else if (filePath.includes('자본변동표')) {
+        // 자본변동표는 모든 추가 컬럼을 숫자로 처리
+        Object.keys(row).forEach((key, index) => {
+          if (index >= 12) {
+            // 헤더 12개 이후의 모든 컬럼
+            financialData[`컬럼${index + 1}`] = cleanNumericValue(row[key])
+          }
+        })
       } else {
-        // 재무상태표와 자본변동표
+        // 재무상태표
         financialData['당기 1분기말'] = cleanNumericValue(row['당기 1분기말'])
         financialData['전기말'] = cleanNumericValue(row['전기말'])
         financialData['전전기말'] = cleanNumericValue(row['전전기말'])
@@ -220,16 +246,34 @@ function groupByCompany(data) {
       })
     }
 
+    // 모든 가능한 재무 필드를 포함하는 객체 생성
     const financialItem = {
       재무제표종류: item.재무제표종류,
       항목코드: item.항목코드,
       항목명: item.항목명,
+      // 손익계산서 필드
       '당기 1분기 3개월': item['당기 1분기 3개월'],
       '당기 1분기 누적': item['당기 1분기 누적'],
       '전기 1분기 3개월': item['전기 1분기 3개월'],
       '전기 1분기 누적': item['전기 1분기 누적'],
       전기: item['전기'],
       전전기: item['전전기'],
+      // 재무상태표 필드
+      '당기 1분기말': item['당기 1분기말'],
+      전기말: item['전기말'],
+      전전기말: item['전전기말'],
+      // 현금흐름표 필드
+      당기1분기: item['당기1분기'],
+      전기1분기: item['전기1분기'],
+    }
+
+    // 자본변동표의 경우 모든 추가 컬럼을 포함
+    if (item.재무제표종류 && item.재무제표종류.includes('자본변동표')) {
+      Object.keys(item).forEach((key) => {
+        if (key.startsWith('컬럼')) {
+          financialItem[key] = item[key]
+        }
+      })
     }
 
     groupedMap.get(key).재무데이터.push(financialItem)

@@ -5,7 +5,7 @@ import { SearchParams } from '@/types'
 export default async function Page({
   searchParams,
 }: {
-  searchParams: SearchParams
+  searchParams: Promise<SearchParams>
 }) {
   const { company: companyName } = await searchParams
 

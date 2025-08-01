@@ -14,11 +14,11 @@ export async function GET(
     const companyName = decodeURIComponent(name)
 
     // 정확한 회사명으로 검색
-    let companyData = findCompanyByExactName(companyName)
+    let companyData = await findCompanyByExactName(companyName)
 
     // 정확한 매치가 없으면 퍼지 검색
     if (!companyData) {
-      const searchResults = searchCompaniesByName(companyName, 5)
+      const searchResults = await searchCompaniesByName(companyName, 5)
 
       if (searchResults.length === 0) {
         return NextResponse.json(
@@ -33,7 +33,7 @@ export async function GET(
 
       // 가장 유사한 결과 사용
       const bestMatch = searchResults[0]
-      companyData = findCompanyByExactName(bestMatch)
+      companyData = await findCompanyByExactName(bestMatch)
 
       if (!companyData) {
         return NextResponse.json(
@@ -56,7 +56,7 @@ export async function GET(
     return NextResponse.json({
       success: true,
       data: analysisResult,
-      usedExactMatch: findCompanyByExactName(companyName) !== null,
+      usedExactMatch: (await findCompanyByExactName(companyName)) !== null,
     })
   } catch (error) {
     console.error('❌ API 오류:', error)

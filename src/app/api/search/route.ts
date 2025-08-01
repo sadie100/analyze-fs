@@ -21,7 +21,7 @@ export async function GET(request: NextRequest) {
           return NextResponse.json({ suggestions: [] })
         }
 
-        const suggestions = getCompanyNameSuggestions(query, limit)
+        const suggestions = await getCompanyNameSuggestions(query, limit)
         return NextResponse.json({
           suggestions,
           query,
@@ -37,7 +37,7 @@ export async function GET(request: NextRequest) {
           })
         }
 
-        const results = searchCompaniesByName(query, limit)
+        const results = await searchCompaniesByName(query, limit)
         return NextResponse.json({
           results,
           total: results.length,
@@ -46,11 +46,13 @@ export async function GET(request: NextRequest) {
 
       case 'info':
         // 데이터베이스 정보
-        const info = getDatabaseInfo()
+        const info = await getDatabaseInfo()
+        const industries = await getIndustryList()
+        const markets = await getMarketList()
         return NextResponse.json({
           database: info,
-          industries: getIndustryList(),
-          markets: getMarketList(),
+          industries,
+          markets,
         })
 
       default:

@@ -41,3 +41,5 @@ next-env.d.ts
 
 # db(너무 커서 제거함. build-database로 그때그때 돌릴것)
 */financial-database.json
+src/data/financial-database.json
+src/data/company-index.json

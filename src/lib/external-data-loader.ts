@@ -24,7 +24,7 @@ let cachedDatabase: FinancialDatabase | null = null
 let cacheExpiry: number = 0
 const CACHE_DURATION = 30 * 60 * 1000 // 30분
 
-const BLOB_STORAGE_URL = process.env.BLOB_STORAGE_URL
+const FINANCIAL_DATABASE_URL = process.env.FINANCIAL_DATABASE_URL
 
 /**
  * Vercel Blob Storage에서 재무 데이터베이스 로드
@@ -39,10 +39,10 @@ export async function loadFinancialDatabaseFromBlob(): Promise<FinancialDatabase
 
   try {
     console.log('📥 Vercel Blob Storage에서 데이터베이스 로드 중...')
-    if (!BLOB_STORAGE_URL) {
-      throw new Error('BLOB_STORAGE_URL is not set')
+    if (!FINANCIAL_DATABASE_URL) {
+      throw new Error('FINANCIAL_DATABASE_URL is not set')
     }
-    const response = await fetch(BLOB_STORAGE_URL, {
+    const response = await fetch(FINANCIAL_DATABASE_URL, {
       headers: {
         'Cache-Control': 'no-cache',
       },

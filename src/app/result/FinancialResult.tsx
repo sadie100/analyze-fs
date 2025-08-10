@@ -4,8 +4,8 @@ import React, { useEffect, useState, useCallback } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import { Input } from '@/components/ui/input'
 import GuideModal from '@/app/GuideModal'
+import SearchBar from '@/components/SearchBar'
 import {
   TrendingUp,
   Shield,
@@ -34,35 +34,15 @@ const FinancialResult: React.FC = () => {
   const initialCompany = params.get('company') || ''
 
   const [searchTerm, setSearchTerm] = useState(initialCompany)
-  const [suggestions, setSuggestions] = useState<string[]>([])
-  const [showSuggestions, setShowSuggestions] = useState(false)
   const [isLoading, setIsLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [data, setData] = useState<AnalysisResult | null>(null)
   const [usedExactMatch, setUsedExactMatch] = useState(true)
 
-  const fetchSuggestions = useCallback(async (query: string) => {
-    if (!query || query.length < 1) {
-      setSuggestions([])
-      return
-    }
-    try {
-      const response = await fetch(
-        `/api/search?q=${encodeURIComponent(query)}&type=suggestions&limit=5`
-      )
-      const result = await response.json()
-      setSuggestions(result.suggestions || [])
-    } catch (error) {
-      console.error('자동완성 오류:', error)
-      setSuggestions([])
-    }
-  }, [])
-
   const fetchCompanyData = useCallback(async (name: string) => {
     if (!name) return
     setIsLoading(true)
     setError(null)
-    setShowSuggestions(false)
     try {
       const response = await fetch(`/api/company/${encodeURIComponent(name)}`)
       const result: ApiResponse = await response.json()
@@ -84,12 +64,7 @@ const FinancialResult: React.FC = () => {
     }
   }, [])
 
-  useEffect(() => {
-    const timeoutId = setTimeout(() => {
-      fetchSuggestions(searchTerm)
-    }, 300)
-    return () => clearTimeout(timeoutId)
-  }, [searchTerm, fetchSuggestions])
+  // 자동완성은 전역 Provider 기반으로 동작하므로 네트워크 호출 없음
 
   useEffect(() => {
     if (initialCompany) {
@@ -111,16 +86,8 @@ const FinancialResult: React.FC = () => {
     [router, fetchCompanyData]
   )
 
-  const handleSuggestionClick = (suggestion: string) => {
-    setSearchTerm(suggestion)
-    setShowSuggestions(false)
-    handleSearch(suggestion)
-  }
-
   const handleKeyDown = (e: React.KeyboardEvent) => {
-    if (e.key === 'Enter') {
-      handleSearch(searchTerm)
-    }
+    if (e.key === 'Enter') handleSearch(searchTerm)
   }
 
   const getScoreColor = (score: number) => {
@@ -147,40 +114,10 @@ const FinancialResult: React.FC = () => {
                 2,664개 기업의 2025년 1분기 재무데이터를 분석합니다
               </p>
               <div className="relative max-w-md mx-auto">
-                <div className="flex gap-2">
-                  <div className="relative flex-1">
-                    <Input
-                      placeholder="회사명을 입력하세요 (예: 삼성전자, LG화학)"
-                      value={searchTerm}
-                      onChange={(e) => {
-                        setSearchTerm(e.target.value)
-                        setShowSuggestions(true)
-                      }}
-                      onKeyDown={handleKeyDown}
-                      onFocus={() => setShowSuggestions(true)}
-                    />
-                    {showSuggestions && suggestions.length > 0 && (
-                      <div className="absolute top-full left-0 right-0 mt-1 bg-white border rounded-md shadow-lg z-10 max-h-40 overflow-y-auto">
-                        {suggestions.map((suggestion, index) => (
-                          <div
-                            key={index}
-                            className="px-3 py-2 hover:bg-gray-100 cursor-pointer text-sm"
-                            onClick={() => handleSuggestionClick(suggestion)}
-                          >
-                            {suggestion}
-                          </div>
-                        ))}
-                      </div>
-                    )}
-                  </div>
-                  <Button
-                    onClick={() => handleSearch(searchTerm)}
-                    disabled={!searchTerm}
-                  >
-                    <Search className="h-4 w-4 mr-2" />
-                    분석
-                  </Button>
-                </div>
+                <SearchBar
+                  defaultValue={searchTerm}
+                  onSearch={(term) => handleSearch(term)}
+                />
               </div>
             </div>
           </CardContent>
@@ -240,38 +177,13 @@ const FinancialResult: React.FC = () => {
         <CardContent className="pt-6">
           <div className="relative">
             <div className="flex gap-2">
-              <div className="relative flex-1">
-                <Input
+              <div className="flex-1">
+                <SearchBar
+                  defaultValue={searchTerm}
+                  onSearch={(term) => handleSearch(term)}
                   placeholder="다른 회사 검색..."
-                  value={searchTerm}
-                  onChange={(e) => {
-                    setSearchTerm(e.target.value)
-                    setShowSuggestions(true)
-                  }}
-                  onKeyDown={handleKeyDown}
-                  onFocus={() => setShowSuggestions(true)}
                 />
-                {showSuggestions && suggestions.length > 0 && (
-                  <div className="absolute top-full left-0 right-0 mt-1 bg-white border rounded-md shadow-lg z-10 max-h-40 overflow-y-auto">
-                    {suggestions.map((suggestion, index) => (
-                      <div
-                        key={index}
-                        className="px-3 py-2 hover:bg-gray-100 cursor-pointer text-sm"
-                        onClick={() => handleSuggestionClick(suggestion)}
-                      >
-                        {suggestion}
-                      </div>
-                    ))}
-                  </div>
-                )}
               </div>
-              <Button
-                onClick={() => handleSearch(searchTerm)}
-                disabled={!searchTerm || isLoading}
-              >
-                <Search className="h-4 w-4 mr-2" />
-                분석
-              </Button>
               <GuideModal />
             </div>
             {!usedExactMatch && (

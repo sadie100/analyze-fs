@@ -1,10 +1,11 @@
 'use client'
 
-import React, { useState, useEffect, useCallback } from 'react'
+import React, { useState, useMemo, useCallback, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 import { Input } from '@/components/ui/input'
 import { Button } from '@/components/ui/button'
 import { Search } from 'lucide-react'
+import { useSearchIndex } from '@/app/providers/SearchIndexProvider'
 
 interface SearchBarProps {
   defaultValue?: string
@@ -22,8 +23,8 @@ const SearchBar: React.FC<SearchBarProps> = ({
   isLoading = false,
 }) => {
   const router = useRouter()
+  const { companyNames, loading } = useSearchIndex()
   const [searchTerm, setSearchTerm] = useState(defaultValue)
-  const [suggestions, setSuggestions] = useState<string[]>([])
   const [showSuggestions, setShowSuggestions] = useState(false)
 
   const triggerSearch = useCallback(
@@ -35,29 +36,15 @@ const SearchBar: React.FC<SearchBarProps> = ({
     [onSearch, router]
   )
 
-  const fetchSuggestions = useCallback(async (query: string) => {
-    if (!query || query.length < 1) {
-      setSuggestions([])
-      return
-    }
-    try {
-      const response = await fetch(
-        `/api/search?q=${encodeURIComponent(query)}&type=suggestions&limit=5`
-      )
-      const result = await response.json()
-      setSuggestions(result.suggestions || [])
-    } catch (error) {
-      console.error('자동완성 오류:', error)
-      setSuggestions([])
-    }
-  }, [])
-
-  useEffect(() => {
-    const timeoutId = setTimeout(() => {
-      fetchSuggestions(searchTerm)
-    }, 300)
-    return () => clearTimeout(timeoutId)
-  }, [searchTerm, fetchSuggestions])
+  const suggestions = useMemo(() => {
+    const q = searchTerm.trim().toLowerCase()
+    if (!q) return []
+    const starts = companyNames.filter((n) => n.toLowerCase().startsWith(q))
+    const inc = companyNames.filter(
+      (n) => n.toLowerCase().includes(q) && !n.toLowerCase().startsWith(q)
+    )
+    return [...starts, ...inc].slice(0, 5)
+  }, [companyNames, searchTerm])
 
   useEffect(() => {
     setSearchTerm(defaultValue)
@@ -77,7 +64,7 @@ const SearchBar: React.FC<SearchBarProps> = ({
           <Input
             placeholder={placeholder}
             value={searchTerm}
-            disabled={isLoading}
+            disabled={isLoading || loading}
             onChange={(e) => {
               setSearchTerm(e.target.value)
               setShowSuggestions(true)
@@ -108,7 +95,7 @@ const SearchBar: React.FC<SearchBarProps> = ({
             triggerSearch(searchTerm)
             setShowSuggestions(false)
           }}
-          disabled={!searchTerm || isLoading}
+          disabled={!searchTerm || isLoading || loading}
         >
           <Search className="h-4 w-4 mr-2" />
           {buttonLabel}

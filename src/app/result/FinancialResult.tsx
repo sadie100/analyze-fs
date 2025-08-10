@@ -1,8 +1,11 @@
 'use client'
 
-import React, { useState, useEffect, useCallback } from 'react'
-import { useRouter } from 'next/navigation'
+import React, { useEffect, useState, useCallback } from 'react'
+import { useRouter, useSearchParams } from 'next/navigation'
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
+import { Button } from '@/components/ui/button'
+import { Input } from '@/components/ui/input'
+import GuideModal from '@/app/GuideModal'
 import {
   TrendingUp,
   Shield,
@@ -12,39 +15,9 @@ import {
   AlertCircle,
   CheckCircle,
 } from 'lucide-react'
-import { Input } from '@/components/ui/input'
-import { Button } from '@/components/ui/button'
-import GuideModal from './GuideModal'
+import type { AnalysisResult } from '@/lib/financial-analyzer'
 
-// 타입 정의
-interface AnalysisResult {
-  companyName: string
-  basicInfo: {
-    종목코드: string
-    업종명: string
-    시장구분: string
-    결산기준일: string
-  }
-  extractedData: any
-  ratios: {
-    수익성: any
-    안정성: any
-    성장성: any
-    활동성: any
-  }
-  evaluation: {
-    총점: number
-    등급: 'S' | 'A' | 'B' | 'C' | 'D'
-    상태: string
-    색상: string
-    이모지: string
-    수익성점수: number
-    안정성점수: number
-    성장성점수: number
-    활동성점수: number
-  }
-  recommendations: string[]
-}
+// 타입은 lib 모듈의 공개 타입을 사용
 
 interface ApiResponse {
   success: boolean
@@ -55,28 +28,24 @@ interface ApiResponse {
   suggestions?: string[]
 }
 
-const FinancialAnalysis = ({
-  companyName = '',
-  initialData = null,
-  isLoading: externalLoading = false,
-  error: externalError = null,
-}) => {
+const FinancialResult: React.FC = () => {
   const router = useRouter()
-  const [searchTerm, setSearchTerm] = useState(companyName)
+  const params = useSearchParams()
+  const initialCompany = params.get('company') || ''
+
+  const [searchTerm, setSearchTerm] = useState(initialCompany)
   const [suggestions, setSuggestions] = useState<string[]>([])
   const [showSuggestions, setShowSuggestions] = useState(false)
-  const [isLoading, setIsLoading] = useState(externalLoading)
-  const [error, setError] = useState<string | null>(externalError)
-  const [data, setData] = useState<AnalysisResult | null>(initialData)
+  const [isLoading, setIsLoading] = useState(false)
+  const [error, setError] = useState<string | null>(null)
+  const [data, setData] = useState<AnalysisResult | null>(null)
   const [usedExactMatch, setUsedExactMatch] = useState(true)
 
-  // 자동완성 검색
   const fetchSuggestions = useCallback(async (query: string) => {
     if (!query || query.length < 1) {
       setSuggestions([])
       return
     }
-
     try {
       const response = await fetch(
         `/api/search?q=${encodeURIComponent(query)}&type=suggestions&limit=5`
@@ -89,18 +58,14 @@ const FinancialAnalysis = ({
     }
   }, [])
 
-  // 회사 분석 데이터 로드
   const fetchCompanyData = useCallback(async (name: string) => {
     if (!name) return
-
     setIsLoading(true)
     setError(null)
     setShowSuggestions(false)
-
     try {
       const response = await fetch(`/api/company/${encodeURIComponent(name)}`)
       const result: ApiResponse = await response.json()
-
       if (result.success && result.data) {
         setData(result.data)
         setUsedExactMatch(result.usedExactMatch)
@@ -119,27 +84,24 @@ const FinancialAnalysis = ({
     }
   }, [])
 
-  // 검색어 변경 시 자동완성
   useEffect(() => {
     const timeoutId = setTimeout(() => {
       fetchSuggestions(searchTerm)
     }, 300)
-
     return () => clearTimeout(timeoutId)
   }, [searchTerm, fetchSuggestions])
 
-  // 초기 회사명이 있으면 데이터 로드
   useEffect(() => {
-    if (companyName && !initialData) {
-      fetchCompanyData(companyName)
+    if (initialCompany) {
+      fetchCompanyData(initialCompany)
     }
-  }, [companyName, initialData, fetchCompanyData])
+  }, [initialCompany, fetchCompanyData])
 
   const handleSearch = useCallback(
     (term: string) => {
       if (term) {
         setSearchTerm(term)
-        router.push(`/?company=${encodeURIComponent(term)}`)
+        router.replace(`/result?company=${encodeURIComponent(term)}`)
         fetchCompanyData(term)
       } else {
         router.push('/')
@@ -161,7 +123,6 @@ const FinancialAnalysis = ({
     }
   }
 
-  // 점수에 따른 색상 반환
   const getScoreColor = (score: number) => {
     if (score >= 80) return 'text-green-600'
     if (score >= 60) return 'text-blue-600'
@@ -169,13 +130,12 @@ const FinancialAnalysis = ({
     return 'text-red-600'
   }
 
-  // 비율 표시 헬퍼
   const formatRatio = (value: number | null, suffix = '%') => {
     if (value === null) return 'N/A'
     return `${value.toFixed(1)}${suffix}`
   }
 
-  // 기본 검색 화면
+  // 기본 검색 화면으로 리디렉션 유도
   if (!data && !isLoading && !error) {
     return (
       <div className="max-w-4xl mx-auto p-4">
@@ -229,7 +189,6 @@ const FinancialAnalysis = ({
     )
   }
 
-  // 로딩 화면
   if (isLoading) {
     return (
       <div className="max-w-4xl mx-auto p-4">
@@ -248,7 +207,6 @@ const FinancialAnalysis = ({
     )
   }
 
-  // 오류 화면
   if (error) {
     return (
       <div className="max-w-4xl mx-auto p-4">
@@ -278,7 +236,6 @@ const FinancialAnalysis = ({
 
   return (
     <div className="max-w-6xl mx-auto p-4 space-y-6">
-      {/* 검색 바 */}
       <Card>
         <CardContent className="pt-6">
           <div className="relative">
@@ -327,7 +284,6 @@ const FinancialAnalysis = ({
         </CardContent>
       </Card>
 
-      {/* 종합 평가 */}
       <Card className={data.evaluation.색상}>
         <CardContent className="pt-6">
           <div className="text-center space-y-4">
@@ -403,9 +359,7 @@ const FinancialAnalysis = ({
         </CardContent>
       </Card>
 
-      {/* 상세 분석 */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {/* 수익성 지표 */}
         <Card>
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
@@ -459,7 +413,6 @@ const FinancialAnalysis = ({
           </CardContent>
         </Card>
 
-        {/* 안정성 지표 */}
         <Card>
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
@@ -503,7 +456,6 @@ const FinancialAnalysis = ({
           </CardContent>
         </Card>
 
-        {/* 성장성 지표 */}
         <Card>
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
@@ -537,7 +489,6 @@ const FinancialAnalysis = ({
           </CardContent>
         </Card>
 
-        {/* 활동성 지표 */}
         <Card>
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
@@ -572,7 +523,6 @@ const FinancialAnalysis = ({
         </Card>
       </div>
 
-      {/* 실제 재무제표 데이터 */}
       <Card>
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
@@ -585,7 +535,6 @@ const FinancialAnalysis = ({
         </CardHeader>
         <CardContent>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {/* 손익계산서 */}
             <div className="space-y-4">
               <h4 className="font-semibold text-gray-700 border-b pb-2">
                 📊 손익계산서 (단위: 백만원)
@@ -628,7 +577,6 @@ const FinancialAnalysis = ({
               </div>
             </div>
 
-            {/* 재무상태표 - 자산 */}
             <div className="space-y-4">
               <h4 className="font-semibold text-gray-700 border-b pb-2">
                 🏢 재무상태표 - 자산 (단위: 백만원)
@@ -685,7 +633,6 @@ const FinancialAnalysis = ({
               </div>
             </div>
 
-            {/* 재무상태표 - 부채와 자본 */}
             <div className="space-y-4">
               <h4 className="font-semibold text-gray-700 border-b pb-2">
                 💰 재무상태표 - 부채·자본 (단위: 백만원)
@@ -743,7 +690,6 @@ const FinancialAnalysis = ({
             </div>
           </div>
 
-          {/* 계산 공식 안내 */}
           <div className="mt-6 p-4 bg-gray-50 rounded-lg">
             <h5 className="font-semibold text-gray-700 mb-2">
               📝 주요 비율 계산 공식
@@ -764,7 +710,6 @@ const FinancialAnalysis = ({
         </CardContent>
       </Card>
 
-      {/* 추천사항 */}
       {data.recommendations.length > 0 && (
         <Card>
           <CardHeader>
@@ -792,4 +737,4 @@ const FinancialAnalysis = ({
   )
 }
 
-export default FinancialAnalysis
+export default FinancialResult

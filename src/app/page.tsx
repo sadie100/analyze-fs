@@ -1,30 +1,5 @@
-import { Suspense } from 'react'
-import FinancialAnalysis from './FinancialAnalysis'
-import { SearchParams } from '@/types'
+import SearchPage from './SearchPage'
 
-export default async function Page({
-  searchParams,
-}: {
-  searchParams: Promise<SearchParams>
-}) {
-  const { company: companyName } = await searchParams
-
-  return (
-    <Suspense
-      fallback={
-        <FinancialAnalysis
-          isLoading={true}
-          companyName=""
-          initialData={null}
-          error={null}
-        />
-      }
-    >
-      <FinancialAnalysis
-        companyName={companyName || ''}
-        initialData={null}
-        error={null}
-      />
-    </Suspense>
-  )
+export default function Page() {
+  return <SearchPage />
 }

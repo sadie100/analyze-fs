@@ -1,4 +1,3 @@
-import { NextResponse } from 'next/server'
 import { jsonWithCache, jsonError } from '@/lib/http'
 
 export async function GET() {

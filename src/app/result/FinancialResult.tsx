@@ -1,7 +1,7 @@
 'use client'
 
-import React, { useEffect, useState, useCallback } from 'react'
-import { useRouter, useSearchParams } from 'next/navigation'
+import React, { useState, useCallback } from 'react'
+import { useRouter } from 'next/navigation'
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import GuideModal from '@/app/GuideModal'
@@ -14,122 +14,40 @@ import {
   AlertCircle,
   CheckCircle,
 } from 'lucide-react'
-import { analyzeCompany } from '@/lib/financial-analyzer'
 import type { AnalysisResult } from '@/lib/financial-analyzer'
-import { FinancialDatabase } from '@/lib/external-data-loader'
-import {
-  findCompanyByExactName,
-  searchCompaniesByName,
-} from '@/lib/company-search'
 
 // 타입은 lib 모듈의 공개 타입을 사용
 
 const NO_DATA_LABEL = '데이터 없음' as const
 
-interface ApiResponse {
-  success: boolean
-  db?: FinancialDatabase
-  error?: string
-  message?: string
+interface FinancialResultProps {
+  initialCompany: string
+  data: AnalysisResult | null
+  usedExactMatch: boolean
+  error: string | null
 }
 
-const FinancialResult: React.FC = () => {
+const FinancialResult: React.FC<FinancialResultProps> = ({
+  initialCompany,
+  data,
+  usedExactMatch,
+  error,
+}: FinancialResultProps) => {
   const router = useRouter()
-  const params = useSearchParams()
-  const initialCompany = params.get('company') || ''
 
   const [searchTerm, setSearchTerm] = useState(initialCompany)
-  const [isLoading, setIsLoading] = useState(false)
-  const [error, setError] = useState<string | null>(null)
-  const [data, setData] = useState<AnalysisResult | null>(null)
-  const [usedExactMatch, setUsedExactMatch] = useState(true)
-
-  const fetchCompanyData = useCallback(async (name: string) => {
-    if (!name) return
-    setIsLoading(true)
-    setError(null)
-    let isExactMatch = true
-
-    try {
-      const response = await fetch('/api/company')
-      const result: ApiResponse = await response.json()
-
-      if (!result.success || !result.db) {
-        setError(
-          result.error || result.message || '재무 데이터를 가져올 수 없습니다'
-        )
-        setData(null)
-        return
-      }
-
-      const db = result.db
-      // 정확한 회사명으로 검색
-      let companyData = await findCompanyByExactName({ db, companyName: name })
-
-      // 정확한 매치가 없으면 퍼지 검색
-      if (!companyData) {
-        isExactMatch = false
-        const searchResults = await searchCompaniesByName({
-          db,
-          searchTerm: name,
-          limit: 5,
-        })
-
-        if (searchResults.length === 0) {
-          setError(`"${name}"와 일치하는 회사를 찾을 수 없습니다.`)
-          setData(null)
-          return
-        }
-
-        // 가장 유사한 결과 사용
-        const bestMatch = searchResults[0]
-        companyData = await findCompanyByExactName({
-          db,
-          companyName: bestMatch,
-        })
-
-        if (!companyData) {
-          setError('데이터를 로드할 수 없습니다.')
-          setData(null)
-          return
-        }
-
-        // 대체 결과 사용됨을 알림
-        console.log(`🔍 퍼지 검색 결과: "${name}" → "${bestMatch}"`)
-      }
-
-      // 재무분석 수행
-      const analysisResult = analyzeCompany(name, companyData)
-
-      setData(analysisResult)
-      setUsedExactMatch(isExactMatch)
-    } catch (error) {
-      console.error('API 호출 오류:', error)
-      setError('서버 연결에 실패했습니다')
-      setData(null)
-    } finally {
-      setIsLoading(false)
-    }
-  }, [])
-
-  useEffect(() => {
-    if (initialCompany) {
-      fetchCompanyData(initialCompany)
-    }
-  }, [initialCompany, fetchCompanyData])
+  const [isLoading] = useState(false)
 
   const handleSearch = useCallback(
     (term: string) => {
       if (term) {
         setSearchTerm(term)
         router.replace(`/result?company=${encodeURIComponent(term)}`)
-        fetchCompanyData(term)
       } else {
         router.push('/')
-        setData(null)
       }
     },
-    [router, fetchCompanyData]
+    [router]
   )
 
   const getScoreColor = (score: number) => {
@@ -197,8 +115,7 @@ const FinancialResult: React.FC = () => {
               <p className="text-red-600">{error}</p>
               <Button
                 onClick={() => {
-                  setError(null)
-                  setData(null)
+                  router.replace('/result')
                 }}
                 variant="outline"
               >

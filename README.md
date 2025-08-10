@@ -141,11 +141,3 @@ npm run build
 ```bash
 npm run type-check
 ```
-
-## 라이선스
-
-MIT License
-
-## 기여
-
-이슈 및 풀 리퀘스트를 환영합니다.

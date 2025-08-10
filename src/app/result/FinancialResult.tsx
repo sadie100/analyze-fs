@@ -19,6 +19,8 @@ import type { AnalysisResult } from '@/lib/financial-analyzer'
 
 // 타입은 lib 모듈의 공개 타입을 사용
 
+const NO_DATA_LABEL = '데이터 없음' as const
+
 interface ApiResponse {
   success: boolean
   data: AnalysisResult
@@ -98,7 +100,7 @@ const FinancialResult: React.FC = () => {
   }
 
   const formatRatio = (value: number | null, suffix = '%') => {
-    if (value === null) return 'N/A'
+    if (value === null) return NO_DATA_LABEL
     return `${value.toFixed(1)}${suffix}`
   }
 
@@ -457,7 +459,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.매출액 !== null
                       ? data.extractedData.매출액.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between">
@@ -465,7 +467,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.영업이익 !== null
                       ? data.extractedData.영업이익.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between">
@@ -473,7 +475,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.당기순이익 !== null
                       ? data.extractedData.당기순이익.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 {data.extractedData.전년매출액 !== null && (
@@ -499,7 +501,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.자산총계 !== null
                       ? data.extractedData.자산총계.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between ml-2">
@@ -507,7 +509,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.유동자산 !== null
                       ? data.extractedData.유동자산.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between ml-4 text-gray-600">
@@ -515,7 +517,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.현금및현금성자산 !== null
                       ? data.extractedData.현금및현금성자산.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between ml-4 text-gray-600">
@@ -523,7 +525,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.매출채권 !== null
                       ? data.extractedData.매출채권.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between ml-4 text-gray-600">
@@ -531,7 +533,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.재고자산 !== null
                       ? data.extractedData.재고자산.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between ml-2">
@@ -539,7 +541,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.비유동자산 !== null
                       ? data.extractedData.비유동자산.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
               </div>
@@ -555,7 +557,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.부채총계 !== null
                       ? data.extractedData.부채총계.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between ml-2">
@@ -563,7 +565,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.유동부채 !== null
                       ? data.extractedData.유동부채.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between ml-4 text-gray-600">
@@ -571,7 +573,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.단기차입금 !== null
                       ? data.extractedData.단기차입금.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between ml-2">
@@ -579,7 +581,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.비유동부채 !== null
                       ? data.extractedData.비유동부채.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between ml-4 text-gray-600">
@@ -587,7 +589,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.장기차입금 !== null
                       ? data.extractedData.장기차입금.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
                 <div className="flex justify-between font-medium mt-2 pt-2 border-t">
@@ -595,7 +597,7 @@ const FinancialResult: React.FC = () => {
                   <span className="font-mono">
                     {data.extractedData.자본총계 !== null
                       ? data.extractedData.자본총계.toLocaleString()
-                      : 'N/A'}
+                      : NO_DATA_LABEL}
                   </span>
                 </div>
               </div>

@@ -28,21 +28,28 @@ export async function loadFinancialDatabase(): Promise<FinancialDatabase> {
 /**
  * 회사명으로 정확히 검색
  */
-export async function findCompanyByExactName(
+export async function findCompanyByExactName({
+  db,
+  companyName,
+}: {
+  db: FinancialDatabase
   companyName: string
-): Promise<any | null> {
-  const db = await loadFinancialDatabase()
+}): Promise<any | null> {
   return db.companies[companyName] || null
 }
 
 /**
  * 퍼지 검색 (부분 일치)
  */
-export async function searchCompaniesByName(
-  searchTerm: string,
-  limit = 10
-): Promise<string[]> {
-  const db = await loadFinancialDatabase()
+export async function searchCompaniesByName({
+  db,
+  searchTerm,
+  limit = 10,
+}: {
+  db: FinancialDatabase
+  searchTerm: string
+  limit?: number
+}): Promise<string[]> {
   const searchLower = searchTerm.toLowerCase()
 
   // 정확한 매치 우선

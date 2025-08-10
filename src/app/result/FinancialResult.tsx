@@ -9,13 +9,18 @@ import SearchBar from '@/components/SearchBar'
 import {
   TrendingUp,
   Shield,
-  Search,
   Activity,
   BarChart3,
   AlertCircle,
   CheckCircle,
 } from 'lucide-react'
+import { analyzeCompany } from '@/lib/financial-analyzer'
 import type { AnalysisResult } from '@/lib/financial-analyzer'
+import { FinancialDatabase } from '@/lib/external-data-loader'
+import {
+  findCompanyByExactName,
+  searchCompaniesByName,
+} from '@/lib/company-search'
 
 // 타입은 lib 모듈의 공개 타입을 사용
 
@@ -23,11 +28,9 @@ const NO_DATA_LABEL = '데이터 없음' as const
 
 interface ApiResponse {
   success: boolean
-  data: AnalysisResult
-  usedExactMatch: boolean
+  db?: FinancialDatabase
   error?: string
   message?: string
-  suggestions?: string[]
 }
 
 const FinancialResult: React.FC = () => {
@@ -45,18 +48,61 @@ const FinancialResult: React.FC = () => {
     if (!name) return
     setIsLoading(true)
     setError(null)
+    let isExactMatch = true
+
     try {
-      const response = await fetch(`/api/company/${encodeURIComponent(name)}`)
+      const response = await fetch('/api/company')
       const result: ApiResponse = await response.json()
-      if (result.success && result.data) {
-        setData(result.data)
-        setUsedExactMatch(result.usedExactMatch)
-      } else {
+
+      if (!result.success || !result.db) {
         setError(
-          result.message || result.error || '분석 데이터를 가져올 수 없습니다'
+          result.error || result.message || '재무 데이터를 가져올 수 없습니다'
         )
         setData(null)
+        return
       }
+
+      const db = result.db
+      // 정확한 회사명으로 검색
+      let companyData = await findCompanyByExactName({ db, companyName: name })
+
+      // 정확한 매치가 없으면 퍼지 검색
+      if (!companyData) {
+        isExactMatch = false
+        const searchResults = await searchCompaniesByName({
+          db,
+          searchTerm: name,
+          limit: 5,
+        })
+
+        if (searchResults.length === 0) {
+          setError(`"${name}"와 일치하는 회사를 찾을 수 없습니다.`)
+          setData(null)
+          return
+        }
+
+        // 가장 유사한 결과 사용
+        const bestMatch = searchResults[0]
+        companyData = await findCompanyByExactName({
+          db,
+          companyName: bestMatch,
+        })
+
+        if (!companyData) {
+          setError('데이터를 로드할 수 없습니다.')
+          setData(null)
+          return
+        }
+
+        // 대체 결과 사용됨을 알림
+        console.log(`🔍 퍼지 검색 결과: "${name}" → "${bestMatch}"`)
+      }
+
+      // 재무분석 수행
+      const analysisResult = analyzeCompany(name, companyData)
+
+      setData(analysisResult)
+      setUsedExactMatch(isExactMatch)
     } catch (error) {
       console.error('API 호출 오류:', error)
       setError('서버 연결에 실패했습니다')
@@ -65,8 +111,6 @@ const FinancialResult: React.FC = () => {
       setIsLoading(false)
     }
   }, [])
-
-  // 자동완성은 전역 Provider 기반으로 동작하므로 네트워크 호출 없음
 
   useEffect(() => {
     if (initialCompany) {
@@ -87,10 +131,6 @@ const FinancialResult: React.FC = () => {
     },
     [router, fetchCompanyData]
   )
-
-  const handleKeyDown = (e: React.KeyboardEvent) => {
-    if (e.key === 'Enter') handleSearch(searchTerm)
-  }
 
   const getScoreColor = (score: number) => {
     if (score >= 80) return 'text-green-600'

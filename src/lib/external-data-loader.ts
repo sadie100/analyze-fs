@@ -42,11 +42,7 @@ export async function loadFinancialDatabaseFromBlob(): Promise<FinancialDatabase
     if (!FINANCIAL_DATABASE_URL) {
       throw new Error('FINANCIAL_DATABASE_URL is not set')
     }
-    const response = await fetch(FINANCIAL_DATABASE_URL, {
-      headers: {
-        'Cache-Control': 'no-cache',
-      },
-    })
+    const response = await fetch(FINANCIAL_DATABASE_URL)
 
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`)

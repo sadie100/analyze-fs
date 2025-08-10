@@ -157,7 +157,7 @@ describe('financial-analyzer helpers', () => {
 
     it('should recommend based on strong stability', () => {
       expect(recommendations).toContain(
-        '🛡️ 안정적인 재무구조를 갖고 있습니다. 적극적인 투자 기회를 모색해볼 수 있습니다.'
+        '🛡️ 안정적인 재무구조입니다. 공격적인 투자도 고려해볼 수 있습니다.'
       )
     })
 

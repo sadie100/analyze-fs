@@ -1,66 +1,35 @@
 import { NextRequest, NextResponse } from 'next/server'
-import {
-  getCompanyNameSuggestions,
-  searchCompaniesByName,
-  getDatabaseInfo,
-  getIndustryList,
-  getMarketList,
-} from '@/lib/company-search'
 
 export async function GET(request: NextRequest) {
   try {
-    const { searchParams } = new URL(request.url)
-    const query = searchParams.get('q')
-    const type = searchParams.get('type') || 'suggestions'
-    const limit = parseInt(searchParams.get('limit') || '5')
-
-    switch (type) {
-      case 'suggestions':
-        // 자동완성용 추천
-        if (!query) {
-          return NextResponse.json({ suggestions: [] })
-        }
-
-        const suggestions = await getCompanyNameSuggestions(query, limit)
-        return NextResponse.json({
-          suggestions,
-          query,
-        })
-
-      case 'search':
-        // 전체 검색
-        if (!query) {
-          return NextResponse.json({
-            results: [],
-            total: 0,
-            query: '',
-          })
-        }
-
-        const results = await searchCompaniesByName(query, limit)
-        return NextResponse.json({
-          results,
-          total: results.length,
-          query,
-        })
-
-      case 'info':
-        // 데이터베이스 정보
-        const info = await getDatabaseInfo()
-        const industries = await getIndustryList()
-        const markets = await getMarketList()
-        return NextResponse.json({
-          database: info,
-          industries,
-          markets,
-        })
-
-      default:
-        return NextResponse.json(
-          { error: '지원하지 않는 검색 타입입니다' },
-          { status: 400 }
-        )
+    const indexUrl = process.env.COMPANY_INDEX_URL
+    if (!indexUrl) {
+      return NextResponse.json(
+        { error: 'COMPANY_INDEX_URL is not configured' },
+        { status: 500 }
+      )
     }
+    const res = await fetch(indexUrl, { cache: 'no-store' })
+    if (!res.ok) {
+      return NextResponse.json(
+        { error: `Failed to fetch company index: ${res.status}` },
+        { status: 502 }
+      )
+    }
+    const payload = (await res.json()) as { companyNames?: unknown }
+    const companyNames = Array.isArray(payload.companyNames)
+      ? (payload.companyNames as unknown[]).filter(
+          (n): n is string => typeof n === 'string'
+        )
+      : []
+    // 정렬 및 중복 제거
+    const uniqueSorted = Array.from(new Set(companyNames)).sort((a, b) =>
+      a.localeCompare(b)
+    )
+    return NextResponse.json({
+      companyNames: uniqueSorted,
+      total: uniqueSorted.length,
+    })
   } catch (error) {
     console.error('❌ 검색 API 오류:', error)
 

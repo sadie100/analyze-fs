@@ -1,17 +1,18 @@
-import { NextRequest, NextResponse } from 'next/server'
+import { NextResponse } from 'next/server'
+import { jsonWithCache, jsonError } from '@/lib/http'
 
-export async function GET(request: NextRequest) {
+export async function GET() {
   try {
     const indexUrl = process.env.COMPANY_INDEX_URL
     if (!indexUrl) {
-      return NextResponse.json(
+      return jsonError(
         { error: 'COMPANY_INDEX_URL is not configured' },
         { status: 500 }
       )
     }
     const res = await fetch(indexUrl, { cache: 'no-store' })
     if (!res.ok) {
-      return NextResponse.json(
+      return jsonError(
         { error: `Failed to fetch company index: ${res.status}` },
         { status: 502 }
       )
@@ -26,14 +27,14 @@ export async function GET(request: NextRequest) {
     const uniqueSorted = Array.from(new Set(companyNames)).sort((a, b) =>
       a.localeCompare(b)
     )
-    return NextResponse.json({
+    return jsonWithCache({
       companyNames: uniqueSorted,
       total: uniqueSorted.length,
     })
   } catch (error) {
     console.error('❌ 검색 API 오류:', error)
 
-    return NextResponse.json(
+    return jsonError(
       {
         error: '검색 중 오류가 발생했습니다',
         message: error instanceof Error ? error.message : '알 수 없는 오류',

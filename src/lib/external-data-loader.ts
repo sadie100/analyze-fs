@@ -24,11 +24,7 @@ let cachedDatabase: FinancialDatabase | null = null
 let cacheExpiry: number = 0
 const CACHE_DURATION = 30 * 60 * 1000 // 30분
 
-// TODO: Vercel Blob Storage URL로 변경하세요!
-// Vercel 대시보드 → Storage → Blob → 파일 클릭 → URL 복사
-// 예: https://your-project.vercel-storage.com/financial-database.json
-const BLOB_STORAGE_URL =
-  'https://your-project.vercel-storage.com/financial-database.json'
+const BLOB_STORAGE_URL = process.env.BLOB_STORAGE_URL
 
 /**
  * Vercel Blob Storage에서 재무 데이터베이스 로드
@@ -43,7 +39,9 @@ export async function loadFinancialDatabaseFromBlob(): Promise<FinancialDatabase
 
   try {
     console.log('📥 Vercel Blob Storage에서 데이터베이스 로드 중...')
-
+    if (!BLOB_STORAGE_URL) {
+      throw new Error('BLOB_STORAGE_URL is not set')
+    }
     const response = await fetch(BLOB_STORAGE_URL, {
       headers: {
         'Cache-Control': 'no-cache',

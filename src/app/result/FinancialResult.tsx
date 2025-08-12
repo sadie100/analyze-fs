@@ -4,7 +4,7 @@ import React, { useState, useCallback } from 'react'
 import { useRouter } from 'next/navigation'
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import GuideModal from '@/components/GuideModal'
+import InfoPopover from '@/components/InfoPopover'
 import SearchBar from '@/components/SearchBar'
 import {
   TrendingUp,
@@ -143,7 +143,6 @@ const FinancialResult: React.FC<FinancialResultProps> = ({
                   placeholder="다른 회사 검색..."
                 />
               </div>
-              <GuideModal />
             </div>
             {!usedExactMatch && (
               <div className="mt-2 text-sm text-blue-600 flex items-center gap-1">
@@ -236,6 +235,28 @@ const FinancialResult: React.FC<FinancialResultProps> = ({
             <CardTitle className="flex items-center gap-2">
               <TrendingUp className="h-5 w-5 text-green-600" />
               수익성 지표
+              <InfoPopover ariaLabel="수익성 지표 설명">
+                <div className="space-y-2">
+                  <p className="text-gray-600">
+                    본업의 수익 창출력과 자본 효율성을 보여줍니다. 높을수록
+                    좋습니다.
+                  </p>
+                  <div className="font-semibold pt-1">계산식</div>
+                  <ul className="list-disc pl-5 space-y-1">
+                    <li>영업이익률 = (영업이익 ÷ 매출액) × 100</li>
+                    <li>순이익률 = (당기순이익 ÷ 매출액) × 100</li>
+                    <li>ROA = (당기순이익 ÷ 자산총계) × 100</li>
+                    <li>ROE = (당기순이익 ÷ 자본총계) × 100</li>
+                  </ul>
+                  <div className="font-semibold pt-1">가이드라인</div>
+                  <ul className="list-disc pl-5 space-y-1">
+                    <li>영업이익률: 10%+ 양호, 15%+ 매우 우수</li>
+                    <li>순이익률: 7%+ 양호, 10%+ 매우 우수</li>
+                    <li>ROA: 7%+ 양호, 10%+ 매우 우수</li>
+                    <li>ROE: 10%+ 양호, 15%+ 매우 우수</li>
+                  </ul>
+                </div>
+              </InfoPopover>
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
@@ -289,6 +310,26 @@ const FinancialResult: React.FC<FinancialResultProps> = ({
             <CardTitle className="flex items-center gap-2">
               <Shield className="h-5 w-5 text-blue-600" />
               안정성 지표
+              <InfoPopover ariaLabel="안정성 지표 설명">
+                <div className="space-y-2">
+                  <p className="text-gray-600">
+                    부채와 유동성 관점에서 재무구조의 안전도를 봅니다. 일부
+                    항목은 낮을수록 좋습니다.
+                  </p>
+                  <div className="font-semibold pt-1">계산식</div>
+                  <ul className="list-disc pl-5 space-y-1">
+                    <li>부채비율 = (부채총계 ÷ 자본총계) × 100</li>
+                    <li>유동비율 = (유동자산 ÷ 유동부채) × 100</li>
+                    <li>자기자본비율 = (자본총계 ÷ 자산총계) × 100</li>
+                  </ul>
+                  <div className="font-semibold pt-1">가이드라인</div>
+                  <ul className="list-disc pl-5 space-y-1">
+                    <li>부채비율: 낮을수록 좋음 (≤ 50% 우수, ≤ 100% 양호)</li>
+                    <li>유동비율: 150%+ 양호, 200%+ 매우 우수</li>
+                    <li>자기자본비율: 40%+ 양호, 60%+ 매우 우수</li>
+                  </ul>
+                </div>
+              </InfoPopover>
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
@@ -332,6 +373,29 @@ const FinancialResult: React.FC<FinancialResultProps> = ({
             <CardTitle className="flex items-center gap-2">
               <BarChart3 className="h-5 w-5 text-purple-600" />
               성장성 지표
+              <InfoPopover ariaLabel="성장성 지표 설명">
+                <div className="space-y-2">
+                  <p className="text-gray-600">
+                    매출과 이익의 성장 속도를 보여줍니다. 높을수록 좋습니다.
+                  </p>
+                  <div className="font-semibold pt-1">계산식</div>
+                  <ul className="list-disc pl-5 space-y-1">
+                    <li>
+                      매출액 증가율 = ((당해 매출액 − 전년 매출액) ÷ 전년
+                      매출액) × 100
+                    </li>
+                    <li>
+                      영업이익 증가율 = ((당해 영업이익 − 전년 영업이익) ÷ 전년
+                      영업이익) × 100
+                    </li>
+                  </ul>
+                  <div className="font-semibold pt-1">가이드라인</div>
+                  <ul className="list-disc pl-5 space-y-1">
+                    <li>매출액 증가율: 10%+ 양호, 20%+ 매우 우수</li>
+                    <li>영업이익 증가율: 15%+ 양호, 30%+ 매우 우수</li>
+                  </ul>
+                </div>
+              </InfoPopover>
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
@@ -365,6 +429,24 @@ const FinancialResult: React.FC<FinancialResultProps> = ({
             <CardTitle className="flex items-center gap-2">
               <Activity className="h-5 w-5 text-orange-600" />
               활동성 지표
+              <InfoPopover ariaLabel="활동성 지표 설명">
+                <div className="space-y-2">
+                  <p className="text-gray-600">
+                    보유 자산과 재고를 매출로 얼마나 효율적으로 전환하는지
+                    보여줍니다. 높을수록 좋습니다.
+                  </p>
+                  <div className="font-semibold pt-1">계산식</div>
+                  <ul className="list-disc pl-5 space-y-1">
+                    <li>총자산회전율 = (매출액 ÷ 자산총계)</li>
+                    <li>재고자산회전율 = (매출액 ÷ 재고자산)</li>
+                  </ul>
+                  <div className="font-semibold pt-1">가이드라인</div>
+                  <ul className="list-disc pl-5 space-y-1">
+                    <li>총자산회전율: 1.0+ 양호, 1.5+ 매우 우수</li>
+                    <li>재고자산회전율: 8회+ 양호, 12회+ 매우 우수</li>
+                  </ul>
+                </div>
+              </InfoPopover>
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">

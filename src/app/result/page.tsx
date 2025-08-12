@@ -6,12 +6,12 @@ import {
 } from '@/lib/company-search'
 import { analyzeCompany, type AnalysisResult } from '@/lib/financial-analyzer'
 
-interface PageProps {
-  searchParams?: { [key: string]: string | string[] | undefined }
-}
-
-export default async function Page({ searchParams }: PageProps) {
-  const companyParam = searchParams?.company
+export default async function Page({
+  searchParams,
+}: {
+  searchParams: Promise<{ company: string }>
+}) {
+  const { company: companyParam } = await searchParams
   const company = typeof companyParam === 'string' ? companyParam : ''
 
   let data: AnalysisResult | null = null

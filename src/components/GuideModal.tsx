@@ -1,14 +1,14 @@
-import React from "react";
+import React from 'react'
 import {
   Dialog,
   DialogContent,
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "@/components/ui/dialog";
-import { Button } from "@/components/ui/button";
-import { HelpCircle } from "lucide-react";
-import ResponsiveFinancialGuide from "./ResponsiveFinancialGuide";
+} from '@/components/ui/dialog'
+import { Button } from '@/components/ui/button'
+import { HelpCircle } from 'lucide-react'
+import ResponsiveFinancialGuide from './ResponsiveFinancialGuide'
 
 const GuideModal = () => {
   return (
@@ -26,7 +26,7 @@ const GuideModal = () => {
         <ResponsiveFinancialGuide />
       </DialogContent>
     </Dialog>
-  );
-};
+  )
+}
 
-export default GuideModal;
+export default GuideModal

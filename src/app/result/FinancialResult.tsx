@@ -4,7 +4,7 @@ import React, { useState, useCallback } from 'react'
 import { useRouter } from 'next/navigation'
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import GuideModal from '@/app/GuideModal'
+import GuideModal from '@/components/GuideModal'
 import SearchBar from '@/components/SearchBar'
 import {
   TrendingUp,

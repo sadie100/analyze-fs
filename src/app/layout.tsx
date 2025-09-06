@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import localFont from 'next/font/local'
 import './globals.css'
 import { SearchIndexProvider } from './providers/SearchIndexProvider'
+import Script from 'next/script'
 
 const geistSans = localFont({
   src: './fonts/GeistVF.woff',
@@ -57,6 +58,17 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <SearchIndexProvider>{children}</SearchIndexProvider>
+        <Script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-1L06CC0FWS"
+        ></Script>
+        <Script>
+          {`window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1L06CC0FWS');`}
+        </Script>
       </body>
     </html>
   )

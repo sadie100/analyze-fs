@@ -59,10 +59,11 @@ export default function RootLayout({
       >
         <SearchIndexProvider>{children}</SearchIndexProvider>
         <Script
+          id="google-analytics"
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-1L06CC0FWS"
         ></Script>
-        <Script>
+        <Script id="google-analytics-script">
           {`window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());

@@ -7,33 +7,34 @@ const {
 } = require('fs')
 const { join } = require('path')
 
-// 항목명 매핑 테이블 (필요한 18개 항목만 추출)
-const ITEM_MAPPING = {
-  매출액: [
-    '매출액',
-    '매출',
-    '수익(매출액)',
-    '영업수익',
-    'I. 매출액',
-    'Ⅰ. 매출액',
-    'Ⅰ.매출액',
-    '총매출액',
-    '순매출액',
+// 항목코드 매핑 테이블 (필요한 18개 항목만 추출)
+// 항목명이 아닌 항목코드를 사용하여 더 정확한 매칭 보장
+const ITEM_CODE_MAPPING = {
+  매출액: ['ifrs-full_Revenue'],
+  영업이익: [
+    'dart_OperatingIncomeLoss',
+    'ifrs-full_ProfitLossFromOperatingActivities',
   ],
-  영업이익: ['영업이익', '영업이익(손실)', '영업손익', '영업손익(손실)'],
-  당기순이익: ['당기순이익', '당기순이익(손실)', '분기순이익'],
-  자산총계: ['자산총계'],
-  유동자산: ['유동자산'],
-  비유동자산: ['비유동자산'],
-  부채총계: ['부채총계'],
-  유동부채: ['유동부채'],
-  비유동부채: ['비유동부채'],
-  자본총계: ['자본총계', '자기자본'],
-  현금및현금성자산: ['현금및현금성자산', '현금 및 현금성자산'],
-  매출채권: ['매출채권', '매출채권 및 기타채권'],
-  재고자산: ['재고자산', '재고'],
-  단기차입금: ['단기차입금'],
-  장기차입금: ['장기차입금'],
+  당기순이익: ['ifrs-full_ProfitLoss'],
+  자산총계: ['ifrs-full_Assets'],
+  유동자산: ['ifrs-full_CurrentAssets'],
+  비유동자산: ['ifrs-full_NoncurrentAssets'],
+  부채총계: ['ifrs-full_Liabilities'],
+  유동부채: ['ifrs-full_CurrentLiabilities'],
+  비유동부채: ['ifrs-full_NoncurrentLiabilities'],
+  자본총계: ['ifrs-full_Equity'],
+  현금및현금성자산: ['ifrs-full_CashAndCashEquivalents'],
+  매출채권: ['ifrs-full_CurrentTradeReceivables'],
+  재고자산: ['ifrs-full_Inventories'],
+  단기차입금: [
+    'ifrs-full_ShorttermBorrowings',
+    'ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived',
+  ],
+  장기차입금: [
+    'ifrs-full_LongtermBorrowings',
+    'ifrs-full_NoncurrentPortionOfNoncurrentLoansReceived',
+    'dart_LongTermBorrowingsGross',
+  ],
 }
 
 /**
@@ -89,9 +90,9 @@ function extractEssentialFinancialData(company) {
         previousValue = item['전기말']
       }
 
-      Object.entries(ITEM_MAPPING).forEach(([key, searchTerms]) => {
-        searchTerms.forEach((term) => {
-          if (item.항목명 === term) {
+      Object.entries(ITEM_CODE_MAPPING).forEach(([key, itemCodes]) => {
+        itemCodes.forEach((code) => {
+          if (item.항목코드 === code) {
             if (result[key] === null && currentValue !== null) {
               result[key] = currentValue
 
@@ -344,9 +345,10 @@ async function buildFinancialDatabase() {
         totalFiles: processedFiles,
         industries: Object.keys(searchIndex.industryMap).length,
         markets: Object.keys(searchIndex.marketMap).length,
-        version: '1.0.0-optimized',
+        version: '2.0.0-itemcode-based',
         optimizedFor: 'financial-analysis-18-items',
-        extractedItems: Object.keys(ITEM_MAPPING).length + 3, // 15개 + 3개 전년 데이터
+        extractionMethod: 'item-code-based',
+        extractedItems: Object.keys(ITEM_CODE_MAPPING).length + 3, // 15개 + 3개 전년 데이터
       },
       companies: cleanedCompanies,
       searchIndex,

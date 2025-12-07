@@ -11,6 +11,8 @@
    ↓ (build-database.js)
 3. 통합 DB (src/data/financial-database.json)
    └─ 검색 인덱스 (src/data/company-index.json)
+   ↓ (upload-to-blob.js)
+4. Vercel Blob Storage (프로덕션 배포용)
 ```
 
 ## 🗂️ 프로젝트 구조
@@ -34,6 +36,7 @@ src/
     ├── txt-to-json-converter.js # TXT → JSON 변환기 (개별 파일 변환)
     ├── convert-all.js           # raw 전체 일괄 변환기
     ├── build-database.js        # processed → 통합 DB 생성기
+    ├── upload-to-blob.js        # Vercel Blob Storage 업로드
     ├── convert-encoding.js      # EUC-KR → UTF-8 변환 도우미(선택)
     ├── extract-company.js       # 대용량 JSON에서 특정 회사 추출(선택)
     └── check-items.js           # 샘플 회사 데이터 점검(선택)
@@ -88,6 +91,248 @@ node build-database.js
 - `src/data/company-index.json` — 회사/업종/시장 인덱스
 
 메타데이터에는 빌드 일시, 파일 수, 회사 수, 업종/시장 카운트, 버전, 추출 항목 수가 포함됩니다.
+
+### 3단계: Vercel Blob Storage 완전 자동 업로드
+
+생성된 데이터베이스 파일을 Vercel Blob Storage에 업로드하고, 환경 변수 업데이트 및 재배포까지 **완전 자동화**됩니다.
+
+#### 사전 준비 (최초 1회만)
+
+**1. Vercel CLI 설치**
+
+```bash
+pnpm add -g vercel
+```
+
+**2. Vercel 로그인**
+
+```bash
+vercel login
+```
+
+이메일 주소 입력 후 인증 메일에서 "Verify" 클릭
+
+**3. 프로젝트 연결**
+
+```bash
+cd /Users/sadie/dev/projects/analyze-fs
+vercel link
+```
+
+대화형으로 진행:
+
+- "Link to existing project?" → **Y** 선택
+- 프로젝트 이름 입력 (예: `analyze-fs`)
+
+**4. Blob Storage 토큰 설정**
+
+1. [Vercel 대시보드](https://vercel.com/dashboard) 접속
+2. 프로젝트 선택 → **Settings** → **Environment Variables**
+3. `BLOB_READ_WRITE_TOKEN` 토큰 찾아서 복사
+4. 프로젝트 루트의 `.env` 파일에 추가:
+
+```bash
+BLOB_READ_WRITE_TOKEN=vercel_blob_rw_xxxxxxxxxxxxx
+```
+
+#### 자동 업로드 실행
+
+**권장: 통합 명령**
+
+데이터베이스 빌드부터 Vercel 재배포까지 한 번에:
+
+```bash
+pnpm run update-db
+```
+
+**개별 실행**
+
+```bash
+# 1. 데이터베이스 빌드만
+pnpm run build-db
+
+# 2. 자동 업로드 (환경 변수 업데이트 + 재배포 포함)
+pnpm run upload-db
+```
+
+#### 자동화된 작업 내역
+
+`pnpm run upload-db` 실행 시 다음 작업이 **자동으로** 진행됩니다:
+
+1. ✅ **Vercel CLI 환경 체크**
+
+   - CLI 설치 확인
+   - 로그인 상태 확인
+   - 프로젝트 연결 확인
+
+2. ✅ **기존 blob 파일 조회**
+
+   - 이전에 업로드된 파일 목록 수집 (삭제 안내용)
+
+3. ✅ **새 파일 업로드**
+
+   - `addRandomSuffix: true`로 업로드 (캐싱 문제 해결)
+   - 파일명 예: `financial-database-abc123.json`
+
+4. ✅ **Vercel 환경 변수 자동 업데이트**
+
+   - 기존 환경 변수 삭제
+   - 새 URL로 환경 변수 추가 (production)
+   - `FINANCIAL_DATABASE_URL`, `COMPANY_INDEX_URL`
+
+5. ✅ **로컬 .env 파일 자동 업데이트**
+
+   - 로컬 개발 환경도 자동으로 동기화
+
+#### 수동 작업 안내
+
+스크립트 완료 후 다음 작업을 **수동으로** 진행해야 합니다:
+
+1. 📌 **Vercel 재배포** (필수)
+
+   ```bash
+   vercel --prod
+   ```
+
+   - 환경 변수 변경사항 적용
+   - 새 데이터베이스 URL로 서비스 시작
+
+2. 🗑️ **이전 blob 파일 삭제** (권장)
+   - 스크립트 완료 시 삭제할 파일 목록과 명령어가 출력됩니다
+   - 재배포 완료 후 안전하게 삭제하세요
+   - 스토리지 비용 절약
+
+#### 실행 로그 예시
+
+```
+🚀 Vercel Blob Storage 완전 자동 업로드 시작...
+
+🔍 Vercel CLI 환경 체크 중...
+   ✅ Vercel CLI 설치됨: Vercel CLI 33.0.0
+   ✅ Vercel 로그인됨: your-username
+   ✅ Vercel 프로젝트 연결됨
+
+📋 기존 blob 파일 조회 중...
+   ✅ 기존 파일 2개 발견
+      - financial-database-old123.json
+      - company-index-old456.json
+
+📤 파일 업로드 중...
+📄 재무 데이터베이스
+   파일: /path/to/financial-database.json
+   크기: 15.23 MB
+   ✅ 업로드 성공!
+   URL: https://xxxxx.blob.vercel-storage.com/financial-database-abc123.json
+
+📄 회사 검색 인덱스
+   파일: /path/to/company-index.json
+   크기: 0.25 MB
+   ✅ 업로드 성공!
+   URL: https://xxxxx.blob.vercel-storage.com/company-index-def456.json
+
+🔧 Vercel 환경 변수 업데이트 중...
+   🔄 Vercel 환경 변수 업데이트: FINANCIAL_DATABASE_URL
+      ✓ 기존 환경 변수 삭제됨
+      ✓ 새 환경 변수 추가됨
+   🔄 Vercel 환경 변수 업데이트: COMPANY_INDEX_URL
+      ✓ 기존 환경 변수 삭제됨
+      ✓ 새 환경 변수 추가됨
+
+📝 로컬 .env 파일 업데이트 중...
+   🔄 로컬 .env 파일 업데이트: FINANCIAL_DATABASE_URL
+      ✓ 기존 값 업데이트됨
+   🔄 로컬 .env 파일 업데이트: COMPANY_INDEX_URL
+      ✓ 기존 값 업데이트됨
+
+🗑️  이전 blob 파일 삭제 중...
+   ✅ 삭제됨: financial-database-old123.json
+   ✅ 삭제됨: company-index-old456.json
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ 모든 작업 완료!
+
+📋 업로드된 파일:
+재무 데이터베이스:
+  환경 변수: FINANCIAL_DATABASE_URL
+  URL: https://xxxxx.blob.vercel-storage.com/financial-database-abc123.json
+  크기: 15.23 MB
+
+회사 검색 인덱스:
+  환경 변수: COMPANY_INDEX_URL
+  URL: https://xxxxx.blob.vercel-storage.com/company-index-def456.json
+  크기: 0.25 MB
+
+✅ 완료된 작업:
+  1. ✓ Blob Storage 업로드 (addRandomSuffix로 캐싱 문제 해결)
+  2. ✓ Vercel 환경 변수 업데이트 (production)
+  3. ✓ 로컬 .env 파일 업데이트
+
+📌 다음 단계:
+  1. Vercel 재배포하여 환경 변수 변경사항 적용:
+     vercel --prod
+
+  2. 이전 blob 파일 2개 삭제 (스토리지 절약):
+     - financial-database-old123.json
+     - company-index-old456.json
+
+     삭제 명령어:
+     vercel blob rm https://...old123.json https://...old456.json
+
+💡 참고:
+  - 재배포 전까지는 이전 URL로 계속 서비스됩니다
+  - 이전 blob 파일은 수동으로 삭제해주세요
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+#### 트러블슈팅
+
+**Vercel CLI가 설치되지 않았습니다**
+
+```bash
+pnpm add -g vercel
+```
+
+**Vercel에 로그인되지 않았습니다**
+
+```bash
+vercel login
+```
+
+**Vercel 프로젝트가 연결되지 않았습니다**
+
+```bash
+vercel link
+```
+
+**BLOB_READ_WRITE_TOKEN 오류**
+
+- Vercel 대시보드 → Settings → Environment Variables에서 토큰 확인
+- `.env` 파일에 올바르게 추가했는지 확인
+
+**수동 재배포 필요**
+
+- 스크립트는 환경 변수만 업데이트합니다
+- 실제 적용을 위해 재배포 필요: `vercel --prod`
+- 진행 상황: [Vercel 대시보드](https://vercel.com/dashboard) → 프로젝트 → Deployments
+
+#### 주요 특징
+
+**캐싱 문제 해결**
+
+- `addRandomSuffix: true` 사용으로 매번 새 파일명 생성
+- 브라우저 캐시에 의한 오래된 데이터 제공 방지
+
+**스토리지 절약**
+
+- 이전 blob 파일 목록 자동 표시
+- 삭제 명령어 자동 생성
+- 수동 삭제로 안전성 확보
+
+**자동화 범위**
+
+- 파일 업로드 및 환경 변수 업데이트 자동화
+- 재배포와 blob 삭제는 수동으로 진행 (안정성 확보)
+- ESLint 오류 등 빌드 문제로 인한 배포 실패 방지
 
 ## 📊 입력/출력 형식
 
@@ -157,6 +402,13 @@ node build-database.js
 - `src/data/processed/*/*.json` 병합 → `src/data/financial-database.json` 및 `src/data/company-index.json` 생성
 - 회사 기본정보/핵심 재무 18개 항목만 정제하여 저장, 메타데이터 포함
 
+### upload-to-blob.js
+
+- `src/data/financial-database.json` 및 `src/data/company-index.json`을 Vercel Blob Storage에 업로드
+- 공식 `@vercel/blob` SDK 사용
+- 업로드 성공 시 공개 URL 반환
+- 필수 환경 변수: `BLOB_READ_WRITE_TOKEN`
+
 ### convert-encoding.js (선택)
 
 - `src/data/raw` 하위를 재귀 순회하며 EUC-KR → UTF-8로 인코딩 변환
@@ -192,7 +444,11 @@ node build-database.js
 ## ⚙️ 요구사항
 
 - Node.js 16+ 권장
-- 의존성: `decimal.js`, `iconv-lite`
+- 의존성: `decimal.js`, `iconv-lite`, `@vercel/blob` (Blob Storage 업로드 시)
+- 환경 변수 (프로덕션 배포 시):
+  - `BLOB_READ_WRITE_TOKEN`: Vercel Blob Storage 업로드용 토큰
+  - `FINANCIAL_DATABASE_URL`: Blob Storage에 저장된 데이터베이스 URL
+  - `COMPANY_INDEX_URL`: Blob Storage에 저장된 검색 인덱스 URL
 
 ## ❗ 주의사항
 

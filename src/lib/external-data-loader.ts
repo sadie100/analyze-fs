@@ -1,4 +1,7 @@
-// Vercel Blob Storage에서 JSON 데이터를 가져오는 로더
+// Vercel Blob Storage 또는 로컬 파일에서 JSON 데이터를 가져오는 로더
+import fs from 'fs'
+import path from 'path'
+
 interface DatabaseMetadata {
   buildDate: string
   totalCompanies: number
@@ -27,7 +30,7 @@ const CACHE_DURATION = 30 * 60 * 1000 // 30분
 const FINANCIAL_DATABASE_URL = process.env.FINANCIAL_DATABASE_URL
 
 /**
- * Vercel Blob Storage에서 재무 데이터베이스 로드
+ * 로컬 파일 또는 Vercel Blob Storage에서 재무 데이터베이스 로드
  */
 export async function loadFinancialDatabaseFromBlob(): Promise<FinancialDatabase> {
   const now = Date.now()
@@ -38,29 +41,43 @@ export async function loadFinancialDatabaseFromBlob(): Promise<FinancialDatabase
   }
 
   try {
-    console.log('📥 Vercel Blob Storage에서 데이터베이스 로드 중...')
-    if (!FINANCIAL_DATABASE_URL) {
-      throw new Error('FINANCIAL_DATABASE_URL is not set')
-    }
-    const response = await fetch(FINANCIAL_DATABASE_URL)
+    const isLocal = process.env.USE_LOCAL_DATABASE === 'true'
+    let data: FinancialDatabase
 
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`)
+    if (isLocal) {
+      // 로컬 파일 읽기
+      console.log('📁 로컬 파일에서 데이터베이스 로드 중...')
+      const filePath = path.join(
+        process.cwd(),
+        'src/data/financial-database.json'
+      )
+      const fileContent = fs.readFileSync(filePath, 'utf-8')
+      data = JSON.parse(fileContent) as FinancialDatabase
+      console.log('📁 로컬 파일에서 로드 완료')
+    } else {
+      // 기존 fetch 방식
+      console.log('🌐 원격 URL에서 데이터베이스 로드 중...')
+      if (!FINANCIAL_DATABASE_URL) {
+        throw new Error('FINANCIAL_DATABASE_URL is not set')
+      }
+      const response = await fetch(FINANCIAL_DATABASE_URL)
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`)
+      }
+      data = (await response.json()) as FinancialDatabase
+      console.log('🌐 원격 URL에서 로드 완료')
     }
-
-    const data = (await response.json()) as FinancialDatabase
 
     // 캐시 업데이트
     cachedDatabase = data
     cacheExpiry = now + CACHE_DURATION
-
     console.log(
-      `📊 Blob Storage 데이터베이스 로드 완료: ${data.metadata.totalCompanies}개 회사`
+      `📊 데이터베이스 로드 완료: ${data.metadata.totalCompanies}개 회사`
     )
 
     return data
   } catch (error) {
-    console.error('❌ Blob Storage 데이터베이스 로드 실패:', error)
+    console.error('❌ 데이터베이스 로드 실패:', error)
 
     // 캐시된 데이터가 있으면 임시로 사용
     if (cachedDatabase) {

@@ -10,7 +10,10 @@ const { join } = require('path')
 // 항목코드 매핑 테이블 (필요한 18개 항목만 추출)
 // 항목명이 아닌 항목코드를 사용하여 더 정확한 매칭 보장
 const ITEM_CODE_MAPPING = {
-  매출액: ['ifrs-full_Revenue'],
+  매출액: ['ifrs-full_Revenue', 
+    // 서비스업이나 지주사 기업일 경우, 매출원가라는 개념이 없어 매출액(Revenue)이 곧 매출총이익(GrossProfit)으로 처리해
+    // 매출액 데이터가 없는 경우가 있다함. 이 경우 GrossProfit(매출총이익)으로 대체
+    'ifrs-full_GrossProfit'],
   영업이익: [
     'dart_OperatingIncomeLoss',
     'ifrs-full_ProfitLossFromOperatingActivities',

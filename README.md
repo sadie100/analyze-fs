@@ -21,16 +21,12 @@
 ### 1. 의존성 설치
 
 ```bash
-npm install
-# 또는
 pnpm install
 ```
 
 ### 2. 개발 서버 실행
 
 ```bash
-npm run dev
-# 또는
 pnpm dev
 ```
 
@@ -133,11 +129,11 @@ src/
 ### 빌드
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 ### 타입 체크
 
 ```bash
-npm run type-check
+pnpm run type-check
 ```

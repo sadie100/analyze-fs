@@ -10,10 +10,13 @@ const { join } = require('path')
 // 항목코드 매핑 테이블 (필요한 18개 항목만 추출)
 // 항목명이 아닌 항목코드를 사용하여 더 정확한 매칭 보장
 const ITEM_CODE_MAPPING = {
-  매출액: ['ifrs-full_Revenue', 
+  매출액: [
+    'ifrs-full_Revenue',
     // 서비스업이나 지주사 기업일 경우, 매출원가라는 개념이 없어 매출액(Revenue)이 곧 매출총이익(GrossProfit)으로 처리해
     // 매출액 데이터가 없는 경우가 있다함. 이 경우 GrossProfit(매출총이익)으로 대체
-    'ifrs-full_GrossProfit'],
+    'ifrs-full_GrossProfit',
+  ],
+  매출원가: ['ifrs-full_CostOfSales'],
   영업이익: [
     'dart_OperatingIncomeLoss',
     'ifrs-full_ProfitLossFromOperatingActivities',
@@ -45,8 +48,9 @@ const ITEM_CODE_MAPPING = {
  */
 function extractEssentialFinancialData(company) {
   const result = {
-    // 손익계산서 항목 (3개)
+    // 손익계산서 항목 (4개)
     매출액: null,
+    매출원가: null,
     영업이익: null,
     당기순이익: null,
     // 재무상태표 항목 (12개)
@@ -196,6 +200,7 @@ async function buildFinancialDatabase() {
                 financialData: {
                   // 필수 18개 항목 초기화
                   매출액: null,
+                  매출원가: null,
                   영업이익: null,
                   당기순이익: null,
                   자산총계: null,

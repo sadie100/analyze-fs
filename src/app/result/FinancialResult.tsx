@@ -65,7 +65,6 @@ const GuidelineBox: React.FC<GuidelineBoxProps> = ({
   )
 }
 
-
 const FinancialResult: React.FC<FinancialResultProps> = ({
   initialCompany,
   data,
@@ -412,8 +411,8 @@ const FinancialResult: React.FC<FinancialResultProps> = ({
                 <div className="font-semibold pt-1">계산식</div>
                 <ul className="list-disc pl-5 space-y-1">
                   <li>
-                    매출액 증가율 = ((당해 매출액 − 전년 매출액) ÷ 전년 매출액) ×
-                    100
+                    매출액 증가율 = ((당해 매출액 − 전년 매출액) ÷ 전년 매출액)
+                    × 100
                   </li>
                   <li>
                     영업이익 증가율 = ((당해 영업이익 − 전년 영업이익) ÷ 전년
@@ -465,7 +464,7 @@ const FinancialResult: React.FC<FinancialResultProps> = ({
                 <div className="font-semibold pt-1">계산식</div>
                 <ul className="list-disc pl-5 space-y-1">
                   <li>총자산회전율 = (매출액 ÷ 자산총계)</li>
-                  <li>재고자산회전율 = (매출액 ÷ 재고자산)</li>
+                  <li>재고자산회전율 = (매출원가 ÷ 재고자산)</li>
                 </ul>
                 <div className="font-semibold pt-1">가이드라인</div>
                 <ul className="list-disc pl-5 space-y-1">

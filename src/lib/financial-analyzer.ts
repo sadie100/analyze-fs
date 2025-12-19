@@ -53,6 +53,7 @@ export interface CompanyData {
 export interface ExtractedFinancialData {
   // 손익계산서
   매출액: number | null
+  매출원가: number | null
   영업이익: number | null
   당기순이익: number | null
 
@@ -139,6 +140,7 @@ function extractFinancialData(
   // Optimized 구조라면 그대로 반환 (null 보강)
   const base: ExtractedFinancialData = {
     매출액: null,
+    매출원가: null,
     영업이익: null,
     당기순이익: null,
     자산총계: null,
@@ -237,9 +239,9 @@ function calculateRatios(data: ExtractedFinancialData): FinancialRatios {
   if (data.자산총계 && data.자산총계 > 0 && 매출 !== null)
     ratios.활동성.총자산회전율 =
       safeDiv(매출, data.자산총계)?.toNumber() ?? null
-  if (data.재고자산 && data.재고자산 > 0 && 매출 !== null)
+  if (data.재고자산 && data.재고자산 > 0 && data.매출원가 !== null)
     ratios.활동성.재고자산회전율 =
-      safeDiv(매출, data.재고자산)?.toNumber() ?? null
+      safeDiv(data.매출원가, data.재고자산)?.toNumber() ?? null
 
   return ratios
 }

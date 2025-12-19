@@ -94,7 +94,6 @@ src/
 │   ├── financial-converter-flexible.js  # 재무제표 변환기
 │   ├── 재무상태표.json    # 변환된 재무 데이터
 │   ├── 은행_재무데이터_최종.json  # 은행업 데이터
-│   ├── CORPCODE.xml       # 회사 코드 데이터
 │   └── *.txt             # 원본 재무제표 파일들
 └── types.ts              # 타입 정의
 ```
